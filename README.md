@@ -28,7 +28,7 @@
 |      Eric Marlon Olivera Barzola      |              U202315032               |
 |     Victor Manuel Rojas Reategui      |              U202123655               |                                
 |     Geronimo Quispe Pablo Antonio     |              U202314304               |
-
+|    Jose Jhonatan Saavedra Angulo      |              u20191C464               |
 </div>
 
 <div align="center"> Julio 2025 </div>
@@ -82,127 +82,163 @@ en donde se puede ver la evidencia de colaboración.<br>
 
 ## Tabla de Contenidos
 
-- [Student Outcome](#student-outcome)
-
-- [Capítulo I: Introducción](#c1)
+- [PyschoMetric](#pyschometric)
+  - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+  - [Project Report Collaboration Insights](#project-report-collaboration-insights)
+  - [Tabla de Contenidos](#tabla-de-contenidos)
+  - [Student Outcome](#student-outcome)
+  - [Capítulo I: Introducción](#capítulo-i-introducción)
     - [1.1. Startup Profile](#11-startup-profile)
-        - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-        - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+      - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+      - [1.1.2. Perfiles de Integrantes del Equipo](#112-perfiles-de-integrantes-del-equipo)
     - [1.2. Solution Profile](#12-solution-profile)
-        - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-        - [1.2.2 Lean UX Process](#122-lean-ux-process)
-            - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-            - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-            - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-            - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-    - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-
-- [Capítulo II: Requirements Elicitation & Analysis](#c2)
-    - [2.1. Competidores](#21-competidores)
-        - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-        - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-    - [2.2. Entrevistas](#22-entrevistas)
-        - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-        - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-        - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-    - [2.3. Needfinding](#23-needfinding)
-        - [2.3.1. User Personas](#231-user-personas)
-        - [2.3.2. User Task Matrix](#232-user-task-matrix)
-        - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-        - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-        - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-    - [2.4. Ubiquitous Language](#24-ubiquitous-language)
-
-
-
-- [Capítulo III: Requirements Specification](#c3)
+      - [1.2.1. Antecedentes y Problemática (usando The 5W'S y 2 'H's)](#121-antecedentes-y-problemática-usando-the-5ws-y-2-hs)
+      - [1.2.2. Lean UX Process](#122-lean-ux-process)
+        - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+        - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+        - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+        - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+    - [1.3. Segmentos Objetivos](#13-segmentos-objetivos)
+  - [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+- [2.1.1. Análisis Competitivo](#211-análisis-competitivo)
+    - [Competitive Analysis Landscape](#competitive-analysis-landscape)
+- [2.1.2. Estrategias y Tácticas frente a Competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+- [2.2. Entrevistas](#22-entrevistas)
+  - [2.2.1. Diseño de Entrevistas](#221-diseño-de-entrevistas)
+    - [Preguntas para estudiantes de últimos años de colegio (4to y 5to de secundaria)](#preguntas-para-estudiantes-de-últimos-años-de-colegio-4to-y-5to-de-secundaria)
+    - [Preguntas para Psicólogos y Consejeros Vocacionales Certificados](#preguntas-para-psicólogos-y-consejeros-vocacionales-certificados)
+    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+      - [Segmento 1:Jóvenes estudiantes de 15 - 19 años](#segmento-1jóvenes-estudiantes-de-15---19-años)
+      - [Entrevista:](#entrevista)
+      - [Entrevista:](#entrevista-1)
+      - [Entrevista:](#entrevista-2)
+      - [Entrevista:](#entrevista-3)
+      - [Segmento 2:Psicólogos enfocados en orientación vocacional](#segmento-2psicólogos-enfocados-en-orientación-vocacional)
+      - [Entrevista:](#entrevista-4)
+      - [Entrevista:](#entrevista-5)
+      - [Entrevista:](#entrevista-6)
+    - [2.2.3. Análisis de entrevista](#223-análisis-de-entrevista)
+  - [2.3. Needfinding](#23-needfinding)
+      - [2.3.1. User Personas](#231-user-personas)
+      - [2.3.2. User Task Matrix](#232-user-task-matrix)
+      - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+      - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
+  - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
     - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
     - [3.2. User Stories](#32-user-stories)
     - [3.3. Impact Mapping](#33-impact-mapping)
     - [3.4. Product Backlog](#34-product-backlog)
-
-
-- [Capítulo IV: Product Design](#c4)
+- [Product Backlog](#product-backlog)
+  - [Capítulo IV: Product Design](#capítulo-iv-product-design)
     - [4.1. Style Guidelines](#41-style-guidelines)
-        - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-        - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+      - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+      - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
     - [4.2. Information Architecture](#42-information-architecture)
-        - [4.2.1. Organization Systems](#421-organization-systems)
-        - [4.2.2. Labeling Systems](#422-labeling-systems)
-        - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-        - [4.2.4. Searching Systems](#424-searching-systems)
-        - [4.2.5. Navigation Systems](#425-navigation-systems)
+      - [4.2.1. Organization Systems](#421-organization-systems)
+      - [4.2.2. Labeling Systems](#422-labeling-systems)
+      - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+      - [4.2.4. Searching Systems](#424-searching-systems)
+      - [4.2.5. Navigation Systems](#425-navigation-systems)
     - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
-        - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-        - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+      - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+      - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
     - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
-        - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-        - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-        - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-        - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+      - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+      - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+      - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+      - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
     - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315032\_upc\_edu\_pe/EXuC3iWdqVZLvpQqu9WhDfMBrjcR5ysAYxonwmYJhobSLQ?e=sOcdoI\&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](#httpsupcedupe-mysharepointcomvgpersonalu202315032_upc_edu_peexuc3iwdqvzlvpqqu9whdfmbrjcr5ysayxonwmyjhobslqesocdoinaveyjyzwzlcnjhbeluzm8ionsicmvmzxjyywxbchaioijtdhjlyw1xzwjbchailcjyzwzlcnjhbfzpzxcioijtagfyzurpywxvzy1maw5riiwicmvmzxjyywxbchbqbgf0zm9ybsi6ildlyiisinjlzmvycmfstw9kzsi6inzpzxcifx03d)
+      - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups-1)
+      - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams-1)
+    - [4.5. Web Applications Prototyping](#45-web-applications-prototyping-1)
     - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-        - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
-        - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
-        - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+      - [4.6.1. Software Architecture Context Diagrams](#461-software-architecture-context-diagrams)
+      - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+      - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
     - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
-        - [4.7.1. Class Diagrams](#471-class-diagrams)
-        - [4.7.2. Class Dictionary](#472-class-dictionary)
+      - [4.7.1. Class Diagrams](#471-class-diagrams)
+      - [4.7.2. Class Dictionary](#472-class-dictionary)
+- [Documentación de Clases](#documentación-de-clases)
+  - [Clase: `User`](#clase-user)
+  - [Clase: `Profile`](#clase-profile)
+  - [Clase: `Student`](#clase-student)
+  - [Clase: `Psychologist`](#clase-psychologist)
+  - [Clase: `Appointment`](#clase-appointment)
+  - [Clase: `Session`](#clase-session)
+  - [Clase: `Test`](#clase-test)
+  - [Clase: `Question`](#clase-question)
+  - [Clase: `Results_test`](#clase-results_test)
+  - [Clase: `Planning`](#clase-planning)
+  - [Clase: `Payment`](#clase-payment)
+  - [Clase: `Notification`](#clase-notification)
+  - [Clase: `Chat`](#clase-chat)
     - [4.8. Database Design](#48-database-design)
-        - [4.8.1. Database Diagram](#481-database-diagram)
-
-
-- [Capítulo V: Product Implementation, Validation & Deployment](#c5)
+      - [4.8.1. Database Diagram](#481-database-diagram)
+  - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
     - [5.1. Software Configuration Management](#51-software-configuration-management)
-        - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
-        - [5.1.2. Source Code Management](#512-source-code-management)
-        - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
-        - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-    - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-        - [5.2.1. Sprint 1](#521-sprint-1)
-            - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-            - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
-            - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
-            - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
-            - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-            - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-            - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-            - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-        - [5.2.2. Sprint 2](#522-sprint-2)
-            - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
-            - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
-            - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
-            - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
-            - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
-            - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
-            - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-            - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
-        - [5.2.3. Sprint 3](#523-sprint-3)
-            - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
-            - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
-            - [5.2.3.3. Sprint Backlog 3](#5223-sprint-backlog-3)
-            - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
-            - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
-            - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
-            - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
-            - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
-        - [5.2.4. Sprint 4](#524-sprint-4)
-            - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
-            - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
-            - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
-            - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
-            - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
-            - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
-            - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
-            - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
-    - [5.3. Validation Interviews](#53-validation-interviews)
-        - [5.2.4. Diseño de entrevistas](#524-sprint-4)            
-        - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas) 
-        - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
-    - [5.4. Video About-the-Product](#54-video-about-the-product)
+      - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+  - [Project Management](#project-management)
+  - [Software Development](#software-development)
+  - [Software Documentation](#software-documentation)
+      - [5.1.2. Source Code Management](#512-source-code-management)
+      - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
+      - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+    - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
+      - [5.2.1. Sprint 1](#521-sprint-1)
+        - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+        - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
+        - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
+        - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
+        - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+        - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+        - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+        - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+      - [5.2.2. Sprint 2](#522-sprint-2)
+        - [5.2.2.1. Sprint Planning 2.](#5221-sprint-planning-2)
+        - [5.2.2.2. Aspect Leaders and Collaborators.](#5222-aspect-leaders-and-collaborators)
+        - [5.2.2.3. Sprint Backlog 2.](#5223-sprint-backlog-2)
+      - [5.2.2.4. Development Evidence for Sprint Review.](#5224-development-evidence-for-sprint-review)
+        - [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
+        - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
+        - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.3. Sprint 3](#523-sprint-3)
+        - [5.2.3.1. Sprint Planning 3.](#5231-sprint-planning-3)
+        - [5.2.3.2. Aspect Leaders and Collaborators.](#5232-aspect-leaders-and-collaborators)
+        - [5.2.3.3. Sprint Backlog 3.](#5233-sprint-backlog-3)
+        - [5.2.3.4. Development Evidence for Sprint Review.](#5234-development-evidence-for-sprint-review)
+        - [5.2.3.5. Execution Evidence for Sprint Review.](#5235-execution-evidence-for-sprint-review)
+        - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
+        - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
+        - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
+      - [5.2.4. Sprint 4](#524-sprint-4)
+        - [5.2.4.1. Sprint Planning 4.](#5241-sprint-planning-4)
+        - [5.2.4.2. Aspect Leaders and Collaborators.](#5242-aspect-leaders-and-collaborators)
+        - [5.2.4.3. Sprint Backlog 4.](#5243-sprint-backlog-4)
+        - [5.2.4.4. Development Evidence for Sprint Review.](#5244-development-evidence-for-sprint-review)
+        - [5.2.4.5. Execution Evidence for Sprint Review.](#5245-execution-evidence-for-sprint-review)
+        - [5.2.4.6. Services Documentation Evidence for Sprint Review.](#5246-services-documentation-evidence-for-sprint-review)
+  - [Questions - Questions Management Endpoints](#questions---questions-management-endpoints)
+  - [Authentication - Authentication Endpoints](#authentication---authentication-endpoints)
+  - [Exams - Exam Management Endpoints](#exams---exam-management-endpoints)
+  - [Answers - Answers Management Endpoints](#answers---answers-management-endpoints)
+  - [Users - User Management Endpoints](#users---user-management-endpoints)
+  - [Repositories Exam - Repositories Exam Management Endpoints](#repositories-exam---repositories-exam-management-endpoints)
+        - [5.2.4.7. Software Deployment Evidence for Sprint Review.](#5247-software-deployment-evidence-for-sprint-review)
+        - [5.2.4.8. Team Collaboration Insights during Sprint.](#5248-team-collaboration-insights-during-sprint)
+        - [5.3. Validation Interviews.](#53-validation-interviews)
+        - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
+        - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
+        - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
+    - [Problema #2: Íconos sin etiquetas accesibles o tooltips](#problema-2-íconos-sin-etiquetas-accesibles-o-tooltips)
+    - [Problema #4: Ambigüedad en elección de rol (psicólogo/estudiante)](#problema-4-ambigüedad-en-elección-de-rol-psicólogoestudiante)
+  - [5.4. Video About-the-Product.](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
-- [Bibliografía](#bibliografía)
-- [Anexos](#anexos)
+- [Recomendaciones](#recomendaciones)
+- [Bibliiografía](#bibliiografía)
+- [Anexos.](#anexos)
 ## Student Outcome
 
 | Criterio específico                                                                                      | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Conclusiones                                                                                                                                                                                                                       |
@@ -238,7 +274,7 @@ Ser la plataforma líder en orientación vocacional en el país, revolucionando 
 | Walter Luis Fajardo Monrroy  ![walter.png](Assets/chapter01/walter.png)              | U202221632        | Soy Walter Luis Fajardo Monrroy, cuento con 20 años y por motivos de estudio resido en Lima. Soy estudiante de la carrera de ingeniería de software, en mi formación como estudiante durante estos ciclos adquirí conocimientos en programación principalmente con lenguaje C + + y python, También cuanto con conocimientos en patrones de software al momento de realizar mis proyectos, además de experiencia realizando diagramas de clases y empleando el DDD (Diseño orientado a objetos). Las habilidades primarias para resaltar serían la responsabilidad y resiliencia frente a las adversidades. Cuento con experiencia en organización y trabajo grupal lo cual emplearé para beneficio del equipo. |
 | Victor Manuel Rojas Reategui ![victor.jpg](Assets/chapter01/victor.jpg)              | U202123655        | Mi nombre es Victor Rojas y voy en el 5to ciclo de la carrera de Ingeniería de Software. Me gusta lo rápido que cambia la tecnología en la actualidad, por lo que este curso me ayudará a expandir mis conocimientos y a explorar nuevas aplicaciones de mi carrera que no había experimentado antes.                                                                                                                                                                                                                                                                                                                                                                                                           |
 | Geronimo Quispe Pablo Antonio ![geronimo.png](Assets/chapter01/geronimo.png)         | u202314304        | Mi nombre es Pablo,tengo 19 años y soy estudiante de Ingeniería de Software en la UPC, sede San Miguel. Soy una persona decidida, confiable, responsable y honesta con mi grupo de trabajo ,siendo lo más útil posible. Tengo conocimientos en C++ y java,python. Cada día trato de dar una mejor versión de mi y aprender de mis errores.                                                                                                                                                                                                                                                                                                                                                                      |
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+|Saavedra Angulo Jose Jhonatan ![Saavedra.png](Assets/chapter01/saavedra.jpg)         | u20191C464        | Mi nombre es Jose, tengo 23 años y soy estudiante de Ingeniería de software en la UPC, sede Monterrico. Soy una persona dedicada, responsable, disciplinada y enfoncado en mejorar y ayudar con mi grupo de trabajo, siendo lo mas util posible. Tengo conocimientos en C++, java, python y html. Cada dia trato de ser mejor y dar lo mejor de mi, aprendiendo de mis errores y no volviendo a cometerlos.                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
 
 ### 1.2. Solution Profile
 
@@ -576,6 +612,27 @@ Al preguntarle sobre sus motivaciones y temores, Alandro comentó que su mayor m
 Respecto a la seguridad sobre su elección, mencionó que se siente seguro por ahora, aunque es consciente de que solo al iniciar la carrera podrá confirmar si realmente es lo que le gusta. Cuando necesita orientación o apoyo sobre su futuro académico, suele acudir principalmente a sus padres, su abuela y en ocasiones también a sus amigos para conocer sus opiniones.
 Finalmente, mencionó que acceder a una videollamada con un psicólogo sería algo sencillo para él, ya que considera que es una opción práctica, cómoda y accesible desde cualquier lugar, sin necesidad de salir de casa.
 
+**Entrevista N°4: Miguel Alfonso Genaro Vargas Aguilar**
+- Sexo: Masculino
+- Edad: 16 años
+- Ubicación en la que vive: San Amadeo de Garagay, Lima, Perú
+- 
+![Entrevista 4](Assets/Miguel.png)
+#### Entrevista: #####
+link: https://drive.google.com/file/d/1OJ0muJUiNrWgz_7BX9rMQzGJwM2Oo0sg/view?usp=sharing
+
+- Momento en el que inicia: 0:51
+- Duración: 4:56
+  
+**Resumen:**
+El entrevistado de esta ocasión se encuentra cursando cuarto de secundaria. Nos comenta que está interesado en cursar la
+carrera de ingeniería, específicamente las opciones de bioquímica, sistemas y software. No está seguro todavía cuál de las tres, pero
+sabe que le llama la atención todo lo relacionado a matemática, física y química. Además, menciona que todavía no ha tomado un
+test vocacional, ya que todavía es para el año que viene. Dicho eso, él busca orientación con su papá porque él ya tiene experiencia
+por haber asistido a la UTP. También menciona que usa su celular y laptop para resolver dudas que tenga en ese momento, pero en general
+usa todavía libros y cuadernos. En ese sentido, no tendría inconvenientes con una plataforma o servicio digital que lo ayudara. De hecho,
+considera que si es lo más parecido a un test vocacional, sería bastante beneficioso.
+
 
 #### Segmento 2:Psicólogos enfocados en orientación vocacional ####
 
@@ -616,27 +673,24 @@ Sin embargo, Antonella nos comentó que, a pesar de ser herramientas útiles, es
 Durante su experiencia, ha observado que las carreras que los jóvenes suelen descartar con mayor frecuencia son las relacionadas con humanidades, así como algunas otras que, en muchos casos, no cuentan con la aprobación o respaldo de sus padres. En contraste, las carreras que suelen tener más interés y demanda son aquellas vinculadas a las ingenierías, la medicina y la arquitectura, debido a su prestigio social y las expectativas familiares.
 Antonella también resaltó la importancia del rol que cumplen los padres en este proceso, ya que, en varias situaciones, no solo se orienta al estudiante, sino que también se trabaja con la familia para que exista un entendimiento y acompañamiento adecuado.En algunos casos la desinformación de los jóvenes puede ser muy preocupante para los psicólogos al evaluarlos.
 
-**Entrevista N°3  Juan Requejo**
-- Sexo: Másculino
-- Edad: 24 años
-- Ubicación en la que vive: Pueblo Libre, Lima, Perú
+**Entrevista N°3  Aurora Beltrán**
+- Sexo: Femenino
+- Edad: 35 años
+- Ubicación en la que vive: Chimbote, Perú
 
-![Entrevista 6](Assets/Erick.png)
+![Entrevista 7](Assets/aurora.jpg)
 
 #### Entrevista: ####
-- link:https://youtu.be/IuQXwxSmHgA 
+- link:https://drive.google.com/file/d/1PLuv3fR2eAuLDMUIh_Guxe-Cocam8MKZ/view?usp=sharing 
 - Momento en el que inicia: 0:00
-- Duración: 3:39
+- Duración: 8:37
 
 
 **Resumen:**
-El psicólogo Juan Requejo  entrevistado tiene 2 años de experiencia en orientación vocacional, trabajando con jóvenes de 15 a 20 años que suelen estar en sus últimos años de secundaria o en los primeros ciclos universitarios.El proceso que sigue empieza con una entrevista inicial, luego aplica pruebas psicométricas, conversa los resultados y termina elaborando un plan de acción personalizado.
+La psicóloga Aurora entrevistada tiene 3 años de experiencia en orientación vocacional, trabajando con jóvenes de 15 a 20 años que suelen estar en sus últimos años de secundaria o en los primeros ciclos universitarios.El proceso que sigue empieza con un anamnesis, luego aplica evaluaciones de orientación vocacional, conversa los resultados y termina elaborando un plan de acción personalizado.
 Actualmente usa Google Meet, Zoom y formularios online, aunque considera que estas herramientas están muy dispersas y sería mejor tener todo en una plataforma integrada.
 Considera que un buen test vocacional debe ser científicamente valido,visualmente claro y atractivo, relacion de  los resultados con carreras y opciones reales y adaptable a diferentes edades y con análisis cualitativo.
 Está muy a favor de usar plataformas digitales y considera que una app que conecte psicólogos con estudiantes sería ideal para facilitar todo el proceso. Para confiar en una plataforma como Psycho Hell pide que tenga respaldo ético y profesional,tests integrados y confiables,confidencialidad garantizada,un servicio premium que ofrezca valor real.
-
-
-
 
  ### 2.2.3. Análisis de entrevista
  **Segmento 1:Jóvenes estudiantes de 15 - 19 años**
