@@ -25,10 +25,16 @@
 |:-------------------------------------:|:-------------------------------------:|
 |     Joaquin Alberto Cuentas Peña      |              U20201f788               |
 |      Walter Luis Fajardo Monrroy      |              U202221632               |
-|      Eric Marlon Olivera Barzola      |              U202315032               |
+|      Cesar Alejandro Linares Bernable      |              
+ u202019409            |
 |     Victor Manuel Rojas Reategui      |              U202123655               |                                
+|     José Jonathan Saavedra Angulo Antonio     |              
+U20191c464         | 
+|     Pablo Afranio Martínez Gaona     |              
+u202120011  |
 |     Geronimo Quispe Pablo Antonio     |              U202314304               |
 |    Jose Jhonatan Saavedra Angulo      |              u20191C464               |
+
 </div>
 
 <div align="center"> Julio 2025 </div>
@@ -42,13 +48,13 @@
 <hr>
 
 
-| Versión | Fecha       | Autor                          | Descripción de modificación                  |
-|---------|-------------|--------------------------------|----------------------------------------------|
-| 0.1     | 06/04/2025  | Todos los integrantes          | Desarrollo del capítulo 1 y 2             |
-| 0.2     | 12/04/2025  | Todos los integrantes          | Desarrollo del capítulo 3                    |
-| 0.3     | 18/04/2025  | Eric Olivera                   | Desarrollo del capítulo 4 y sprint 1         |
-| 0.4     | 18/04/2025  | Victor Rojas, Eric Olivera                | Desarrollo del capítulo 5 sprint 3        |
-| 0.5     | 08/07/2025  | Victor Rojas, Eric Olivera                | Desarrollo del capítulo 5 sprint 4        |
+| Versión | Fecha       | Autor                                                   | Descripción de modificación          |
+|---------|-------------|---------------------------------------------------------|--------------------------------------|
+| 0.1     | 06/04/2025  | Joaquin Cuentas, Walter Fajardo, Cesar Linares, Pablo Martínez, Victor Rojas, José Saavedra | Desarrollo del capítulo 1 y 2 |
+| 0.2     | 12/04/2025  | Joaquin Cuentas, Walter Fajardo, Cesar Linares, Pablo Martínez, Victor Rojas, José Saavedra | Desarrollo del capítulo 3      |
+| 0.3     | 18/04/2025  | Cesar Linares                                           | Desarrollo del capítulo 4 y sprint 1 |
+| 0.4     | 18/04/2025  | Victor Rojas, José Saavedra                             | Desarrollo del capítulo 5            |
+
 
 
 ## Project Report Collaboration Insights  
@@ -684,12 +690,21 @@ Antonella también resaltó la importancia del rol que cumplen los padres en est
 - Edad: 35 años
 - Ubicación en la que vive: Chimbote, Perú
 
+
+![Entrevista 6](xxxx)
+
+#### Entrevista: ####
+- link: 
+- Momento en el que inicia: 
+- Duración: 
+
 ![Entrevista 7](Assets/aurora.jpg)
 
 #### Entrevista: ####
 - link:https://drive.google.com/file/d/1PLuv3fR2eAuLDMUIh_Guxe-Cocam8MKZ/view?usp=sharing 
 - Momento en el que inicia: 0:00
 - Duración: 8:37
+
 
 
 **Resumen:**
@@ -2069,14 +2084,15 @@ Pasos realizados para desplegar nuestra Landing Page:
 | **Date**                            | 20/04/2025                                         |
 | **Time**                            | 6:00PM                                             |
 | **Location**                        | Virtual - Discord                                  |
-| **Prepared By**                     | Eric Olivera                                       |
-| **Attendees (to planning meeting)** | Eric Olivera, Joaquín Alberto, Walter Fajardo, Víctor Manuel, Pablo Geronimo |
+| **Prepared By**                     | Cesar Alejandro Linares Bernable                   |
+| **Attendees (to planning meeting)** | Joaquin Alberto Cuentas Peña, Walter Luis Fajardo Monrroy, Cesar Alejandro Linares Bernable, Pablo Afranio Martínez Gaona, Victor Manuel Rojas Reategui, José Jonathan Saavedra Angulo |
 | **Sprint n – 1 Review Summary**     | No hay nada que poner ahora, estamos en el primer sprint |
 | **Sprint n – 1 Retrospective Summary** | No hay nada que poner ahora, estamos en el primer sprint |
 | **Sprint Goal & User Stories**      |                                                    |
 | **Sprint n Goal**                   | Para este Sprint necesitamos implementar la landing page para nuestra aplicación **PyschoHealth**. Tenemos que dar una buena impresión a los posibles usuarios. |
 | **Sprint n Velocity**               | Por esta oportunidad estaremos aceptando **18 story points** |
 | **Sum of Story Points**             | La suma de Story Points atendidos es de **18 story points** |
+
 
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
@@ -2090,6 +2106,15 @@ En el caso de este sprint, escogimos el desarrollo de la Landing Page de PsychoH
 
 Cada uno de estos aspectos ha sido asignado a un líder, mientras que otros miembros del equipo cumplen roles de colaboración para asegurar que el desarrollo cumpla con los objetivos del sprint en cuanto a calidad, funcionalidad y tiempo.
 
+
+| Team Member (Last Name, First Name) | GitHub Username     | Aspect Name 1 Leader (L) / Collaborator (C) | Aspect Name 2 Leader (L) / Collaborator (C) | Aspect Name 3 Leader (L) / Collaborator (C) | Aspect Name 4 Leader (L) / Collaborator (C) | Aspect Name 5 Leader (L) / Collaborator (C) |
+|-------------------------------------|----------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
+| Cuentas Peña, Joaquin Alberto        | [JoaCUPE](#)         | L                                           | C                                           | L                                           | L                                           | L                                           |
+| Fajardo Monrroy, Walter Luis         | [WalterFajardo](#)   | L                                           | L                                           | C                                           | C                                           | X                                           |
+| Linares Bernable, Cesar Alejandro    | X                    | L                                           | C                                           | C                                           | L                                           | X                                           |
+| Martínez Gaona, Pablo Afranio        | X                    | L                                           | C                                           | L                                           | C                                           | C                                           |
+| Rojas Reategui, Victor Manuel        | [VRojas1603](#)      | L                                           | L                                           | C                                           | C                                           | X                                           |
+| Saavedra Angulo, José Jonathan       | X                    | X                                           | X                                           | X                                           | X                                           | X                                           |
 | Team Member (Last Name, First Name) | GitHub Username   | Aspect 1 (L/C) | Aspect 2 (L/C) | Aspect 3 (L/C) | Aspect 4 (L/C) | Aspect 5 (L/C) |
 |-------------------------------------|------------------|----------------|----------------|----------------|----------------|----------------|
 | Jose Saavedra                       | [ElrichMasNa](#) | L              | C              | C              | C              | C              |
@@ -2098,6 +2123,7 @@ Cada uno de estos aspectos ha sido asignado a un líder, mientras que otros miem
 | Victor Rojas                        | [VRojas1603](#)  | L              | L              | C              | C              | C              |
 | Joaquin Cuentas                     | [JoaCUPE](#)     | L              | C              | L              | L              | L              |
 | Pablo Martinez                      | [Delzekl](#)     | L              | C              | C              | C              | C              |
+
 
 
 
@@ -2111,25 +2137,26 @@ El backlog incluye tareas relacionadas con diseño de interfaz (UI), redacción 
 
 **SPRINT 1**
 
-| **User Story ID** | **Title**                                          | **Task ID** | **Task Title**                               | **Description**                                                                 | **Estimation (Hours)** | **Assigned to**     | **Status**    |
-|-------------------|----------------------------------------------------|-------------|----------------------------------------------|----------------------------------------------------------------------------------|------------------------|----------------------|---------------|
-| US-31             | Ver de qué trata la página                        | T01         | Crear bloque introductorio visual     | Diseñar bloque introductorio con un mensaje claro y conciso.      | 1                      | Eric Olivera      | Done         |
-| US-31             | Ver de qué trata la página                        | T02         | Redactar propuesta de valor           | Redactar una propuesta de valor breve.                            | 1                      | Eric Olivera      | Done         |
-| US-31             | Ver de qué trata la página                        | T03         | Insertar imagen destacada            | Agregar imagen o ilustración llamativa.                           | 0.5                    | Eric Olivera      | Done         |
-| US-32             | Opiniones de otros usuarios                       | T04         | Opiniones de usuarios                | La página web debe mostrar testimonios reales.                    | 1                      | Joaquin Alberto   | Done         |
-| US-32             | Opiniones de otros usuarios                       | T05         | Diseñar sección con testimonios       | Diseñar sección de testimonios.                                    | 0.5                    | Joaquin Alberto   | Done         |
-| US-32             | Opiniones de otros usuarios                       | T06         | Redactar testimonios representativos  | Redactar 3-4 testimonios reales o simulados.                      | 1                      | Joaquin Alberto   | In-Process   |
-| US-33             | Visualización del apartado: Por qué elegir PsychoHelp | T07         | Crear bloque de razones diferenciadoras | Crear bloque con 3 a 4 razones destacadas.                        | 1                      | Victor Manuel     | Done         |
-| US-33             | Visualización del apartado: Por qué elegir PsychoHelp | T08         | Asociar íconos visuales a cada beneficio | Usar íconos o ilustraciones representativas.                      | 0.5                    | Victor Manuel     | Done         |
-| US-33             | Visualización del apartado: Por qué elegir PsychoHelp | T09         | Redactar beneficios claros           | Redactar beneficios concretos y directos.                         | 1                      | Victor Manuel     | Done         |
-| US-34             | Visualización de apartado de cómo funciona la plataforma | T10         | Diseñar sección paso a paso           | Diseñar diagrama o pasos numerados.                               | 1                      | Pablo Geronimo    | Done         |
-| US-34             | Visualización de apartado de cómo funciona la plataforma | T11         | Redactar explicación breve por paso  | Redactar texto breve por cada paso.                               | 0.5                    | Pablo Geronimo    | Done         |
-| US-34             | Visualización de apartado de cómo funciona la plataforma | T12         | Incorporar íconos explicativos       | Agregar íconos o visuales para cada paso.                         | 1                      | Pablo Geronimo    | Done         |
-| US-35             | Encabezado de navegación                         | T13         | Diseñar barra de navegación fija     | Diseñar barra de navegación fija (sticky).                        | 1                      | Eric Olivera      | Done         |
-| US-35             | Encabezado de navegación                         | T14         | Agregar enlaces a secciones clave    | Agregar enlaces a Inicio, Precios, Psicólogos, Contacto, Login.   | 1                      | Eric Olivera      | In-Process   |
-| US-35             | Encabezado de navegación                         | T15         | Asegurar diseño responsive          | Asegurar que sea responsive.                                      | 1                      | Eric Olivera      | Done         |
-| US-36             | Pie de página de la landing page                 | T16         | Diseñar pie de página estructurado   | Diseñar bloque inferior con estructura de columnas.               | 1                      | Joaquin Alberto   | Done         |
-| US-36             | Pie de página de la landing page                 | T17         | Agregar enlaces de interés           | Agregar enlaces útiles: contacto, redes, términos y condiciones.  | 1                      | Joaquin Alberto   | In-Process   |
+| **User Story ID** | **Title**                                          | **Task ID** | **Task Title**                               | **Description**                                                                 | **Estimation (Hours)** | **Assigned to**                         | **Status**    |
+|-------------------|----------------------------------------------------|-------------|----------------------------------------------|----------------------------------------------------------------------------------|------------------------|------------------------------------------|---------------|
+| US-31             | Ver de qué trata la página                        | T01         | Crear bloque introductorio visual             | Diseñar bloque introductorio con un mensaje claro y conciso.                      | 1                      | Cesar Alejandro Linares Bernable         | Done         |
+| US-31             | Ver de qué trata la página                        | T02         | Redactar propuesta de valor                   | Redactar una propuesta de valor breve.                                           | 1                      | Joaquin Alberto Cuentas Peña             | Done         |
+| US-31             | Ver de qué trata la página                        | T03         | Insertar imagen destacada                     | Agregar imagen o ilustración llamativa.                                          | 0.5                    | Walter Luis Fajardo Monrroy              | Done         |
+| US-32             | Opiniones de otros usuarios                       | T04         | Opiniones de usuarios                         | La página web debe mostrar testimonios reales.                                   | 1                      | Joaquin Alberto Cuentas Peña             | Done         |
+| US-32             | Opiniones de otros usuarios                       | T05         | Diseñar sección con testimonios               | Diseñar sección de testimonios.                                                  | 0.5                    | Walter Luis Fajardo Monrroy              | Done         |
+| US-32             | Opiniones de otros usuarios                       | T06         | Redactar testimonios representativos          | Redactar 3-4 testimonios reales o simulados.                                     | 1                      | José Jonathan Saavedra Angulo            | In-Process   |
+| US-33             | Visualización del apartado: Por qué elegir PsychoHelp | T07      | Crear bloque de razones diferenciadoras       | Crear bloque con 3 a 4 razones destacadas.                                       | 1                      | Victor Manuel Rojas Reategui             | Done         |
+| US-33             | Visualización del apartado: Por qué elegir PsychoHelp | T08      | Asociar íconos visuales a cada beneficio      | Usar íconos o ilustraciones representativas.                                     | 0.5                    | Pablo Afranio Martínez Gaona             | Done         |
+| US-33             | Visualización del apartado: Por qué elegir PsychoHelp | T09      | Redactar beneficios claros                    | Redactar beneficios concretos y directos.                                        | 1                      | Cesar Alejandro Linares Bernable         | Done         |
+| US-34             | Visualización de apartado de cómo funciona la plataforma | T10    | Diseñar sección paso a paso                   | Diseñar diagrama o pasos numerados.                                              | 1                      | Pablo Afranio Martínez Gaona             | Done         |
+| US-34             | Visualización de apartado de cómo funciona la plataforma | T11    | Redactar explicación breve por paso           | Redactar texto breve por cada paso.                                              | 0.5                    | Walter Luis Fajardo Monrroy              | Done         |
+| US-34             | Visualización de apartado de cómo funciona la plataforma | T12    | Incorporar íconos explicativos                | Agregar íconos o visuales para cada paso.                                        | 1                      | José Jonathan Saavedra Angulo            | Done         |
+| US-35             | Encabezado de navegación                         | T13         | Diseñar barra de navegación fija              | Diseñar barra de navegación fija (sticky).                                       | 1                      | Victor Manuel Rojas Reategui             | Done         |
+| US-35             | Encabezado de navegación                         | T14         | Agregar enlaces a secciones clave             | Agregar enlaces a Inicio, Precios, Psicólogos, Contacto, Login.                  | 1                      | Joaquin Alberto Cuentas Peña             | In-Process   |
+| US-35             | Encabezado de navegación                         | T15         | Asegurar diseño responsive                    | Asegurar que sea responsive.                                                     | 1                      | Cesar Alejandro Linares Bernable         | Done         |
+| US-36             | Pie de página de la landing page                 | T16         | Diseñar pie de página estructurado            | Diseñar bloque inferior con estructura de columnas.                              | 1                      | José Jonathan Saavedra Angulo            | Done         |
+| US-36             | Pie de página de la landing page                 | T17         | Agregar enlaces de interés                    | Agregar enlaces útiles: contacto, redes, términos y condiciones.                 | 1                      | Walter Luis Fajardo Monrroy              | In-Process   |
+
 
 board hecho con trello: https://trello.com/b/Cs1CCBi6/sprint-1
 ![14](Assets/correcciones/14.png)
@@ -2226,10 +2253,11 @@ En nuestro repositorio vamos a github pages y logramos hacer un deploy de nuestr
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
-Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyeron para todos los integrantes del equipo. La implementación y despliegue de la landing page fue llevado por Eric Olivera
+Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyeron para todos los integrantes del equipo. La implementación y despliegue de la landing page fue llevado por Victor Rojas
 
 ![sprint](Assets/sprint1.JPG)
 ![sprint](Assets/sprint2.JPG)
+
 
 #### 5.2.2. Sprint 2
 
@@ -3147,3 +3175,4 @@ W3Schools. (n.d.). *HTML style guide and coding conventions*. https://www.w3scho
 - Video About the Team: https://youtu.be/5VEMmK2QNo4
 - Video About the Product: https://youtu.be/HJFzDNdgBW0 
 - Video entrevistas: https://youtu.be/iBIvZD3VNfM
+
