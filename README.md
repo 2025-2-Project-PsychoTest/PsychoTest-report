@@ -625,12 +625,12 @@ Antonella también resaltó la importancia del rol que cumplen los padres en est
 - Edad: 24 años
 - Ubicación en la que vive: Pueblo Libre, Lima, Perú
 
-![Entrevista 6](Assets/Erick.png)
+![Entrevista 6](xxxx)
 
 #### Entrevista: ####
-- link:https://youtu.be/IuQXwxSmHgA 
-- Momento en el que inicia: 0:00
-- Duración: 3:39
+- link: 
+- Momento en el que inicia: 
+- Duración: 
 
 
 **Resumen:**
@@ -2170,7 +2170,7 @@ En nuestro repositorio vamos a github pages y logramos hacer un deploy de nuestr
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
-Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyeron para todos los integrantes del equipo. La implementación y despliegue de la landing page fue llevado por Eric Olivera
+Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyeron para todos los integrantes del equipo. La implementación y despliegue de la landing page fue llevado por Victor Rojas
 
 ![sprint](Assets/sprint1.JPG)
 ![sprint](Assets/sprint2.JPG)
