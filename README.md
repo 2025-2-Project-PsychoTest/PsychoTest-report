@@ -112,10 +112,11 @@ en donde se puede ver la evidencia de colaboración.<br>
       - [Entrevista:](#entrevista)
       - [Entrevista:](#entrevista-1)
       - [Entrevista:](#entrevista-2)
-      - [Segmento 2:Psicólogos enfocados en orientación vocacional](#segmento-2psicólogos-enfocados-en-orientación-vocacional)
       - [Entrevista:](#entrevista-3)
+      - [Segmento 2:Psicólogos enfocados en orientación vocacional](#segmento-2psicólogos-enfocados-en-orientación-vocacional)
       - [Entrevista:](#entrevista-4)
       - [Entrevista:](#entrevista-5)
+      - [Entrevista:](#entrevista-6)
     - [2.2.3. Análisis de entrevista](#223-análisis-de-entrevista)
   - [2.3. Needfinding](#23-needfinding)
       - [2.3.1. User Personas](#231-user-personas)
@@ -593,17 +594,35 @@ Además, expresó su interés en probar una plataforma digital que no solo ofrez
 Finalmente, manifestó que estaría totalmente dispuesto a contactar con un psicólogo a través de la plataforma, ya que considera que el seguimiento profesional es clave para asegurarse de elegir una carrera que realmente se ajuste a sus intereses y habilidades.
 
 
-**Entrevista N°4: Miguel Alfonso Genaro Vargas Aguilar**
+**Entrevista N°3: Alejandro Bravo**
 - Sexo: Masculino
 - Edad: 17 años
 - Ubicación en la que vive   San miguel, Lima, Perú
   
+![Entrevista 3](Assets/Alejandro.png)
+#### Entrevista: #####
+link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EdFC8tauorhEuMi__ESOCRgBaBfZJhHZCFduqWM33oQudg?e=6k7wes
+
+- Momento en el que inicia: 0:00
+- Duración: 4:56
+  
+**Resumen:**
+En esta oportunidad, se entrevistó a Alejandro Bravo Castillo, un estudiante que está próximo a culminar su grado de secundaria. Durante la conversación, Alandro compartió que ya ha pensado en su futura carrera profesional y se siente bastante atraído por el mundo del Derecho, ya que le interesa mucho todo lo relacionado con las leyes y sueña con convertirse en abogado.
+Al preguntarle sobre sus motivaciones y temores, Alandro comentó que su mayor motivación es poder construir un futuro aprendiendo sobre una carrera que le apasione. Sin embargo, también reconoció que su mayor miedo es cometer errores en el camino, aunque entiende que es algo natural en cualquier proceso de aprendizaje.
+Respecto a la seguridad sobre su elección, mencionó que se siente seguro por ahora, aunque es consciente de que solo al iniciar la carrera podrá confirmar si realmente es lo que le gusta. Cuando necesita orientación o apoyo sobre su futuro académico, suele acudir principalmente a sus padres, su abuela y en ocasiones también a sus amigos para conocer sus opiniones.
+Finalmente, mencionó que acceder a una videollamada con un psicólogo sería algo sencillo para él, ya que considera que es una opción práctica, cómoda y accesible desde cualquier lugar, sin necesidad de salir de casa.
+
+**Entrevista N°4: Miguel Alfonso Genaro Vargas Aguilar**
+- Sexo: Masculino
+- Edad: 16 años
+- Ubicación en la que vive: San Amadeo de Garagay, Lima, Perú
+- 
 ![Entrevista 4](Assets/Miguel.png)
 #### Entrevista: #####
-link:https://drive.google.com/file/d/1OJ0muJUiNrWgz_7BX9rMQzGJwM2Oo0sg/view?usp=sharing
+link: https://drive.google.com/file/d/1OJ0muJUiNrWgz_7BX9rMQzGJwM2Oo0sg/view?usp=sharing
 
 - Momento en el que inicia: 0:51
-- Duración: 4:04
+- Duración: 4:56
   
 **Resumen:**
 El entrevistado de esta ocasión se encuentra cursando cuarto de secundaria. Nos comenta que está interesado en cursar la
@@ -614,8 +633,6 @@ por haber asistido a la UTP. También menciona que usa su celular y laptop para 
 usa todavía libros y cuadernos. En ese sentido, no tendría inconvenientes con una plataforma o servicio digital que lo ayudara. De hecho,
 considera que si es lo más parecido a un test vocacional, sería bastante beneficioso.
 
-
-**Entrevista N°4: Alejandro Bravo**
 
 #### Segmento 2:Psicólogos enfocados en orientación vocacional ####
 
