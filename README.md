@@ -205,43 +205,16 @@ en donde se puede ver la evidencia de colaboración.<br>
 - [Anexos](#anexos)
 ## Student Outcome
 
-# Criterio  
-**Capacidad de comunicarse efectivamente con un rango de audiencias.**  
+**Criterio:**  
+Capacidad de comunicarse efectivamente con un rango de audiencias.  
+En el siguiente cuadro se describe las acciones realizadas y enunciados de  
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro  
+del ABET – EAC - Student Outcome 3.  
 
-En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del **ABET – EAC - Student Outcome 3**.  
-
----
-
-## Criterio específico: Comunica oralmente con efectividad a diferentes rangos de audiencia  
-
-| Integrante       | Acciones realizadas                                                                 |
-|------------------|--------------------------------------------------------------------------------------|
-| **Joaquin Cuentas** | Comuniqué oralmente con mis compañeros para asignar las características de la landing page. |
-| **Walter Fajardo**  | Comuniqué las necesidades de los usuarios para diseñar las user stories. |
-| **Victor Rojas**    | Comuniqué necesidades de diseño necesarias en la landing page. |
-| **Cesar Linares**   | Comuniqué las necesidades de los usuarios que me transmitieron por medio de las entrevistas. |
-| **Pablo Martinez**  | Comuniqué oralmente los datos que requerimos en el proyecto mediante la creación de tablas para la base de datos. |
-| **Jose Saavedra**   | Comuniqué oralmente la organización que requiere el equipo para ejecutar el primer avance del trabajo, es decir, el sprint 1. |
-
-**Conclusión – TB1**  
-En conclusión, la comunicación oral efectiva hacia diferentes rangos de audiencia resulta esencial en el desarrollo del proyecto, específicamente en el desarrollo de la **Landing Page**. Esta habilidad permite explicar con claridad los objetivos y beneficios a nuestros clientes. Gracias a esta capacidad logramos generar una agradable primera toma de contacto con ellos.  
-
----
-
-## Criterio específico: Comunica por escrito con efectividad a diferentes rangos de audiencia  
-
-| Integrante       | Acciones realizadas                                                                 |
-|------------------|--------------------------------------------------------------------------------------|
-| **Joaquin Cuentas** | Coordiné con el equipo las características de la landing page, y luego la implementé en HTML y CSS. |
-| **Walter Fajardo**  | Comuniqué de manera escrita al redactar las user stories. |
-| **Victor Rojas**    | Comuniqué de manera escrita al diseñar los wireframes del proyecto. |
-| **Cesar Linares**   | Comuniqué de manera escrita al analizar y sintetizar los resultados de las entrevistas. |
-| **Pablo Martinez**  | Comuniqué de manera escrita al desarrollar la base de datos. |
-| **Jose Saavedra**   | Comuniqué de manera escrita al diseñar el sprint backlog 1 y asignar una tarea para cada integrante del equipo. |
-
-**Conclusión – TB1**  
-En conclusión, la comunicación escrita efectiva a diferentes rangos de audiencia permite transmitir de manera clara y adaptada los objetivos del proyecto. A través de informes técnicos, presentaciones académicas y mensajes accesibles para estudiantes, se asegura que cada grupo comprenda el valor y la utilidad de la página web de **tests psicológicos**.  
-
+| Criterio específico | Acciones realizadas | Conclusiones |
+| ----- | ----- | ----- |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia | **TB1 - Joaquin Cuentas:**<br>Comuniqué oralmente con mis compañeros para asignar las características de la landing page.<br><br>**Walter Fajardo:**<br>Comuniqué las necesidades de los usuarios para diseñar las user stories.<br><br>**Victor Rojas:**<br>Comuniqué necesidades de diseño necesarias en la landing page.<br><br>**Cesar Linares:**<br>Comuniqué las necesidades de los usuarios que me transmitieron por medio de las entrevistas.<br><br>**Pablo Martinez:**<br>Comuniqué oralmente los datos que requerimos en el proyecto mediante la creación de tablas para la base datos.<br><br>**Jose Saavedra:**<br>Comuniqué oralmente la organización que requiere el equipo para ejecutar el primer avance del trabajo, es decir, el sprint 1. | **TB1**<br>En conclusión, la comunicación oral efectiva hacia diferentes rangos de audiencia resulta esencial en el desarrollo del proyecto, específicamente en el desarrollo de la **Landing Page**. Esta habilidad permite explicar con claridad los objetivos y beneficios a nuestros clientes. Gracias a esta capacidad logramos generar una agradable primera toma de contacto con ellos. |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | **TB1 - Joaquin Cuentas:**<br>Coordiné con el equipo las características de la landing page, y luego la implementé en HTML y CSS.<br><br>**Walter Fajardo:**<br>Comuniqué de manera escrita al redactar las user stories.<br><br>**Victor Rojas:**<br>Comuniqué de manera escrita al diseñar los wireframes del proyecto.<br><br>**Cesar Linares:**<br>Comuniqué de manera escrita al analizar y sintetizar los resultados de las entrevistas.<br><br>**Pablo Martinez:**<br>Comuniqué de manera escrita al desarrollar la base de datos.<br><br>**Jose Saavedra:**<br>Comuniqué de manera escrita al diseñar el sprint backlog 1 y asignar una tarea para cada integrante del equipo. | **TB1**<br>En conclusión, la comunicación escrita efectiva a diferentes rangos de audiencia permite transmitir de manera clara y adaptada los objetivos del proyecto. A través de informes técnicos, presentaciones académicas y mensajes accesibles para estudiantes, se asegura que cada grupo comprenda el valor y la utilidad de la página web de **tests psicológicos**. |
 
 
 
