@@ -25,13 +25,10 @@
 |:-------------------------------------:|:-------------------------------------:|
 |     Joaquin Alberto Cuentas Peña      |              U20201f788               |
 |      Walter Luis Fajardo Monrroy      |              U202221632               |
-|      Cesar Alejandro Linares Bernable      |              
- u202019409            |
+|      Cesar Alejandro Linares Bernable      |              u202019409            |
 |     Victor Manuel Rojas Reategui      |              U202123655               |                                
-|     José Jonathan Saavedra Angulo Antonio     |              
-U20191c464         | 
-|     Pablo Afranio Martínez Gaona     |              
-u202120011  |
+|     José Jonathan Saavedra Angulo Antonio     |              U20191c464         | 
+|     Pablo Afranio Martínez Gaona     |              u202120011  |
 
 </div>
 
