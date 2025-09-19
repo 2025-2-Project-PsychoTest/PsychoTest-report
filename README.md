@@ -2030,14 +2030,15 @@ En el caso de este sprint, escogimos el desarrollo de la Landing Page de PsychoH
 
 Cada uno de estos aspectos ha sido asignado a un líder, mientras que otros miembros del equipo cumplen roles de colaboración para asegurar que el desarrollo cumpla con los objetivos del sprint en cuanto a calidad, funcionalidad y tiempo.
 
-| Team Member (Last Name, First Name) | GitHub Username     | Aspect Name 1 Leader (L) / Collaborator (C) | Aspect Name 2 Leader (L) / Collaborator (C) | Aspect Name 3 Leader (L) / Collaborator (C) | Aspect Name 4 Leader (L) / Collaborator (C) | Aspect Name 5 Leader (L) / Collaborator (C) |
-|------------------------------------|----------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
-| Jose Saavedra                       | [ElrichMasNa](#)      | L                                           | C                                           | C                                           | C                                           | C                                           |
-| Cesar Linares                     | [Cesar-Linares
-](#)        |  L                                           |     C                                       | L                                           | C                                           | C                                           |
-| Fajardo Walter                     | [WalterFajardo](#)    | L                                           | L                                           |       C                                      |  C              C                             |                                             |
-| Victor Rojas                       | [VRojas1603](#)       | L                                           | L                                           |  C                                           |           A                                  |                                             |C
-| Joaquin Cuentas                    | [JoaCUPE](#)          | L                                           | C                                           | L                                           | L                                           | L                                           |
+| Team Member (Last Name, First Name) | GitHub Username   | Aspect 1 (L/C) | Aspect 2 (L/C) | Aspect 3 (L/C) | Aspect 4 (L/C) | Aspect 5 (L/C) |
+|-------------------------------------|------------------|----------------|----------------|----------------|----------------|----------------|
+| Jose Saavedra                       | [ElrichMasNa](#) | L              | C              | C              | C              | C              |
+| Cesar Linares                       | [Cesar-Linares](#) | L              | C              | L              | C              | C              |
+| Walter Fajardo                      | [WalterFajardo](#) | L              | L              | C              | C              | C              |
+| Victor Rojas                        | [VRojas1603](#)  | L              | L              | C              | C              | C              |
+| Joaquin Cuentas                     | [JoaCUPE](#)     | L              | C              | L              | L              | L              |
+| Pablo Martinez                      | [Delzekl](#)     | L              | C              | C              | C              | C              |
+
 
 
 ##### 5.2.1.3. Sprint Backlog 1
