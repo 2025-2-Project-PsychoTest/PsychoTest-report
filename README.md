@@ -25,9 +25,13 @@
 |:-------------------------------------:|:-------------------------------------:|
 |     Joaquin Alberto Cuentas Peña      |              U20201f788               |
 |      Walter Luis Fajardo Monrroy      |              U202221632               |
-|      Eric Marlon Olivera Barzola      |              U202315032               |
+|      Cesar Alejandro Linares Bernable      |              
+ u202019409            |
 |     Victor Manuel Rojas Reategui      |              U202123655               |                                
-|     Geronimo Quispe Pablo Antonio     |              U202314304               |
+|     José Jonathan Saavedra Angulo Antonio     |              
+U20191c464         | 
+|     Pablo Afranio Martínez Gaona     |              
+u202120011  |
 
 </div>
 
