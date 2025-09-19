@@ -46,13 +46,13 @@ u202120011  |
 <hr>
 
 
-| Versión | Fecha       | Autor                          | Descripción de modificación                  |
-|---------|-------------|--------------------------------|----------------------------------------------|
-| 0.1     | 06/04/2025  | Todos los integrantes          | Desarrollo del capítulo 1 y 2             |
-| 0.2     | 12/04/2025  | Todos los integrantes          | Desarrollo del capítulo 3                    |
-| 0.3     | 18/04/2025  | Eric Olivera                   | Desarrollo del capítulo 4 y sprint 1         |
-| 0.4     | 18/04/2025  | Victor Rojas, Eric Olivera                | Desarrollo del capítulo 5 sprint 3        |
-| 0.5     | 08/07/2025  | Victor Rojas, Eric Olivera                | Desarrollo del capítulo 5 sprint 4        |
+| Versión | Fecha       | Autor                                                   | Descripción de modificación          |
+|---------|-------------|---------------------------------------------------------|--------------------------------------|
+| 0.1     | 06/04/2025  | Joaquin Cuentas, Walter Fajardo, Cesar Linares, Pablo Martínez, Victor Rojas, José Saavedra | Desarrollo del capítulo 1 y 2 |
+| 0.2     | 12/04/2025  | Joaquin Cuentas, Walter Fajardo, Cesar Linares, Pablo Martínez, Victor Rojas, José Saavedra | Desarrollo del capítulo 3      |
+| 0.3     | 18/04/2025  | Cesar Linares                                           | Desarrollo del capítulo 4 y sprint 1 |
+| 0.4     | 18/04/2025  | Victor Rojas, José Saavedra                             | Desarrollo del capítulo 5            |
+
 
 
 ## Project Report Collaboration Insights  
