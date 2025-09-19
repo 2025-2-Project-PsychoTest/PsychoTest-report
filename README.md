@@ -28,7 +28,8 @@
 |      Cesar Alejandro Linares Bernable      |              u202019409            |
 |     Victor Manuel Rojas Reategui      |              U202123655               |                                
 |     José Jonathan Saavedra Angulo Antonio     |              U20191c464         | 
-|     Pablo Afranio Martínez Gaona     |              u202120011  |
+|     Pablo Afranio Martínez Gaona     |              u202120011  |          
+
 
 </div>
 
@@ -83,134 +84,176 @@ en donde se puede ver la evidencia de colaboración.<br>
 
 ## Tabla de Contenidos
 
-- [Student Outcome](#student-outcome)
-
-- [Capítulo I: Introducción](#c1)
+- [PyschoMetric](#pyschometric)
+  - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+  - [Project Report Collaboration Insights](#project-report-collaboration-insights)
+  - [Tabla de Contenidos](#tabla-de-contenidos)
+  - [Student Outcome](#student-outcome)
+  - [Capítulo I: Introducción](#capítulo-i-introducción)
     - [1.1. Startup Profile](#11-startup-profile)
-        - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-        - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+      - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+      - [1.1.2. Perfiles de Integrantes del Equipo](#112-perfiles-de-integrantes-del-equipo)
     - [1.2. Solution Profile](#12-solution-profile)
-        - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-        - [1.2.2 Lean UX Process](#122-lean-ux-process)
-            - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-            - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-            - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-            - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-    - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-
-- [Capítulo II: Requirements Elicitation & Analysis](#c2)
-    - [2.1. Competidores](#21-competidores)
-        - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-        - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-    - [2.2. Entrevistas](#22-entrevistas)
-        - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-        - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-        - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-    - [2.3. Needfinding](#23-needfinding)
-        - [2.3.1. User Personas](#231-user-personas)
-        - [2.3.2. User Task Matrix](#232-user-task-matrix)
-        - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-        - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-        - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-    - [2.4. Ubiquitous Language](#24-ubiquitous-language)
-
-
-
-- [Capítulo III: Requirements Specification](#c3)
+      - [1.2.1. Antecedentes y Problemática (usando The 5W'S y 2 'H's)](#121-antecedentes-y-problemática-usando-the-5ws-y-2-hs)
+      - [1.2.2. Lean UX Process](#122-lean-ux-process)
+        - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+        - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+        - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+        - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+    - [1.3. Segmentos Objetivos](#13-segmentos-objetivos)
+  - [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+- [2.1.1. Análisis Competitivo](#211-análisis-competitivo)
+    - [Competitive Analysis Landscape](#competitive-analysis-landscape)
+- [2.1.2. Estrategias y Tácticas frente a Competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+- [2.2. Entrevistas](#22-entrevistas)
+  - [2.2.1. Diseño de Entrevistas](#221-diseño-de-entrevistas)
+    - [Preguntas para estudiantes de últimos años de colegio (4to y 5to de secundaria)](#preguntas-para-estudiantes-de-últimos-años-de-colegio-4to-y-5to-de-secundaria)
+    - [Preguntas para Psicólogos y Consejeros Vocacionales Certificados](#preguntas-para-psicólogos-y-consejeros-vocacionales-certificados)
+    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+      - [Segmento 1:Jóvenes estudiantes de 15 - 19 años](#segmento-1jóvenes-estudiantes-de-15---19-años)
+      - [Entrevista:](#entrevista)
+      - [Entrevista:](#entrevista-1)
+      - [Entrevista:](#entrevista-2)
+      - [Entrevista:](#entrevista-3)
+      - [Segmento 2:Psicólogos enfocados en orientación vocacional](#segmento-2psicólogos-enfocados-en-orientación-vocacional)
+      - [Entrevista:](#entrevista-4)
+      - [Entrevista:](#entrevista-5)
+      - [Entrevista:](#entrevista-6)
+    - [2.2.3. Análisis de entrevista](#223-análisis-de-entrevista)
+  - [2.3. Needfinding](#23-needfinding)
+      - [2.3.1. User Personas](#231-user-personas)
+      - [2.3.2. User Task Matrix](#232-user-task-matrix)
+      - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+      - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
+  - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
     - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
     - [3.2. User Stories](#32-user-stories)
     - [3.3. Impact Mapping](#33-impact-mapping)
     - [3.4. Product Backlog](#34-product-backlog)
-
-
-- [Capítulo IV: Product Design](#c4)
+- [Product Backlog](#product-backlog)
+  - [Capítulo IV: Product Design](#capítulo-iv-product-design)
     - [4.1. Style Guidelines](#41-style-guidelines)
-        - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-        - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+      - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+      - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
     - [4.2. Information Architecture](#42-information-architecture)
-        - [4.2.1. Organization Systems](#421-organization-systems)
-        - [4.2.2. Labeling Systems](#422-labeling-systems)
-        - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-        - [4.2.4. Searching Systems](#424-searching-systems)
-        - [4.2.5. Navigation Systems](#425-navigation-systems)
+      - [4.2.1. Organization Systems](#421-organization-systems)
+      - [4.2.2. Labeling Systems](#422-labeling-systems)
+      - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+      - [4.2.4. Searching Systems](#424-searching-systems)
+      - [4.2.5. Navigation Systems](#425-navigation-systems)
     - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
-        - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-        - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+      - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+      - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
     - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
-        - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-        - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-        - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-        - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+      - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+      - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+      - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+      - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
     - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315032\_upc\_edu\_pe/EXuC3iWdqVZLvpQqu9WhDfMBrjcR5ysAYxonwmYJhobSLQ?e=sOcdoI\&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](#httpsupcedupe-mysharepointcomvgpersonalu202315032_upc_edu_peexuc3iwdqvzlvpqqu9whdfmbrjcr5ysayxonwmyjhobslqesocdoinaveyjyzwzlcnjhbeluzm8ionsicmvmzxjyywxbchaioijtdhjlyw1xzwjbchailcjyzwzlcnjhbfzpzxcioijtagfyzurpywxvzy1maw5riiwicmvmzxjyywxbchbqbgf0zm9ybsi6ildlyiisinjlzmvycmfstw9kzsi6inzpzxcifx03d)
+      - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups-1)
+      - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams-1)
+    - [4.5. Web Applications Prototyping](#45-web-applications-prototyping-1)
     - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-        - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
-        - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
-        - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+      - [4.6.1. Software Architecture Context Diagrams](#461-software-architecture-context-diagrams)
+      - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+      - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
     - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
-        - [4.7.1. Class Diagrams](#471-class-diagrams)
-        - [4.7.2. Class Dictionary](#472-class-dictionary)
+      - [4.7.1. Class Diagrams](#471-class-diagrams)
+      - [4.7.2. Class Dictionary](#472-class-dictionary)
+- [Documentación de Clases](#documentación-de-clases)
+  - [Clase: `User`](#clase-user)
+  - [Clase: `Profile`](#clase-profile)
+  - [Clase: `Student`](#clase-student)
+  - [Clase: `Psychologist`](#clase-psychologist)
+  - [Clase: `Appointment`](#clase-appointment)
+  - [Clase: `Session`](#clase-session)
+  - [Clase: `Test`](#clase-test)
+  - [Clase: `Question`](#clase-question)
+  - [Clase: `Results_test`](#clase-results_test)
+  - [Clase: `Planning`](#clase-planning)
+  - [Clase: `Payment`](#clase-payment)
+  - [Clase: `Notification`](#clase-notification)
+  - [Clase: `Chat`](#clase-chat)
     - [4.8. Database Design](#48-database-design)
-        - [4.8.1. Database Diagram](#481-database-diagram)
-
-
-- [Capítulo V: Product Implementation, Validation & Deployment](#c5)
+      - [4.8.1. Database Diagram](#481-database-diagram)
+  - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
     - [5.1. Software Configuration Management](#51-software-configuration-management)
-        - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
-        - [5.1.2. Source Code Management](#512-source-code-management)
-        - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
-        - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-    - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-        - [5.2.1. Sprint 1](#521-sprint-1)
-            - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-            - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
-            - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
-            - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
-            - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-            - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-            - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-            - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-        - [5.2.2. Sprint 2](#522-sprint-2)
-            - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
-            - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
-            - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
-            - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
-            - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
-            - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
-            - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-            - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
-        - [5.2.3. Sprint 3](#523-sprint-3)
-            - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
-            - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
-            - [5.2.3.3. Sprint Backlog 3](#5223-sprint-backlog-3)
-            - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
-            - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
-            - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
-            - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
-            - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
-        - [5.2.4. Sprint 4](#524-sprint-4)
-            - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
-            - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
-            - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
-            - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
-            - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
-            - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
-            - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
-            - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
-    - [5.3. Validation Interviews](#53-validation-interviews)
-        - [5.2.4. Diseño de entrevistas](#524-sprint-4)            
-        - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas) 
-        - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
-    - [5.4. Video About-the-Product](#54-video-about-the-product)
+      - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+  - [Project Management](#project-management)
+  - [Software Development](#software-development)
+  - [Software Documentation](#software-documentation)
+      - [5.1.2. Source Code Management](#512-source-code-management)
+      - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
+      - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+    - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
+      - [5.2.1. Sprint 1](#521-sprint-1)
+        - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+        - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
+        - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
+        - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
+        - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+        - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+        - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+        - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+      - [5.2.2. Sprint 2](#522-sprint-2)
+        - [5.2.2.1. Sprint Planning 2.](#5221-sprint-planning-2)
+        - [5.2.2.2. Aspect Leaders and Collaborators.](#5222-aspect-leaders-and-collaborators)
+        - [5.2.2.3. Sprint Backlog 2.](#5223-sprint-backlog-2)
+      - [5.2.2.4. Development Evidence for Sprint Review.](#5224-development-evidence-for-sprint-review)
+        - [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
+        - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
+        - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.3. Sprint 3](#523-sprint-3)
+        - [5.2.3.1. Sprint Planning 3.](#5231-sprint-planning-3)
+        - [5.2.3.2. Aspect Leaders and Collaborators.](#5232-aspect-leaders-and-collaborators)
+        - [5.2.3.3. Sprint Backlog 3.](#5233-sprint-backlog-3)
+        - [5.2.3.4. Development Evidence for Sprint Review.](#5234-development-evidence-for-sprint-review)
+        - [5.2.3.5. Execution Evidence for Sprint Review.](#5235-execution-evidence-for-sprint-review)
+        - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
+        - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
+        - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
+      - [5.2.4. Sprint 4](#524-sprint-4)
+        - [5.2.4.1. Sprint Planning 4.](#5241-sprint-planning-4)
+        - [5.2.4.2. Aspect Leaders and Collaborators.](#5242-aspect-leaders-and-collaborators)
+        - [5.2.4.3. Sprint Backlog 4.](#5243-sprint-backlog-4)
+        - [5.2.4.4. Development Evidence for Sprint Review.](#5244-development-evidence-for-sprint-review)
+        - [5.2.4.5. Execution Evidence for Sprint Review.](#5245-execution-evidence-for-sprint-review)
+        - [5.2.4.6. Services Documentation Evidence for Sprint Review.](#5246-services-documentation-evidence-for-sprint-review)
+  - [Questions - Questions Management Endpoints](#questions---questions-management-endpoints)
+  - [Authentication - Authentication Endpoints](#authentication---authentication-endpoints)
+  - [Exams - Exam Management Endpoints](#exams---exam-management-endpoints)
+  - [Answers - Answers Management Endpoints](#answers---answers-management-endpoints)
+  - [Users - User Management Endpoints](#users---user-management-endpoints)
+  - [Repositories Exam - Repositories Exam Management Endpoints](#repositories-exam---repositories-exam-management-endpoints)
+        - [5.2.4.7. Software Deployment Evidence for Sprint Review.](#5247-software-deployment-evidence-for-sprint-review)
+        - [5.2.4.8. Team Collaboration Insights during Sprint.](#5248-team-collaboration-insights-during-sprint)
+        - [5.3. Validation Interviews.](#53-validation-interviews)
+        - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
+        - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
+        - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
+    - [Problema #2: Íconos sin etiquetas accesibles o tooltips](#problema-2-íconos-sin-etiquetas-accesibles-o-tooltips)
+    - [Problema #4: Ambigüedad en elección de rol (psicólogo/estudiante)](#problema-4-ambigüedad-en-elección-de-rol-psicólogoestudiante)
+  - [5.4. Video About-the-Product.](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
-- [Bibliografía](#bibliografía)
-- [Anexos](#anexos)
+- [Recomendaciones](#recomendaciones)
+- [Bibliiografía](#bibliiografía)
+- [Anexos.](#anexos)
 ## Student Outcome
 
-| Criterio específico                                                                                      | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Conclusiones                                                                                                                                                                                                                       |
-|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.c1. Identifica problemas complejos de ingeniería de software.                                          | Cuentas Peña Joaquin Alberto</br>TB1:</br>Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática.</br></br>Fajardo Monrroy, Walter Luis</br>TB1:</br>Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática.</br></br>Olivera Barzola, Eric Marlon</br>TB1:</br>Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática</br><br><br>**TB2** <br> Identifiqué problemas complejos relacionados con la estructura y el flujo de gestión de tests vocacionales en el contexto de PsychoHelp, especialmente en la integración entre el backend y el frontend. Se detectaron dificultades para mantener la coherencia de datos entre los distintos estados del test, así como para manejar múltiples flujos de usuarios<br><br>TF1:En el desarrollo del sistema, identifiqué como problema complejo la necesidad de gestionar y evaluar los exámenes de egreso de los estudiantes de forma eficiente, escalable y segura. <br><br></br>Geronimo Quispe ,Pablo Antonio</br>TB1:</br>Se centró en identificar un problema concreto que afecta a los usuarios y ofrecer una solución innovadora. En este caso, la descripción del problema, los usuarios potenciales y los objetivos del proyecto.</br></br>Rojas Reategui, Victor Manuel</br>TB1:</br>Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática. <br><br>**TP** <br> Colaboré el desarrollo e implementación de los dashboard del estudiante como versión funcional.<br><br><br><br>**TB2** <br> Se encargó de identificar los pricnipales problemas para poder realizar el desarrollo e implementación de la primera versión para el backend del bounded context escogido.<br><br>TF1: Me encarge de identificar los conflictos entre los endpoints del backend para implementarlos en el frontend, además de secciones incompletas en el landing page <br><br>| TB1:</br>El trabajo realizado en TB1 contribuyó significativamente a la comprensión de la problemática, la formulación de soluciones innovadoras y la estructura de propuestas para resolver problemas específicos en el proyecto. <br><br>**TP** <br> El trabajo realizado nos permitio conocer mejor los desafios necesarios en el desarrollo de una aplicación web de el lado del frontend.<br><br><br><br>**TB2** <br> El trabajo realizado cotribuyó a entender mejor el proceso de desarrollo de una aplicación backend como api junto con la implementación de los endpoint necesarios para el proyecto.<br><br>TF1: Los problemas identificados nos permitieron entender a fondo su porqué y como podemos abordar una posible solución bajo los conceptos y paradigmas vistos en el curso.<br><br>|
-| 1.c2. Formula problemas complejos de ingeniería de software aplicando ciencias,matemáticas e ingeniería  | Cuentas Peña Joaquin Alberto</br>TB1:</br>Aplicando la técnica 5W2H, le permitió identificar de manera precisa y brindar un enfoque claro y bien fundamentado para el desarrollo antecedente y problemáticas del trabajo.</br></br>Fajardo Monrroy, Walter Luis</br>TB1:</br>Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática.</br></br>Olivera Barzola, Eric Marlon</br>TB1:</br>Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática.<br><br>**TB2** <br> Formulé problemas asociados al diseño del Bounded Context de Management Test, aplicando principios de diseño de software (DDD), modelamiento de datos y lógica de integración. Planteé como problema principal la necesidad de una API RESTful que permitiera operaciones CRUD sobre exámenes y preguntas, garantizando consistencia en la experiencia del usuario y separación de responsabilidades técnicas.<br><br>TF1:Formulé el problema considerando conceptos de ciencias de la computación como arquitectura basada en dominios (Domain-Driven Design) para dividir el sistema en bounded contexts bien definidos: Examen y Dashboard. Apliqué conocimientos de ingeniería de software para modelar las entidades, relaciones y flujos de datos.</br></br>Geronimo Quispe ,Pablo Antonio</br>TB1:</br>Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática.</br></br>Rojas Reategui, Victor Manuel</br>TB1:</br>Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática. <br><br>**TP** <br> Se resolvió los conflictos entre las versiones del proyecto para que pudiera mostrarse un frontend adecuado.<br><br><br><br>**TB2** <br> Me encargue de implementar el bounded context de dashboard and analytics para el backned y mejorar la aplicación frontend luego de resolver conflictos de versiones organización del proyecto<br><br>TF1: Formulé el problema en secciones las cuales pueda trabajr mejor siguiendo las convenciones y temas vistos a lo largo del curso para tener un desarrollo del producto más eficaz<br><br>                            | TB1:</br>El trabajo realizado en TB1 contribuyó significativamente a la comprensión de la problemática, la formulación de soluciones innovadoras y la estructura de propuestas para resolver problemas específicos en el proyecto. <br><br>**TP** <br> Luego de entender mejor la problemtica establecida, fuimos capaz de implementar una aplicación web adecuada siguiendo los requerimientos establecidos para esta entrega.<br><br><br><br>**TB2** <br> El proceso de desarrollo del trabajo nos permitió entender como funciona el proceso de desarrollo e implementación de na aplicación backend y como lidiar con todos los problemas encontrados para poder llegar a una versión funcional.<br><br>TF1:Con los problemas vistos entendimos mejor el proceso y desarrollo de software de una aplicación web de mejor manera, lo cual nos servirá para el futuro en nuestras carreras.<br><br>|
-| 1.c3. Resuelve problemas complejos de ingeniería de software aplicando ciencias,matemáticas e ingeniería | Cuentas Peña Joaquin Alberto</br>TB1:</br>Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática.</br></br>Fajardo Monrroy, Walter Luis</br>TB1:</br>Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática.</br></br>Olivera Barzola, Eric Marlon</br>TB1:</br>Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática.<br><br>**TB2** <br> Desarrollé la conexión entre el backend y el frontend en Angular dentro del proyecto PsychoHelp, implementando endpoints funcionales para la gestión de tests vocacionales. Utilicé principios de ingeniería de software, como inyección de dependencias.<br><br>TF1:Diseñé y desarrollé el backend del módulo de exámenes utilizando Java con Spring Boot, implementando controladores REST, validaciones lógicas, persistencia con JPA y seguridad. En el frontend, utilicé Angular con Angular Material para crear interfaces interactivas tanto para la aplicación de exámenes como para el dashboard de resultados.</br></br>Geronimo Quispe ,Pablo Antonio</br>TB1:</br>El proceso de definir una propuesta de valor refuerza la importancia del aprendizaje continuo en el análisis de problemas reales y en la creación de soluciones centradas en el usuario.</br></br>Rojas Reategui, Victor Manuel</br>TB1:Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática.<br><br>**TP** <br> Realicé la implementación de la primera versión de los daashboard de los estudiantes en la aplicación frontend y me aseguré que el proyecto siga una buena organización en el repositorio.<br><br><br><br>**TB2** <br> Me encargué de desarrollar e implmentar los endpoint requeridos para la aplicación siguiente el bounded context de Dashboard and Analytics junto con su desspliegue en un servicio externo, además, logré implementar mejorar al frontend para que sea más presentable para el usuario final.<br><br> TF1: Diseñé y desarrollé las secciones que faltaban en el landing page, correjí endpoints en el backend para su implementación en el frontend. Utilicé las herramientas vistas en el curso, las cuales me sirvieron bastante para un desarrollo de esta entrega.<br><br>                        | TB1:</br>El trabajo realizado en TB1 contribuyó significativamente a la comprensión de la problemática, la formulación de soluciones innovadoras y la estructura de propuestas para resolver problemas específicos en el proyecto. <br><br>**TP** <br> El desarrollo de este trabajo nos permitió enterder mejor como realizar la implementación de una aplicación web de el lado del frontend funcional siguiendo los requerimientos de nuestra aplicación.<br><br><br><br>**TB2** <br> La colaboración de este trabajo nos permitión implementar una versión funcional de la aplicación backend de nuestro proyecto de entender mejor como se realiza dicha implementación acorde a los requrimientos encontrados.<br><br>TF1: El desarrollo de este trabajo nos permitió desarrollar nuestras habilidades de desarrollo de backend para poder solucionar los diversos problemas que afrontamos a lo largo de este sprint.<br><br>|
+**Criterio:**  
+Capacidad de comunicarse efectivamente con un rango de audiencias.  
+En el siguiente cuadro se describe las acciones realizadas y enunciados de  
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro  
+del ABET – EAC - Student Outcome 3.  
+
+| Criterio específico | Acciones realizadas | Conclusiones |
+| ----- | ----- | ----- |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia | **TB1 - Joaquin Cuentas:**<br>Comuniqué oralmente con mis compañeros para asignar las características de la landing page.<br><br>**Walter Fajardo:**<br>Comuniqué las necesidades de los usuarios para diseñar las user stories.<br><br>**Victor Rojas:**<br>Comuniqué necesidades de diseño necesarias en la landing page.<br><br>**Cesar Linares:**<br>Comuniqué las necesidades de los usuarios que me transmitieron por medio de las entrevistas.<br><br>**Pablo Martinez:**<br>Comuniqué oralmente los datos que requerimos en el proyecto mediante la creación de tablas para la base datos.<br><br>**Jose Saavedra:**<br>Comuniqué oralmente la organización que requiere el equipo para ejecutar el primer avance del trabajo, es decir, el sprint 1. | **TB1**<br>En conclusión, la comunicación oral efectiva hacia diferentes rangos de audiencia resulta esencial en el desarrollo del proyecto, específicamente en el desarrollo de la **Landing Page**. Esta habilidad permite explicar con claridad los objetivos y beneficios a nuestros clientes. Gracias a esta capacidad logramos generar una agradable primera toma de contacto con ellos. |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | **TB1 - Joaquin Cuentas:**<br>Coordiné con el equipo las características de la landing page, y luego la implementé en HTML y CSS.<br><br>**Walter Fajardo:**<br>Comuniqué de manera escrita al redactar las user stories.<br><br>**Victor Rojas:**<br>Comuniqué de manera escrita al diseñar los wireframes del proyecto.<br><br>**Cesar Linares:**<br>Comuniqué de manera escrita al analizar y sintetizar los resultados de las entrevistas.<br><br>**Pablo Martinez:**<br>Comuniqué de manera escrita al desarrollar la base de datos.<br><br>**Jose Saavedra:**<br>Comuniqué de manera escrita al diseñar el sprint backlog 1 y asignar una tarea para cada integrante del equipo. | **TB1**<br>En conclusión, la comunicación escrita efectiva a diferentes rangos de audiencia permite transmitir de manera clara y adaptada los objetivos del proyecto. A través de informes técnicos, presentaciones académicas y mensajes accesibles para estudiantes, se asegura que cada grupo comprenda el valor y la utilidad de la página web de **tests psicológicos**. |
+
 
 
 
@@ -238,8 +281,9 @@ Ser la plataforma líder en orientación vocacional en el país, revolucionando 
 | Joaquin Alberto Cuentas Peña ![joaquin.jpg](Assets/chapter01/joaquin.jpg)            | U20201f788        | Soy estudiante de la UPC de la carrera de Ingeniería de Software y me encuentro cursando el 5to ciclo. Cuento con habilidades de programación en C++ y Python, así como aptitudes para el desarrollo en UX y UI. Asimismo, en cuanto a habilidades extracurriculares, he contribuido en proyectos con edición de video y fomentando una actitud colaborativa en equipo                                                                                                                                                                                                                                                                                                                                          |
 | Walter Luis Fajardo Monrroy  ![walter.png](Assets/chapter01/walter.png)              | U202221632        | Soy Walter Luis Fajardo Monrroy, cuento con 20 años y por motivos de estudio resido en Lima. Soy estudiante de la carrera de ingeniería de software, en mi formación como estudiante durante estos ciclos adquirí conocimientos en programación principalmente con lenguaje C + + y python, También cuanto con conocimientos en patrones de software al momento de realizar mis proyectos, además de experiencia realizando diagramas de clases y empleando el DDD (Diseño orientado a objetos). Las habilidades primarias para resaltar serían la responsabilidad y resiliencia frente a las adversidades. Cuento con experiencia en organización y trabajo grupal lo cual emplearé para beneficio del equipo. |
 | Victor Manuel Rojas Reategui ![victor.jpg](Assets/chapter01/victor.jpg)              | U202123655        | Mi nombre es Victor Rojas y voy en el 5to ciclo de la carrera de Ingeniería de Software. Me gusta lo rápido que cambia la tecnología en la actualidad, por lo que este curso me ayudará a expandir mis conocimientos y a explorar nuevas aplicaciones de mi carrera que no había experimentado antes.                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Martinez Gaona Pablo Afranio ![Pablo_Perfil.jpeg](Assets/chapter01/Pablo_Perfil.jpeg)         | u202120011       | Tengo 23 años y estoy estudiando en la Universidad Peruana de Ciencias Aplicadas. Me considero alguien adaptable a la situación, asi como alguien que trabaja muy bien en equipo. Manejo lenguajes de programación como c++ y python, así como manejo de SQL. Busco aprender más acerca de la ciencia de datos asi como de la inteligencia artificial.                                                                                                                                                                                                                                                                                                                                                                      |
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+| Martinez Gaona Pablo Afranio ![Pablo_Perfil.jpeg](Assets/chapter01/Pablo_Perfil.jpeg)         | u202120011       | Tengo 23 años y estoy estudiando en la Universidad Peruana de Ciencias Aplicadas. Me considero alguien adaptable a la situación, asi como alguien que trabaja muy bien en equipo. Manejo lenguajes de programación como c++ y python, así como manejo de SQL. Busco aprender más acerca de la ciencia de datos asi como de la inteligencia artificial.                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|Saavedra Angulo Jose Jhonatan ![Saavedra.png](Assets/chapter01/saavedra.jpg)         | u20191C464        | Mi nombre es Jose, tengo 23 años y soy estudiante de Ingeniería de software en la UPC, sede Monterrico. Soy una persona dedicada, responsable, disciplinada y enfoncado en mejorar y ayudar con mi grupo de trabajo, siendo lo mas util posible. Tengo conocimientos en C++, java, python y html. Cada dia trato de ser mejor y dar lo mejor de mi, aprendiendo de mis errores y no volviendo a cometerlos.                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+
 
 ### 1.2. Solution Profile
 
@@ -577,6 +621,27 @@ Al preguntarle sobre sus motivaciones y temores, Alandro comentó que su mayor m
 Respecto a la seguridad sobre su elección, mencionó que se siente seguro por ahora, aunque es consciente de que solo al iniciar la carrera podrá confirmar si realmente es lo que le gusta. Cuando necesita orientación o apoyo sobre su futuro académico, suele acudir principalmente a sus padres, su abuela y en ocasiones también a sus amigos para conocer sus opiniones.
 Finalmente, mencionó que acceder a una videollamada con un psicólogo sería algo sencillo para él, ya que considera que es una opción práctica, cómoda y accesible desde cualquier lugar, sin necesidad de salir de casa.
 
+**Entrevista N°4: Miguel Alfonso Genaro Vargas Aguilar**
+- Sexo: Masculino
+- Edad: 16 años
+- Ubicación en la que vive: San Amadeo de Garagay, Lima, Perú
+- 
+![Entrevista 4](Assets/Miguel.png)
+#### Entrevista: #####
+link: https://drive.google.com/file/d/1OJ0muJUiNrWgz_7BX9rMQzGJwM2Oo0sg/view?usp=sharing
+
+- Momento en el que inicia: 0:51
+- Duración: 4:56
+  
+**Resumen:**
+El entrevistado de esta ocasión se encuentra cursando cuarto de secundaria. Nos comenta que está interesado en cursar la
+carrera de ingeniería, específicamente las opciones de bioquímica, sistemas y software. No está seguro todavía cuál de las tres, pero
+sabe que le llama la atención todo lo relacionado a matemática, física y química. Además, menciona que todavía no ha tomado un
+test vocacional, ya que todavía es para el año que viene. Dicho eso, él busca orientación con su papá porque él ya tiene experiencia
+por haber asistido a la UTP. También menciona que usa su celular y laptop para resolver dudas que tenga en ese momento, pero en general
+usa todavía libros y cuadernos. En ese sentido, no tendría inconvenientes con una plataforma o servicio digital que lo ayudara. De hecho,
+considera que si es lo más parecido a un test vocacional, sería bastante beneficioso.
+
 
 #### Segmento 2:Psicólogos enfocados en orientación vocacional ####
 
@@ -617,10 +682,11 @@ Sin embargo, Antonella nos comentó que, a pesar de ser herramientas útiles, es
 Durante su experiencia, ha observado que las carreras que los jóvenes suelen descartar con mayor frecuencia son las relacionadas con humanidades, así como algunas otras que, en muchos casos, no cuentan con la aprobación o respaldo de sus padres. En contraste, las carreras que suelen tener más interés y demanda son aquellas vinculadas a las ingenierías, la medicina y la arquitectura, debido a su prestigio social y las expectativas familiares.
 Antonella también resaltó la importancia del rol que cumplen los padres en este proceso, ya que, en varias situaciones, no solo se orienta al estudiante, sino que también se trabaja con la familia para que exista un entendimiento y acompañamiento adecuado.En algunos casos la desinformación de los jóvenes puede ser muy preocupante para los psicólogos al evaluarlos.
 
-**Entrevista N°3  Juan Requejo**
-- Sexo: Másculino
-- Edad: 24 años
-- Ubicación en la que vive: Pueblo Libre, Lima, Perú
+**Entrevista N°3  Aurora Beltrán**
+- Sexo: Femenino
+- Edad: 35 años
+- Ubicación en la que vive: Chimbote, Perú
+
 
 ![Entrevista 6](xxxx)
 
@@ -629,15 +695,20 @@ Antonella también resaltó la importancia del rol que cumplen los padres en est
 - Momento en el que inicia: 
 - Duración: 
 
+![Entrevista 7](Assets/aurora.jpg)
+
+#### Entrevista: ####
+- link:https://drive.google.com/file/d/1PLuv3fR2eAuLDMUIh_Guxe-Cocam8MKZ/view?usp=sharing 
+- Momento en el que inicia: 0:00
+- Duración: 8:37
+
+
 
 **Resumen:**
-El psicólogo Juan Requejo  entrevistado tiene 2 años de experiencia en orientación vocacional, trabajando con jóvenes de 15 a 20 años que suelen estar en sus últimos años de secundaria o en los primeros ciclos universitarios.El proceso que sigue empieza con una entrevista inicial, luego aplica pruebas psicométricas, conversa los resultados y termina elaborando un plan de acción personalizado.
+La psicóloga Aurora entrevistada tiene 3 años de experiencia en orientación vocacional, trabajando con jóvenes de 15 a 20 años que suelen estar en sus últimos años de secundaria o en los primeros ciclos universitarios.El proceso que sigue empieza con un anamnesis, luego aplica evaluaciones de orientación vocacional, conversa los resultados y termina elaborando un plan de acción personalizado.
 Actualmente usa Google Meet, Zoom y formularios online, aunque considera que estas herramientas están muy dispersas y sería mejor tener todo en una plataforma integrada.
 Considera que un buen test vocacional debe ser científicamente valido,visualmente claro y atractivo, relacion de  los resultados con carreras y opciones reales y adaptable a diferentes edades y con análisis cualitativo.
 Está muy a favor de usar plataformas digitales y considera que una app que conecte psicólogos con estudiantes sería ideal para facilitar todo el proceso. Para confiar en una plataforma como Psycho Hell pide que tenga respaldo ético y profesional,tests integrados y confiables,confidencialidad garantizada,un servicio premium que ofrezca valor real.
-
-
-
 
  ### 2.2.3. Análisis de entrevista
  **Segmento 1:Jóvenes estudiantes de 15 - 19 años**
@@ -2032,6 +2103,7 @@ En el caso de este sprint, escogimos el desarrollo de la Landing Page de PsychoH
 
 Cada uno de estos aspectos ha sido asignado a un líder, mientras que otros miembros del equipo cumplen roles de colaboración para asegurar que el desarrollo cumpla con los objetivos del sprint en cuanto a calidad, funcionalidad y tiempo.
 
+
 | Team Member (Last Name, First Name) | GitHub Username     | Aspect Name 1 Leader (L) / Collaborator (C) | Aspect Name 2 Leader (L) / Collaborator (C) | Aspect Name 3 Leader (L) / Collaborator (C) | Aspect Name 4 Leader (L) / Collaborator (C) | Aspect Name 5 Leader (L) / Collaborator (C) |
 |-------------------------------------|----------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
 | Cuentas Peña, Joaquin Alberto        | [JoaCUPE](#)         | L                                           | C                                           | L                                           | L                                           | L                                           |
@@ -2040,6 +2112,17 @@ Cada uno de estos aspectos ha sido asignado a un líder, mientras que otros miem
 | Martínez Gaona, Pablo Afranio        | X                    | L                                           | C                                           | L                                           | C                                           | C                                           |
 | Rojas Reategui, Victor Manuel        | [VRojas1603](#)      | L                                           | L                                           | C                                           | C                                           | X                                           |
 | Saavedra Angulo, José Jonathan       | X                    | X                                           | X                                           | X                                           | X                                           | X                                           |
+| Team Member (Last Name, First Name) | GitHub Username   | Aspect 1 (L/C) | Aspect 2 (L/C) | Aspect 3 (L/C) | Aspect 4 (L/C) | Aspect 5 (L/C) |
+|-------------------------------------|------------------|----------------|----------------|----------------|----------------|----------------|
+| Jose Saavedra                       | [ElrichMasNa](#) | L              | C              | C              | C              | C              |
+| Cesar Linares                       | [Cesar-Linares](#) | L              | C              | L              | C              | C              |
+| Walter Fajardo                      | [WalterFajardo](#) | L              | L              | C              | C              | C              |
+| Victor Rojas                        | [VRojas1603](#)  | L              | L              | C              | C              | C              |
+| Joaquin Cuentas                     | [JoaCUPE](#)     | L              | C              | L              | L              | L              |
+| Pablo Martinez                      | [Delzekl](#)     | L              | C              | C              | C              | C              |
+
+
+
 
 ##### 5.2.1.3. Sprint Backlog 1
 
@@ -2171,4 +2254,922 @@ Para este sprint, las tareas de diseño, implementación y documentación de la 
 
 ![sprint](Assets/sprint1.JPG)
 ![sprint](Assets/sprint2.JPG)
+
+
+#### 5.2.2. Sprint 2
+
+##### 5.2.2.1. Sprint Planning 2.
+
+En este sprint, nos enfocaremos en el desarrollo de la parte visual de la aplicación web, utilizando Angular para la construcción del front-end. El objetivo principal de este sprint es crear las pantallas esenciales de la plataforma, asegurándonos de que la interfaz sea intuitiva, visualmente atractiva 
+
+| **Sprint #**                         | Sprint 2                                           |
+|-------------------------------------|----------------------------------------------------|
+| **Sprint Planning Background**      |                                                    |
+| **Date**                            | 11/05/2025                                         |
+| **Time**                            | 6:00PM                                             |
+| **Location**                        | Virtual - Discord                                  |
+| **Prepared By**                     | Eric Olivera                                       |
+| **Attendees (to planning meeting)** | Eric Olivera, Joaquín Alberto, Walter Fajardo, Víctor Manuel, Pablo Geronimo |
+| **Sprint n – 1 Review Summary**     | La Landing Page fue completada usando HTML y CSS, con un diseño responsivo. |
+| **Sprint n – 1 Retrospective Summary** | El diseño visual y despliegue fueron exitosos, pero se identificaron áreas de mejora en interactividad. |
+| **Sprint Goal & User Stories**      |                                                    |
+| **Sprint n Goal**                   | Para este Sprint necesitamos implementar la parte visual de la aplicación con su respectivo CRUD y lograr desplegarlo en Firebase. |
+| **Sprint n Velocity**               | Por esta oportunidad estaremos aceptando **XX story points** |
+| **Sum of Story Points**             | La suma de Story Points atendidos es de **XX story points** |
+
+
+##### 5.2.2.2. Aspect Leaders and Collaborators. 
+
+En este sprint, nos enfocamos en el desarrollo de la parte visual de las aplicaciones web para PsychoHelp, utilizando Angular para crear una experiencia interactiva. Los aspectos clave identificados para este sprint son:
+Diseño visual de las aplicaciones web (UI/UX): Implementación de las interfaces de usuario.
+
+
+- Desarrollo de la funcionalidad básica en el frontend: Uso de Angular para conectar la lógica con la interfaz.
+
+
+- Integración con servicios backend (API) básicos: Conexión con los servicios para mostrar datos.
+
+
+- Despliegue de las aplicaciones web en Firebase.
+
+
+Cada uno de estos aspectos ha sido asignado a un líder, mientras que otros miembros del equipo colaboran para asegurar que el desarrollo cumpla con los objetivos del sprint en cuanto a calidad, funcionalidad y tiempo.
+Cada uno de estos aspectos ha sido asignado a un líder, mientras que otros miembros del equipo cumplen roles de colaboración para asegurar que el desarrollo cumpla con los objetivos del sprint en cuanto a calidad, funcionalidad y tiempo.
+
+
+| Team Member (Last Name, First Name) | GitHub Username     | Aspect Name 1 Leader (L) / Collaborator (C) | Aspect Name 2 Leader (L) / Collaborator (C) | Aspect Name 3 Leader (L) / Collaborator (C) | Aspect Name 4 Leader (L) / Collaborator (C) | Aspect Name 5 Leader (L) / Collaborator (C) |
+|------------------------------------|----------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
+| Olivera Eric                       | [EricMOB-afk](#)      | L                                           | C                                           | C                                           | C                                           | C                                           |
+| Geronimo Pablo                     | [Phatorgam](#)        |  L                                           |     C                                       | L                                           | C                                           | C                                           |
+| Fajardo Walter                     | [WalterFajardo](#)    | L                                           | L                                           |       C                                      |  C                                             |      C                                       |
+| Victor Rojas                       | [VRojas1603](#)       | L                                           | L                                           |  C                                           |           A                                  |                                             |C
+| Joaquin Cuentas                    | [JoaCUPE](#)          | L                                           | C                                           | L                                           | L                                           | L       
+
+##### 5.2.2.3. Sprint Backlog 2.
+
+En esta sección se presenta el Sprint Backlog 2, correspondiente al segundo ciclo de desarrollo del proyecto. Este backlog contiene las tareas priorizadas y estimadas que el equipo debe ejecutar para alcanzar el objetivo principal del sprint.
+El objetivo principal de este sprint es el desarrollo del frontend interactivo para las aplicaciones web de PsychoHelp, utilizando Angular para la creación de interfaces dinámicas y funcionales. Además, se implementarán conexiones básicas con los servicios backend y el despliegue en Firebase.
+
+| **User Story ID** | **Title**                                          | **Task ID** | **Task Title**                               | **Description**                                                                 | **Estimation (Hours)** | **Assigned to**     | **Status**    |
+|-------------------|----------------------------------------------------|-------------|----------------------------------------------|----------------------------------------------------------------------------------|------------------------|----------------------|---------------|
+| US-15             | Interfaz del catálogo de test        | T01         | Crear interfaz de listado de tests     | Visualización de todos los tests registrados, con estructura de tarjetas o tabla. | 1                      | Eric Olivera     | Done       |
+| US-15             | Interfaz del catálogo de test        | T02         | Implementar formulario de creación de test | Formulario dinámico que permite ingresar título, categoría y descripción del test. | 1                      | Eric Olivera     | Done       |
+| US-15             | Interfaz del catálogo de test        | T03         | Incorporar opción de eliminación y edición de test | Interfaz reutilizable que permite modificar la información del test existente. | 1                      | Eric Olivera     | Done       |
+| US-16             | Interfaz de preguntas clara y simple | T04         | Crear listado de preguntas por test    | Interfaz que muestra las preguntas correspondientes a cada test seleccionado.     | 2                      | Eric Olivera     | Done       |
+| US-16             | Interfaz de preguntas clara y simple | T05         | Diseñar formulario de creación de pregunta | Campos para redactar pregunta, opciones de respuesta, y asignación de puntajes o categorías. | 1                      | Eric Olivera     | Done       |
+| US-16             | Interfaz de preguntas clara y simple | T06         | Eliminar y diseñar pregunta del test   | Opción funcional para borrar y editar preguntas asociadas a un test.              | 1                      | Eric Olivera     | Done       |
+
+LINK DEL TRELLO: https://trello.com/b/vWjVAt4H/sprint-2
+
+#### 5.2.2.4. Development Evidence for Sprint Review. 
+
+Repositorio GitHub creado:
+Nombre del repositorio: project-PsychoHelp/Frontend-Web-Applications
+
+
+Organización: Se utilizó GitHub como sistema de control de versiones para alojar el código fuente, garantizar trazabilidad y mantener un entorno colaborativo.
+
+Metodología usada:
+Se aplicó una estructura de ramas sencilla con main como rama principal. El trabajo se hizo directamente sobre dicha rama al tratarse de una implementación estática inicial.
+https://github.com/project-PsychoHelp/Frontend-Web-Applications
+
+| Repository                                  | Branch              | CommitID                                 | CommitMessage                                | CommitMessageBody           | Commited on Date |
+|--------------------------------------------|---------------------|-------------------------------------------|------------------------------------------------|------------------------------|------------------|
+| project-PsychoHelp/Frontend-Web-Applications | main                | de0169a9ff95afb9006082ceee8bb54bddf7b5fa  | Initial Commit                                | No description provided      | 11/05/2025       |
+| project-PsychoHelp/Frontend-Web-Applications | main                | caa88622994addb832c79b0b8fdd6ec692468c0d  | feat: add components to start front           | No description provided      | 11/05/2025       |
+| project-PsychoHelp/Frontend-Web-Applications | feature-custom-test | 4fee1e3f7ff96c0be76789f7a4b7f5d497239b44  | feat: create CRUD and front from test catalog | No description provided      | 12/05/2025       |
+| project-PsychoHelp/Frontend-Web-Applications | feature-custom-test | bfb36d444220824b5bb2d9fa4fe1864bc94ede8f  | feat: create test content and firebase deployment | No description provided  | 12/05/2025       |
+| project-PsychoHelp/Frontend-Web-Applications | feature-premium-plans | d6ab4ac2e134df42dd8a8c1178941d6c409771fb | feat: project structure                       | No description provided      | 13/05/2025       |
+| project-PsychoHelp/Frontend-Web-Applications | feature-premium-plans | 6821f05589f65c54fd15050617b716bd9835ccd4 | feat: preview 1                                | No description provided      | 13/05/2025       |
+| project-PsychoHelp/Frontend-Web-Applications | feature-premium-plans | 5cbe6a1f71754afd0fc8075f920581e152630a6d | feat: beeceptor                                | No description provided      | 13/05/2025       |
+| project-PsychoHelp/Frontend-Web-Applications | feature-custom-test | 0cba6205194105d40e3bf02d5c0ea619f0be8cd4  | feat: update css component                    | No description provided      | 13/05/2025       |
+
+##### 5.2.2.5. Execution Evidence for Sprint Review. 
+Producto desarrollado: Frontend interactivo de PsychoHelp
+ Tecnologías utilizadas: Angular, Firebase
+En el segundo sprint, el equipo trabajó en la implementación del frontend interactivo de PsychoHelp, centrado en crear una experiencia de usuario dinámica y funcional. A continuación, se detallan los avances realizados:
+Estructura de navegación interactiva: Se implementó un sistema de navegación interactiva utilizando Angular, lo que permite que las secciones de la aplicación sean accesibles de manera fluida.
+
+
+Diseño de interfaces (UI/UX): Se diseñaron y desarrollaron interfaces visuales responsivas para las diferentes secciones de la plataforma, incluyendo el dashboard de estudiantes y psicólogos, adaptadas a dispositivos móviles y de escritorio.
+
+
+Integración básica con backend (API): Se implementaron conexiones básicas con servicios backend para la visualización de datos (por ejemplo, estudiantes activos y psicólogos registrados).
+
+
+Despliegue en Firebase: Se completó el despliegue de la aplicación en Firebase, asegurando que la aplicación estuviera accesible públicamente y pudiera recibir futuros cambios de manera ágil.
+
+
+Componentes de la interfaz: Se crearon componentes reutilizables y modulares dentro de Angular para mejorar la escalabilidad y mantenimiento de la aplicación en futuras iteraciones.
+
+
+Interactividad y flujo de navegación: Se desarrollaron interacciones dinámicas como transiciones entre vistas, carga de datos en tiempo real y formularios interactivos.
+
+**ERIC**
+
+Diseño e implementación del CRUD de tests: Se crearon las vistas de creación, edición, visualización y eliminación de tests psicométricos.
+
+
+Estructura de contenido de los tests: Se implementó la lógica visual para mostrar preguntas, opciones y categorías organizadas por cada test.
+
+
+Integración simulada con API pública: A través de Beeceptor, se definieron endpoints públicos para simular el comportamiento de la API real, permitiendo probar las interacciones sin necesidad de backend.
+
+
+Despliegue en Firebase: Toda la aplicación desarrollada fue desplegada exitosamente en Firebase Hosting, lo cual facilitó pruebas visuales, revisiones del equipo y demostración funcional.
+
+
+
+deploy en firebase: https://pyschohealth-2025.web.app/customTests/tests
+
+APARTADO DEL CATALOGO DE TEST
+![15](Assets/correcciones/15.png)
+
+APARTADO DEL CONTENIDO DE UN TEST
+![15](Assets/correcciones/16.png)
+
+
+**WALTER**
+
+![17](Assets/correcciones/17.png)
+
+**PABLO**
+    ![18](Assets/correcciones/pablo.png)
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
+
+Durante el Sprint 2, el equipo se centró en el desarrollo de la parte visual y dinámica del frontend de PsychoHelp, utilizando Angular para las funcionalidades interactivas y Firebase para el despliegue
+
+Repositorio de Web Services (Planificado para los próximos sprints):
+Se ha preparado el repositorio que se utilizará para el desarrollo de la lógica del backend y para la implementación de los endpoints REST que se necesitarán en los próximos sprints
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
+
+Para este sprint, lo que vamos a necesitar es la página Beeceptor para gestionar nuestras public endpoints. Beeceptor es una herramienta útil para crear endpoints simulados de manera rápida y fácil, lo que nos permitirá tener una interfaz de prueba para las solicitudes y respuestas HTTP
+
+
+1) Beeceptor
+    ![18](Assets/correcciones/18.png)
+    Nos registramos 
+|   ![18](Assets/correcciones/19.png)
+
+    Ya registrados podemos crear nuestras endpoints públicas
+![18](Assets/correcciones/20.png)
+    Y en el serverBasePath: Ponemos la url de nuestro endPoint pública
+![18](Assets/correcciones/21.png)
+
+2) Firebase
+    Firebase es una plataforma de desarrollo de aplicaciones web y móviles proporcionada por Google, diseñada para ayudar a los desarrolladores a crear, gestionar y escalar aplicaciones rápidamente. Firebase ofrece una variedad de servicios que facilitan tanto el desarrollo como la gestión de aplicaciones en tiempo real
+    ![18](Assets/correcciones/22.png)
+
+    Nos registramos con una cuenta de google y vamos a la consola
+    ![18](Assets/correcciones/23.png)
+    Creamos un nuevo proyecto de firebase
+    ![18](Assets/correcciones/24.png)
+    Ponemos un nombre para el proyecto 
+    ![18](Assets/correcciones/25.png)        
+    Vamos al apartado de hosting
+    ![18](Assets/correcciones/26.png)
+    Se configura el firebase hosting en nuestro proyecto de intellij idea
+    ![18](Assets/correcciones/28.png)
+    Con esto ya tendríamos nuestro hosting desplegado
+    con los siguientes comandos 
+    - ng build
+    - sudo npm install -g firebase-tools
+    - firebase login
+    - firebase init
+    - firebase deploy
+
+5.2.2.8. Team Collaboration Insights during Sprint.
+
+    Para este sprint, las tareas de diseño, implementación se distribuyeron para todos los integrantes del equipo
+
+
+![18](Assets/correcciones/29.png)
+![18](Assets/correcciones/30.png)
+![18](Assets/correcciones/31.png)
+![18](Assets/correcciones/32.png)
+
+More actions
+#### 5.2.3. Sprint 3
+
+##### 5.2.3.1. Sprint Planning 3.
+
+En este sprint, nos enfocaremos en el desarrollo de la parte visual de la aplicación web, utilizando Angular para la construcción del front-end. El objetivo principal de este sprint es crear las pantallas esenciales de la plataforma, asegurándonos de que la interfaz sea intuitiva, visualmente atractiva 
+
+| **Sprint #**                         | Sprint 3                                           |
+|-------------------------------------|----------------------------------------------------|
+| **Sprint Planning Background**      |                                                    |
+| **Date**                            | 15/06/2025                                         |
+| **Time**                            | 6:00PM                                             |
+| **Location**                        | Virtual - Discord                                  |
+| **Prepared By**                     | Eric Olivera                                       |
+| **Attendees (to planning meeting)** | Eric Olivera, Joaquín Alberto, Walter Fajardo, Víctor Manuel, Pablo Geronimo |
+| **Sprint n – 1 Review Summary**     | El front fue completado |
+| **Sprint n – 1 Retrospective Summary** | El diseño visual y despliegue fueron exitosos, pero se identificaron áreas de mejora en interactividad. |
+| **Sprint Goal & User Stories**      |                                                    |
+| **Sprint n Goal**                   | Nuestro enfoque para este sprint es establecer la base central integrada de la plataforma PsychoHelp, conectando nuestra página de aterrizaje pública con una aplicación frontend funcional y un backend fundamental. Creemos que esta integración proporcionará un punto de entrada fluido para los usuarios a nuestra aplicación y permitirá la gestión esencial de datos, mejorando significativamente la experiencia inicial del usuario y capacitando a nuestro equipo para construir sobre una base sólida. Esto se confirmará cuando los usuarios puedan acceder y navegar la aplicación web principal de forma directa y fluida desde la página de aterrizaje; el backend soporte exitosamente operaciones para entidades clave, incluyendo estudiantes, psicógolos, tests, y dashboard; y la plataforma lográ ejecutarse exitosamente para su visualización de los endpoints implementados. |
+| **Sprint n Velocity**               | Por esta oportunidad estaremos aceptando **28 story points** |
+| **Sum of Story Points**             | La suma de Story Points atendidos es de **28 story points** |
+
+
+##### 5.2.3.2. Aspect Leaders and Collaborators. 
+
+En este sprint, nos enfocamos en el desarrollo del backend de las aplicaciones web para PsychoHelp y su integración efectiva con el frontend, utilizando servicios API para lograr una comunicación fluida entre ambas capas. Los aspectos clave identificados para este sprint son:
+
+Desarrollo de servicios backend (API REST): Implementación de endpoints necesarios para gestionar los datos y funcionalidades de la plataforma.
+
+Pruebas y validación de funcionalidades: Verificación del correcto funcionamiento de la lógica de negocio y la comunicación entre capas.
+
+Se consideró los aspectos a trabajr como los bounded contexts que SAAS tiene normalmente:
+- Subscriptions and Payments
+- Identity and Preferences
+- Profile and Preferences
+- Asset and Resource Management
+- Service Design and Planning
+- Service Operation and Monitoring
+- Dashboard and Analytics
+
+<table>
+  <tr>
+    <td colspan="2"><strong>Team Member (Last Name, First Name)</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Service Design and Planning<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Assets and Resource Management<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Service Operation and Monitoring<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Subscriptions and Payments<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Dashboard and Analytics<br>Leader (L) / Collaborator (C)</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">Eric Olivera</td>
+    <td> EricMOB-afk</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+    <td>-</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2">Victor Rojas </td>
+    <td>VRojas1603</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>-</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td colspan="2"> Joaquin Cuentas </td>
+    <td>JoaCUPE</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="2">Pablo Geronimo
+</td>
+    <td>Phatorgam</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="2">Walter Fajardo </td>
+    <td> WalterFajardo</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+</table>
+
+##### 5.2.3.3. Sprint Backlog 3. 
+
+En esta sección se presenta el Sprint Backlog 3, correspondiente al segundo ciclo de desarrollo del proyecto. Este backlog contiene las tareas priorizadas y estimadas que el equipo debe ejecutar para alcanzar el objetivo principal del sprint.
+El objetivo principal de este sprint es el desarrollo del frontend interactivo para las aplicaciones web de PsychoHelp, utilizando Angular para la creación de interfaces dinámicas y funcionales. Además, se implementarán conexiones básicas con los servicios backend y el despliegue en Firebase.
+
+Para la gestión y control de estas tares, estamos utilizando Trello.
+![alt text](<Assets/Chapter 5/sprint3/trello.png>)
+Enlance: https://trello.com/b/4Jws6cIF 
+
+Add commentMore actions
+| **User Story ID** | **Title**                                                 | **Task ID** | **Task Title**                                        | **Description**                                                                                              | **Estimation (Hours)** | **Assigned to** | **Status** |
+|-------------------|-----------------------------------------------------------|-------------|--------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|------------------------|------------------|------------|
+| TS-40             | Estadísticas de uso de la plataforma                      | T01         | Crear endpoint para estadísticas de registros          | Endpoint que retorne el total de usuarios registrados.                                                       | 6                    |  Victor Manuel       | To Do      |
+| TS-40             | Estadísticas de uso de la plataforma                      | T02         | Crear endpoint para estadísticas de tests completados  | Endpoint para obtener la cantidad de tests completados por fecha o usuario.                                  | 6                      |Victor Manuel       | To Do      |
+| TS-40             | Estadísticas de uso de la plataforma                      | T03         | Crear endpoint para estadísticas de sesiones agendadas | Endpoint para mostrar sesiones realizadas y agendadas por periodo.                                           | 5                      | Victor Manuel       | To Do      |
+| TS-47             | Visualización de historial de estudiantes                 | T01         | Endpoint para listar estudiantes por psicólogo         | Obtener estudiantes asignados a un profesional.                                                               | 6                      | Victor Manuel      | To Do      |
+| TS-47             | Visualización de historial de estudiantes                 | T02         | Agregar paginación y filtros al historial              | Filtros por fecha, nombre o estado de la sesión para facilitar la búsqueda.                                   | 6                      | Victor Manuel      | To Do      |
+| TS-47             | Visualización de historial de estudiantes                 | T03         | Documentar endpoints del historial                      | Usar Swagger/OpenAPI para describir los endpoints creados.                                                    | 4                      | Victor Manuel       | To Do      |
+| TS-50             | Gestión de opciones de test psicométrico obsoleto         | T01         | Crear endpoint para agregar opción                     | Permitir al desarrollador crear nuevas opciones para tests obsoletos.                                         | 6                      | Eric Olivera      | To Do      |
+| TS-50             | Gestión de opciones de test psicométrico obsoleto         | T02        | Crear endpoint para editar opción                      | Modificar texto o valor de opciones existentes.                                                               | 4                      | Eric Olivera         | To Do      |
+| TS-50             | Gestión de opciones de test psicométrico obsoleto         | T03         | Crear endpoint para eliminar opción                    | Eliminar opciones obsoletas del test.                                                                         | 8                      | Eric Olivera        | To Do      |
+| TS-52             | Visualización del contenido en diferentes idiomas         | T01         | Implementar soporte de idiomas en modelos y respuestas | Añadir campos de idioma en respuestas JSON desde el backend.                                                  | 4                      | Eric Olivera         | To Do      |
+| TS-52             | Visualización del contenido en diferentes idiomas         | T02         | Adaptar contenido de planes premium según idioma       | Obtener textos dinámicos en función del idioma del usuario.                                                   | 5                      | Eric Olivera         | To Do      |
+| US-34             | Visualización de apartado de cómo funciona                | T01         | Diseñar estructura visual de la sección                | Maquetar la sección de “Cómo funciona” con bloques informativos.                                              | 6                      | Eric Olivera         | To Do      |
+| US-34             | Visualización de apartado de cómo funciona                | T02         | Agregar contenido explicativo e ilustraciones          | Incluir textos simples con imágenes o íconos que expliquen el flujo de uso.                                   | 4                      | Eric Olivera         | To Do      |
+| US-34             | Visualización de apartado de cómo funciona                | T03        | Adaptar sección para desktop                   | Aplicar diseño responsive para diferentes dispositivos.                                                       | 6                      | Eric Olivera         | To Do      |
+| US-35             | Encabezado de navegación                                  | T01         | Crear barra de navegación en la landing                | Incluir logo y secciones como “Inicio”, “Planes”, “Contacto”, etc.                                            | 5                      | Eric Olivera         | To Do      |
+| US-35             | Encabezado de navegación                                  | T02        | Agregar estilos e íconos a la barra                    | Personalización visual del header usando CSS e íconos.                                                        | 4                      | Eric Olivera         | To Do      |
+| US-06             | Ingreso a tests psicométricos desde el menú               | T01         | Agregar opción “Tests psicométricos” al menú           | Botón en el menú principal que dirija a la sección de tests.                                                  | 4                      | Eric Olivera         | To Do      |
+| US-06             | Ingreso a tests psicométricos desde el menú               | T02        | Conectar el menú con el router de Angular              | Configurar rutas y navegación hacia la vista de tests.                                                        | 7                      | Eric Olivera         | To Do      |
+| US-06             | Ingreso a tests psicométricos desde el menú               | T03         | Validar acceso según autenticación                     | Asegurar que solo usuarios autenticados accedan a la sección.                                                 | 5                      | Eric Olivera         | To Do      |
+| US-15             | Introducción explicativa al test                          | T01         | Crear componente de introducción al test               | Componente de Angular para mostrar instrucciones antes del test.                                              | 7                      | Eric Olivera         | To Do      |Add commentMore actions
+| US-15             | Introducción explicativa al test                          | T02         | Agregar lógica condicional para mostrar la intro       | Solo mostrar la introducción si es la primera vez que se inicia el test.                                      | 5                      | Eric Olivera         | To Do      |
+| US-15             | Introducción explicativa al test                          | T03         | Estilizar el componente con CSS                        | Diseñar la introducción con estilos amigables y visualmente claros.                                           | 5                      | Eric Olivera        | To Do      |
+
+
+##### 5.2.3.4. Development Evidence for Sprint Review. 
+
+Repositorio GitHub creado:
+Nombre del repositorio: project-PsychoHelp/PyschoHelp-Backend
+
+
+Organización: Se utilizó GitHub como sistema de control de versiones para alojar el código fuente, garantizar trazabilidad y mantener un entorno colaborativo.
+
+Metodología usada:
+Se aplicó una estructura de ramas sencilla con main como rama principal. El trabajo se hizo directamente sobre dicha rama al tratarse de una implementación estática inicial.
+
+https://github.com/project-PsychoHelp/PyschoHelp-Backend
+
+
+
+
+| Repository                                  | Branch              | CommitID                                 | CommitMessage                                | CommitMessageBody           | Commited on Date |
+|--------------------------------------------|---------------------|-------------------------------------------|------------------------------------------------|------------------------------|------------------|
+| project-PsychoHelp/PyschoHelp-Backend |  (HEAD -> master, origin/master, origin/feat/dashboard-analytics, origin/develop, origin/HEAD) | fad21cb | chore(acl): implement profile facade. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 83c27fa | chore(value-object): implement recommended career value object. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | eab5be3 | chore(controller): implement profiles controller. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | a0c83e3 | chore(assemblers): implement resource assemblers. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | bbffaf2 | chore(serviceImpl): implement services Impl. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 83c94d8 | chore(resource): implement interface resources. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | cbf9861 | chore(queries): implement query services. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 52debe4 | chore(queries): implement domain queries. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 1f9b046 | chore(repositories): implement infrastructure repositories. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 8d67f0f | chore(services): implement services. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | a7bcde7 | chore(commands): implement command services. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | a1602af | chore(commands): implement commands. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 5c422b5 | chore(value-object): implement Test value object. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 1d18d5b | chore(dashboard): implement Dashboard aggregate. |  | 2025-06-23 |Add commentMore actions
+| project-PsychoHelp/PyschoHelp-Backend |  | 5947bdb | chore(value-object): implement Progress value object. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 8adfc73 | chore(psychologist): implement Psychologist aggregate. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | bac3612 | chore(section): implement Section aggregate. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 0845ec6 | chore(student): implement Student aggregate. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 8dad57d | fix(pom): refactor pom.xml. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 2ea9425 | chore: initial commit |  | 2025-06-22 |
+
+
+
+##### 5.2.3.5. Execution Evidence for Sprint Review.
+En esta sección se presentan las evidencias de la ejecución de la plataforma para el sprint 3.
+En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint.
+
+<br>Endpoints relacionados a la creación y administración de un examen en particular.
+![alt text](Assets/TB2/1.png)
+<br><br>Endpoints relacionados a la busqueda de exámenes.
+![alt text](Assets/TB2/2.png)
+<br><br>Endpoints relaionados a la administración de los paneles principales de los usuarios de la aplicación web.
+![alt text](<Assets/Chapter 5/sprint3/aplicacion1.png>)
+
+
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+
+<p>A continuación, se detallan los controladores y sus respectivos endpoints documentados:</p>
+
+**<h4>Profile Dashboard and Analytics</h4>**
+<p>Se encarga de recuperar la información necesario para mostrar en los dashboard de cada usuario.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>GET</td><td>/api/v1/profiles/students</td><td>Obtener todos los estudiantes.</td></tr>
+    <tr><td>POST</td><td>/api/v1/profiles/students</td><td>Crear un nuevo estudiante</td></tr>
+    <tr><td>GET</td><td>/api/v1/profiles/sections</td><td>Obtener todas las secciones o información que maneja el psicologo</td></tr>
+    <tr><td>POST</td><td>/api/v1/profiles/sections</td><td>Crear una nueva sección de información</td></tr>
+    <tr><td>GET</td><td>/api/v1/profiles/psychologist</td><td>Obtener todos los psicologos</td></tr>
+    <tr><td>POST</td><td>/api/v1/profiles/psychologist</td><td>Crear unnuevo psicologo</td></tr>
+    <tr><td>GET</td><td>/api/v1/profiles/dashboard</td><td>Obtener todos los dashboards</td></tr>
+    <tr><td>POST</td><td>/api/v1/profiles/dashboard</td><td>Crear un nuevo dashboard</td></tr>
+  </tbody>
+</table>
+
+
+<br>
+
+
+**Exams - Exam Management Endpoints**
+
+| Method | Endpoint                                      | Description                              |
+|--------|-----------------------------------------------|------------------------------------------|
+| GET    | `/api/v1/exams`                               | Fetch all exams                          |
+| POST   | `/api/v1/exams`                               | Add a new exam                           |
+| POST   | `/api/v1/exams/{examId}/question-assing`      | Add a new Question into the exam         |
+| GET    | `/api/v1/exams/{examId}`                      | Obtener examen por ID                    |
+
+---
+
+
+**ExamQuestions - Exam Questions Management Endpoints**
+
+| Method | Endpoint                                         | Description                                       |
+|--------|--------------------------------------------------|---------------------------------------------------|
+| GET    | `/api/v1/exam-question`                          | Fetch all exam questions                         |
+| POST   | `/api/v1/exam-question`                          | Add a new exam question                          |
+| GET    | `/api/v1/exam-question/{examQuestionID}`         | Get specific exam question by ID                 |
+
+---
+
+**ExamViews - Exam Views Management Endpoints**
+
+| Method | Endpoint                                            | Description                                |
+|--------|-----------------------------------------------------|--------------------------------------------|
+| GET    | `/api/v1/examviews/{examviewCode}`                  | Get exam view by code                      |
+| PUT    | `/api/v1/examviews/{examviewCode}`                  | Update exam view by code                   |Add commentMore actions
+| DELETE | `/api/v1/examviews/{examviewCode}`                  | Delete exam view by code                   |
+| GET    | `/api/v1/examviews`                                 | Fetch all exam views                       |
+| POST   | `/api/v1/examviews`                                 | Add a new exam view                        |
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+Aplicación web desplegada: 
+https://pyschohealth.web.app/
+<br><br>Interfaz de bienvenida del estudiante
+![estudiante1](<Assets/Chapter 5/sprint3/estudiante1.png>)
+<br><br> Panel principal del estudiante donde puede ver su progreso en la aplicación
+![estudiante2](<Assets/Chapter 5/sprint3/estudiante2.png>)
+<br><br> Interfaz de busqueda de tests o exámenes vocacionales disponibles
+![alt text](Assets/TB2/6.png)
+<br><br> Interfaz principal de un examen en donde se ven las preguntas que contiene
+![alt text](Assets/TB2/7.png)
+<br><br> Interfaz de bienvenida para el psicólogo
+![psicologo1](<Assets/Chapter 5/sprint3/psicologo1.png>)
+<br><br> Panel principal del psicólogo en donde ve información sobre sus citas agendadas con los estudiantes
+![psicologo2](<Assets/Chapter 5/sprint3/psicologo2.png>)
+##### 5.2.3.8. Team Collaboration Insights during Sprint.
+**Frontend**
+![alt text](<Assets/Chapter 5/sprint3/front1.png>)
+
+![alt text](<Assets/Chapter 5/sprint3/front2.png>)
+
+**Backend**
+![alt text](<Assets/Chapter 5/sprint3/back1.png>)
+
+![alt text](<Assets/Chapter 5/sprint3/back2.png>)
+
+#### 5.2.4. Sprint 4 
+##### 5.2.4.1. Sprint Planning 4. 
+En este sprint, nos enfocaremos en el desarrollo funcionalidades de acceso y registro de sesión tanto para el frontend como para el backend y secciones en las que se muestra y explique nuestra aplicación en el landing page, utilizando Angular para la construcción del front-end y Spring boot para el back-end. El objetivo principal de este sprint es crear las pantallas esenciales de la plataforma, asegurándonos de que la interfaz sea intuitiva, visualmente atractiva. 
+
+| **Sprint #**                         | Sprint 4                                           |
+|-------------------------------------|----------------------------------------------------|
+| **Sprint Planning Background**      |                                                    |
+| **Date**                            | 01/07/2025                                         |
+| **Time**                            | 6:00PM                                             |
+| **Location**                        | Virtual - Discord                                  |
+| **Prepared By**                     | Victor Rojas                                       |
+| **Attendees (to planning meeting)** | Eric Olivera, Victor Rojas |
+| **Sprint 3 Review Summary**     | Se logró la implementación de los endpoints junto con su documentación en la aplicación back-end para conectarlo a la aplicación front-end y así dejar de usar un fake api local.  |
+| **Sprint 3 Retrospective Summary** | El diseño visual y despliegue fueron exitosos, pero se identificaron áreas de mejora en interactividad. |
+| **Sprint Goal & User Stories**      |                                                    |
+| **Sprint n Goal**                   | Nuestro enfoque en el Sprint #4 es optimizar la integración del back-end y las funcionalidades de acceso y registro de la aplicación web para estudiantes que buscan orientación vocacional y psicólogos vocacionales, asegurando una experiencia fluida y efectiva que facilite la conexión digital entre ambos grupos. Creemos que esto proporcionará una plataforma más estable e intuitiva, aumentando la accesibilidad y usabilidad para los usuarios. Esto se confirmará cuando los estudiantes y psicólogos puedan registrarse y acceder fácilmente a la aplicación, experimentando una navegación fluida y beneficiándose de las mejoras implementadas en el front-end y back-end.
+| **Sprint n Velocity**               | Por esta oportunidad estaremos aceptando **85 story points** |
+| **Sum of Story Points**             | La suma de Story Points atendidos es de **85 story points** |
+
+##### 5.2.4.2. Aspect Leaders and Collaborators.  
+En este sprint, nos enfocamos en el desarrollo de nuevas funcionalidades como el registro e inicio de sesión tanto para el backend y frontend para PsychoHelp, utilizando servicios API para lograr una comunicación fluida entre ambas capas, además de implementar nuevas sección informativas al Landing Page de nuestro producto. Los aspectos clave identificados para este sprint son:
+
+Desarrollo de servicios backend (API REST): Implementación de endpoints necesarios para gestionar los datos y funcionalidades de la plataforma.
+
+Pruebas y validación de funcionalidades: Verificación del correcto funcionamiento de la lógica de negocio y la comunicación entre capas.
+
+
+<table>
+  <tr>
+    <td colspan="2"><strong>Team Member (Last Name, First Name)</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>IAM implementation<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Landing page improvement<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Front end missing sections<br>Leader (L) / Collaborator (C)</strong></td>
+    strong></td>
+    <td><strong>Backend improvements<br>Leader (L) / Collaborator (C)</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">Eric Olivera</td>
+    <td> EricMOB-afk</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td colspan="2">Victor Rojas </td>
+    <td>VRojas1603</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+ 
+</table>
+
+##### 5.2.4.3. Sprint Backlog 4. 
+Para este Sprint hemos desarrollado las siguientes user stories y technical stories:
+![trello](Assets/TF/trello.png)
+Link del table en Trello: https://trello.com/b/G6n0RXym  
+| User Story ID | Title | Task ID | Task Title | Description | Estimation (Hours) | Assign to | Status |
+|---------------|-------|---------|------------|-------------|------------|-----------|--------|
+| US-53 | Sección de Evidencias en el Landing Page | T1 | Diseñar layout de la sección de evidencias | Crear el diseño UI/UX para la sección de evidencias en el Landing Page, incluyendo testimonios y elementos visuales responsivos. | 5 | Victor Rojas | To Do |
+| US-53  | Sección de Evidencias en el Landing Page | T2 | Implementar sección en el frontend | Desarrollar la sección de evidencias con HTML, CSS y JavaScript, asegurando responsividad en móviles y escritorio. | 5 | Victor Rojas | To Do |
+| US-01 | Registro con nombre y contraseña en la aplicación web | T1 | Diseñar interfaz de registro | Crear el diseño UI/UX para la pantalla de registro con campos para nombre y contraseña. | 6 | Eric Olivera | To Do |
+| US-01 | Registro con nombre y contraseña en la aplicación web | T2 | Implementar formulario de registro | Desarrollar el formulario de registro en el frontend con validaciones en tiempo real para nombre y contraseña. | 6 | Victor Rojas | To Do |
+| US-01 | Registro con nombre y contraseña en la aplicación web | T3 | Conectar formulario con endpoint | Integrar el formulario de registro con el endpoint de registro del backend para procesar los datos del usuario. | 6 | Eric Olivera | To Do |
+| US-02 | Inicio de sesión con credenciales en la aplicación web | T1 | Diseñar interfaz de login | Crear el diseño UI/UX para la pantalla de inicio de sesión con campos para correo y contraseña. | 4 | Eric Olivera | To Do |
+| US-02 | Inicio de sesión con credenciales en la aplicación web | T2 | Implementar formulario de login | Desarrollar el formulario de login en el frontend con validaciones básicas y mensajes de error claros. | 4 | Victor Rojas | To Do |
+| US-02| Inicio de sesión con credenciales en la aplicación web | T3 | Conectar formulario con endpoint | Integrar el formulario de login con el endpoint de autenticación del backend para validar credenciales. | 4 | Eric Olivera | To Do |
+| TS-54 | Integración de IAM para Endpoint de Registro | T1 | Configurar servicio IAM para registro | Configurar la lógica para el endpoint de registro en el backend. | 8 | Victor Rojas | To Do |
+| TS-54 | Integración de IAM para Endpoint de Registro | T2 | Implementar lógica de creación de usuarios | Desarrollar la lógica en el endpoint para crear usuarios con roles diferenciados (estudiante/psicólogo). | 8 | Victor Rojas | To Do |
+| TS-54 | Integración de IAM para Endpoint de Registro | T3 | Realizar pruebas unitarias | Crear y ejecutar pruebas unitarias para validar la integración del endpoint de registro con IAM. | 8 | Eric Olivera | To Do |
+| TS-55 | Integración de IAM para Endpoint de Inicio de Sesión | T1 | Configurar servicio IAM para login | Configurar el servicio IAM para el endpoint de inicio de sesión en el backend. | 7 | Victor Rojas | To Do |
+| TS-55 | Integración de IAM para Endpoint de Inicio de Sesión | T2 | Implementar lógica de autenticación | Desarrollar la lógica para autenticar usuarios y generar tokens JWT en el endpoint de login. | 7 | Eric Olivera | To Do |
+| TS-55 | Integración de IAM para Endpoint de Inicio de Sesión | T3 | Realizar pruebas de integración | Ejecutar pruebas de integración para validar la autenticación con IAM y el manejo de errores. | 7 | Victor Rojas | To Do |
+##### 5.2.4.4. Development Evidence for Sprint Review. 
+| Repository                                  | Branch              | CommitID                                 | CommitMessage                                | CommitMessageBody           | Commited on Date |
+|--------------------------------------------|---------------------|-------------------------------------------|------------------------------------------------|------------------------------|------------------|
+| project-PsychoHelp/PyschoHelp-Backend |  | e45bf13 | Merge pull request #5 from project-PsychoHelp/feature/test-management |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | b1275fc | chore: Add IAM Endpoints |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 1d69e9c | chore: Add IAM Endpoints |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 2c32a7d | Merge pull request #4 from project-PsychoHelp/feature/test-management |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 841b4c6 | chore: Add Answer Endpoints |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | b259951 | Merge pull request #3 from project-PsychoHelp/feature/test-management |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 68d993f | chore: Add Answer Endpoints |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | f7166a4 | chore: Question |  | 2025-07-07 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 62d2413 | chore: refactor proyect |  | 2025-07-07 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 257d392 | Merge pull request #2 from project-PsychoHelp/feature/test-management |  | 2025-07-06 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 5334548 | chore: refactor proyect |  | 2025-07-06 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 71b6d89 | Merge pull request #1 fro:
+| project-PsychoHelp/PyschoHelp-Backend |  | e45bf13 | Merge pull request #5 from project-PsychoHelp/feature/test-management |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | b1275fc | chore: Add IAM Endpoints |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 1d69e9c | chore: Add IAM Endpoints |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 2c32a7d | Merge pull request #4 from project-PsychoHelp/feature/test-management |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 841b4c6 | chore: Add Answer Endpoints |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | b259951 | Merge pull request #3 from project-PsychoHelp/feature/test-management |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 68d993f | chore: Add Answer Endpoints |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | f7166a4 | chore: Question |  | 2025-07-07 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 62d2413 | chore: refactor proyect |  | 2025-07-07 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 257d392 | Merge pull request #2 from project-PsychoHelp/feature/test-management |  | 2025-07-06 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 5334548 | chore: refactor proyect |  | 2025-07-06 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 71b6d89 | Merge pull request #1 fro: 
+| project-PsychoHelp/PyschoHelp-Backend |  | e45bf13 | Merge pull request #5 from project-PsychoHelp/feature/test-management |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | b1275fc | chore: Add IAM Endpoints |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 1d69e9c | chore: Add IAM Endpoints |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 2c32a7d | Merge pull request #4 from project-PsychoHelp/feature/test-management |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 841b4c6 | chore: Add Answer Endpoints |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | b259951 | Merge pull request #3 from project-PsychoHelp/feature/test-management |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 68d993f | chore: Add Answer Endpoints |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | f7166a4 | chore: Question |  | 2025-07-07 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 62d2413 | chore: refactor proyect |  | 2025-07-07 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 257d392 | Merge pull request #2 from project-PsychoHelp/feature/test-management |  | 2025-07-06 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 5334548 | chore: refactor proyect |  | 2025-07-06 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 71b6d89 | Merge pull request #1 from project-PsychoHelp/feature/test-management  |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | e45bf13 | Merge pull request #5 from project-PsychoHelp/feature/test-management |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | b1275fc | chore: Add IAM Endpoints |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 1d69e9c | chore: Add IAM Endpoints |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 2c32a7d | Merge pull request #4 from project-PsychoHelp/feature/test-management |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 841b4c6 | chore: Add Answer Endpoints |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | b259951 | Merge pull request #3 from project-PsychoHelp/feature/test-management |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 68d993f | chore: Add Answer Endpoints |  | 2025-07-08 |
+| project-PsychoHelp/PyschoHelp-Backend |  | f7166a4 | chore: Question |  | 2025-07-07 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 62d2413 | chore: refactor proyect |  | 2025-07-07 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 257d392 | Merge pull request #2 from project-PsychoHelp/feature/test-management |  | 2025-07-06 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 5334548 | chore: refactor proyect |  | 2025-07-06 |
+##### 5.2.4.5. Execution Evidence for Sprint Review. 
+- Endpoints para exams <br>
+![alt text](Assets/TF/1.png)<br>
+- Authentication endpoints para el inicio de sesión y registro<br>
+![alt text](Assets/TF/2.png)<br>
+- Endpoints para las preguntas de los tests<br>
+![alt text](Assets/TF/3.png)<br>
+![alt text](Assets/TF/4.png)<br>
+- Endpoints para los perfiles de los usuarios<br>
+![alt text](Assets/TF/5.png)<br>
+- Endpoints para las respuestas de las preguntas en los tests<br>
+![alt text](Assets/TF/6.png)<br>
+![alt text](Assets/TF/7.png)<br>
+- Endpoints para los repositorios de los exámenes.<br>
+![alt text](Assets/TF/8.png)<br>
+![alt text](Assets/TF/9.png)<br>
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review. 
+## Questions - Questions Management Endpoints
+
+| Method | Endpoint                                                    | Description                           |
+|--------|-------------------------------------------------------------|---------------------------------------|
+| GET    | /api/v1/exams/{examId}/questions/{questionId}            | Get specific question by ID           |
+| PUT    | /api/v1/exams/{examId}/questions/{questionId}            | Update a specific question            |
+| DELETE | /api/v1/exams/{examId}/questions/{questionId}            | Delete a specific question            |
+| GET    | /api/v1/exams/{examId}/questions                         | Get all questions for an exam         |
+| POST   | /api/v1/exams/{examId}/questions                         | Create a new question                 |
+| GET    | /api/v1/exams/{examId}/questions/search                  | Search questions by filters           |
+
+---
+
+## Authentication - Authentication Endpoints
+
+| Method | Endpoint                                  | Description               |
+|--------|-------------------------------------------|---------------------------|
+| POST   | /api/v1/authentication/sign-up         | User registration         |
+| POST   | /api/v1/authentication/sign-in         | User login/authentication |
+
+---
+
+## Exams - Exam Management Endpoints
+
+| Method | Endpoint                            | Description                |
+|--------|-------------------------------------|----------------------------|
+| GET    | /api/v1/exams/{examId}           | Get exam by ID             |
+| PUT    | /api/v1/exams/{examId}           | Update an existing exam    |
+| DELETE | /api/v1/exams/{examId}           | Delete an exam             |
+| GET    | /api/v1/exams                    | Fetch all exams            |
+| POST   | /api/v1/exams                    | Create a new exam          |
+## Answers - Answers Management Endpoints
+
+| Method | Endpoint                                                           | Description              |
+|--------|--------------------------------------------------------------------|--------------------------|
+| GET    | /api/v1/questions/{questionId}/answers/{answerId}               | Get specific answer by ID|
+| PUT    | /api/v1/questions/{questionId}/answers/{answerId}               | Update a specific answer |
+| DELETE | /api/v1/questions/{questionId}/answers/{answerId}               | Delete a specific answer |
+| GET    | /api/v1/questions/{questionId}/answers                          | Get all answers for a question |
+| POST   | /api/v1/questions/{questionId}/answers                          | Create a new answer      |
+| GET    | /api/v1/questions/{questionId}/answers/search                   | Search answers by filters|
+
+---
+
+## Users - User Management Endpoints
+
+| Method | Endpoint                        | Description          |
+|--------|---------------------------------|----------------------|
+| GET    | /api/v1/users                 | Get all users        |
+| GET    | /api/v1/users/{userId}        | Get user by ID       |
+
+---
+
+## Repositories Exam - Repositories Exam Management Endpoints
+
+| Method | Endpoint                                                    | Description                         |
+|--------|-------------------------------------------------------------|-------------------------------------|
+| GET    | /api/v1/exams/{examId}/repositoriesExam                  | Get all repository exams for exam   |
+| POST   | /api/v1/exams/{examId}/repositoriesExam                  | Create a new repository exam        |
+| GET    | /api/v1/exams/{examId}/repositoriesExam/search           | Search repository exams by filters  |
+##### 5.2.4.7. Software Deployment Evidence for Sprint Review. 
+- Implementación de nuevas secciones en el landing page
+![alt text](Assets/TF/l1.png)
+<br><br>
+![alt text](Assets/TF/l2.png)
+<br><br>
+![alt text](Assets/TF/l3.png)
+<br><br>
+- About the product video<br>
+![alt text](Assets/TF/about-the-product-section.png)
+<br><br>
+- Evidencias<br>
+![alt text](Assets/TF/l5.png)
+<br><br>
+- About the team video<br>
+![alt text](Assets/TF/about-the-team-section.png)
+<br><br>
+- Call To action<br>
+![alt text](Assets/TF/l7.png)
+<br><br>
+- Este es el portal del estudiante donde hay un contexto general
+![alt text](Assets/TF/10.png)
+<br><br>
+- Lugar donde te puedes registrar o iniciar sesión
+![alt text](Assets/TF/11.png)
+<br><br>
+- Zona de los contenido de los examenes, premiun y no premiun
+![alt text](Assets/TF/12.png)
+<br><br>
+- Zona donde están las preguntas de los examenes donde puedes escoger distintas opciones
+![alt text](Assets/TF/13.png)
+<br><br>
+- Verificación de tus respuestas con sus explicaciones respectivas
+![alt text](Assets/TF/14.png)
+<br><br>
+- Zona de su Dashboard, donde puedes ver tus examenes dados
+![alt text](Assets/TF/15.png)
+<br><br>
+##### 5.2.4.8. Team Collaboration Insights during Sprint.
+- Landing page <br>
+![alt text](Assets/TF/e1.png)
+<br>
+- Frontend <br>
+![alt text](Assets/TF/e2.png)
+<br>
+- Backend <br>
+![alt text](Assets/TF/e3.png)
+<br>
+##### 5.3. Validation Interviews.
+
+##### 5.3.1. Diseño de Entrevistas.
+**Entrevistas por Segmento - Plataforma PsychoHelp**
+
+Segmento: Estudiantes
+- ¿Qué tan fácil te resultó registrarte y entender el propósito de PsychoHelp?
+
+- ¿La sección de tests vocacionales fue clara y accesible desde el inicio?
+
+- ¿El informe de resultados te pareció útil con la explicación brindada?
+
+- ¿De que manera te sirvió la información en el panel principal del estudiante?
+
+- ¿La interfaz te motivó a continuar explorando tu perfil vocacional?
+
+- ¿Te pareció clara la sección de “Mi perfil” y sus recomendaciones?
+
+- ¿Pudiste revisar tus resultados anteriores sin dificultad?
+
+- ¿Confiaste en la plataforma para recibir orientación profesional?
+
+- ¿El diseño de la aplicación te pareció moderno y fácil de usar?
+
+- ¿Qué mejorarías en la experiencia visual o funcional como estudiante?
+
+Segmento: Psicólogos
+- ¿Fue clara la información sobre cómo funciona la plataforma desde el inicio?
+
+- ¿El panel de control te permitió gestionar adecuadamente tus sesiones?
+
+- ¿Te pareció útil el historial de estudiantes atendidos y sus progresos?
+
+- ¿La opción para calificar o hacer comentarios sobre los tests fue fácil de usar?
+
+- ¿Consideras útil ver el perfil vocacional del estudiante antes de una sesión?
+
+- ¿Pudiste editar tu disponibilidad horaria sin problemas?
+
+- ¿La plataforma facilita la comunicación con los estudiantes?
+
+- ¿El diseño de tu perfil profesional te pareció apropiado y personalizable?
+
+- ¿Confías en PsychoHelp como canal de atracción de nuevos estudiantes?
+
+- ¿El módulo de reportes te ayuda a evaluar la evolución de tus estudiantes?
+
+- ¿La plataforma te notifica con tiempo sobre las próximas sesiones?
+
+- ¿Qué funcionalidades crees que faltan para mejorar tu experiencia como psicólogo?
+
+##### 5.3.2. Registro de Entrevistas.
+| Entrevista 1: Estudiante                            |                                                                                                                                                                  |
+|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                 | Joseph                                                                                                                                                    |
+| Edad                                                | 18                                                                                                                                                               |                                                                                                                                     |
+| Departamento                                        | Lima                                                                                                                                                             |
+| Dispositivo utilizado                               | Móvil, laptop                                                                                                                                                        |
+| Duración de la Entrevista                           | 5:06                                                                                                                                                             |
+| Análisis de la Entrevista                       |                                                                                                                                                                  |
+| Visualización de Landing Page                       | Muy bien hecha, contiene información relevante para entender la aplicación web.                                                                                                                           |
+| Dashboard y navegación                              | Fácil navegación e intuitivo doseño me permiten conocer las funcionalidades de la aplicación rapidamente. |
+| Seleccion de tests                            | Sencillo y bastante intuitivo. Pude ver los tests rapidamente.                                        |
+| Visualización de los Tests y sus preguntas | Bien hecha, me agradó el hehco de que puedo ver una retroalimentación luego dar las preguntas para tener un mejor entendimiento de las preguntas después de dar el test.                                   |
+| Entrevista 2: Estudiante                            |
+| Nombre Entrevistado                                 | Miguel Vasquez                                                                                                                                                   |
+| Edad                                                | 18                                                                                                                                                               |                                                                                                                                     |
+| Departamento                                        | Lima                                                                                                                                                             |
+| Dispositivo utilizado                               | Móvil, PC                                                                                                                                                        |
+| Duración de la Entrevista                           | 4:08                                                                                                                                                             |
+| Análisis de la Entrevista                       |                                                                                                                                                                  |
+| Visualización de Landing Page                       | Buna información y previzualización de la aplicación web para poder entender mejor su funcionalidad antes de registrarse.                                                                                                                           |
+| Dashboard y navegación                              | Su sencillez es su punto fuerte al no estar cargada de información. Hace ce falta mejorar la visualización en PC en otras secciones pues en móvil si se ve bien. |
+| Seleccion de tests                            | Sencillo y bastante intuitivo. Me gustó el hecho de poder ver una previsualización de la publicación que estoy por crear.                                        |
+| Visualización de los Tests y sus preguntas | Muy bien hecha y fácil de usar, no implementan una interfaz demasiado cargada de colores o diseños los cuales pueden distraer a la hora de dar el test.                       |
+
+##### 5.3.3. Evaluaciones según heurísticas.
+
+Evaluación Heurística de PsychoHelp
+Carrera: Ingeniería de Software
+Curso: Aplicaciones Web
+Auditor: PsychoHelp
+Plataforma evaluada: PsychoHelp – Plataforma Web
+
+**Tareas evaluadas**
+- Comprender el propósito de la plataforma al ingresar
+
+- Realizar registro como estudiante o psicólogo
+
+- Iniciar un test vocacional y navegar por sus preguntas
+
+- Visualizar resultados y recomendaciones de carrera
+
+- Agendar una sesión con un psicólogo
+
+- Acceder al historial de tests y sesiones
+
+- Interacción de psicólogos con el perfil del estudiante
+
+- Ver disponibilidad de psicólogos y agendar citas
+
+- Recibir notificaciones y recordatorios de sesiones
+
+- Acceder a recursos vocacionales y sugerencias personalizadas
+
+| #  | Problema detectado                                                                 | Severidad | Heurística/Principio violado                                      |
+|----|-------------------------------------------------------------------------------------|-----------|-------------------------------------------------------------------|
+| 1  | Falta de guía clara tras registrarse                                               | 2         | Reconocer en lugar de recordar                                    |
+| 2  | Íconos sin etiquetas accesibles o tooltips                                         | 3         | Diseño inclusivo / Ayuda y documentación                          |
+| 3  | Jerarquía visual débil en botones clave                                            | 2         | Visibilidad y jerarquía visual                                    |
+| 4  | Ambigüedad en elección de rol (psicólogo/estudiante)                              | 3         | Prevención de errores / Control del usuario                       |
+| 5  | Informe de resultados sin conexión evidente con carreras                          | 2         | Correspondencia entre sistema y el mundo real                     |
+| 6  | Historial de tests sin marcadores visuales recientes                               | 2         | Visibilidad del estado del sistema                                |
+| 7  | Falta de retroalimentación visual en acciones de perfil                            | 3         | Visibilidad del estado del sistema                                |
+| 8  | Sin opción para comparar resultados pasados del test                               | 2         | Flexibilidad y eficiencia de uso                                  |
+| 9  | Poca personalización en la experiencia del estudiante                              | 2         | Reconocer en lugar de recordar / Personalización del contenido    |
+| 10 | Contraste bajo en modo claro                                                       | 3         | Diseño inclusivo                                                  |
+| 11 | Políticas de privacidad poco visibles al agendar sesión                            | 2         | Ayuda y documentación / Seguridad del usuario                     |
+| 12 | Botón para contactar psicólogo poco visible al finalizar test                      | 2         | Visibilidad / Consistencia y estándares                           |
+
+
+
+**Descripción de problemas clave**
+
+### Problema #2: Íconos sin etiquetas accesibles o tooltips
+- **Severidad:** 3
+- **Heurística violada:** Diseño inclusivo / Ayuda y documentación
+- **Descripción:** Íconos como “Ver resultados”, “Mi perfil”, o “Agendar sesión” no tienen texto alternativo ni descripciones que permitan su comprensión con lector de pantalla.
+- **Recomendación:** Añadir `alt`, `aria-label` o tooltips visibles para mejorar la accesibilidad.
+
+---
+
+### Problema #4: Ambigüedad en elección de rol (psicólogo/estudiante)
+- **Severidad:** 3  
+- **Heurística violada:** Prevención de errores / Control del usuario
+- **Descripción:** En el registro inicial no se valida de forma clara si el usuario seleccionó correctamente su rol, lo que puede afectar la navegación posterior.
+- **Recomendación:** Añadir confirmación visual clara y posibilidad de corregir el rol antes de finalizar el registro.
+
+
+## 5.4. Video About-the-Product.
+
+![alt text](Assets/TF/about-the-product.png)
+<br>El enlace al video about the product se encuentra en los anexos.
+# Conclusiones
+A lo largo del desarrollo del modelo de negocio digital PsychoHelp, hemos logrado validar la necesidad real y urgente de soluciónes digitales para estudiantes que esten en un estado de confución sin saber a que dedicarse luego de terminar el colegio y para psicologos que busquen conectar de manera más eficiente y rapida con sus paciente.
+
+
+Se logró validar las necesidades de nuestros usuarios objetivos y diseñar un producto más alineado a ellos gracias a múltiples herramientas como el User Persona, User Task Matrix, As-Is y To-Be Scenarios.
+A partir de esto hemos desarrollado historias de usuario que nos servirán para tener en cuenta las funcionalidades que implementaremos en las siguientes tareas. Hemos diseñado también nuestra Landing Page y Web Aplication en herramientas de diseño colaborativas.
+
+Algunas recomendaciones que tomamos en cuenta que podrían impulsar el desarrollo y crecimiento en el mercado de PsychoHelp son:
+- Desarrollar un MVP centrado en funciones clave: alertas de citas, historial de citas pasadas.
+- Realizar pruebas piloto en campo con usuarios reales antes del lanzamiento masivo.
+
+Este trabajo ha demostrado que PsychoHelp no solo resuelve un problema real, sino que tiene el potencial de transformar la forma en que los estudiantes logrann encontrar su vocación por medios digitales en el Perú. Los próximos pasos deberán enfocarse en escalar esta solución de manera sostenible y centrada en el usuario.
+
+# Recomendaciones
+
+- Fomentar una validación continua con usuarios reales antes de cada nueva iteración, especialmente para asegurar la claridad del flujo de registro y test.
+- Implementar mejoras de accesibilidad visual (contraste, tooltips, navegación con teclado) para asegurar una experiencia inclusiva.
+- Automatizar más tareas repetitivas (como generación de reportes vocacionales) para aumentar eficiencia del equipo y experiencia del usuario.
+- Documentar los aprendizajes de cada sprint de forma sistemática para que el equipo pueda identificar patrones de mejora continua.
+- Diseñar una estrategia de personalización del contenido para estudiantes, basada en sus resultados y progreso dentro de la plataforma.
+ 
+# Bibliiografía
+
+Cohn, M. (n.d.). *User stories articles*. Mountain Goat Software. https://www.mountaingoatsoftware.com/blog/tag/user-stories
+
+Conventional Commits. (n.d.). *Conventional Commits*. https://www.conventionalcommits.org/
+
+Google. (n.d.). *Google HTML/CSS style guide*. https://google.github.io/styleguide/htmlcssguide.html
+
+Nielsen Norman Group. (n.d.). *Front-end style-guides: Definition, requirements, component checklist*. https://www.nngroup.com/articles/front-end-style-guides/
+
+Nielsen Norman Group. (n.d.). *The four dimensions of tone of voice*. https://www.nngroup.com/articles/tone-of-voice-dimensions/
+
+Nvie. (n.d.). *A successful Git branching model*. https://nvie.com/posts/a-successful-git-branching-model/
+
+Preston-Werner, T. (n.d.). *Semantic versioning 2.0.0*. https://semver.org/
+
+The Apache Software Foundation. (n.d.). *Maven - Guides*. https://maven.apache.org/guides/index.html
+
+Spring. (n.d.). *Spring Boot documentation*. https://docs.spring.io/spring-boot/index.html
+
+UXPressia. (n.d.). *User vs. buyer persona: Differences and free template*. https://uxpressia.com/blog/user-persona-vs-buyer-persona-difference
+
+W3Schools. (n.d.). *HTML style guide and coding conventions*. https://www.w3schools.com/html/html5_syntax.asp
+# Anexos.
+- Organización de Github: https://github.com/project-PsychoHelp
+- Landing Page desplegada: https://project-psychohelp.github.io/Landing-page/
+- Aplicación Frontend desplegada: https://pyschohealth.web.app/
+- Video About the Team: https://youtu.be/5VEMmK2QNo4
+- Video About the Product: https://youtu.be/HJFzDNdgBW0 
+- Video entrevistas: https://youtu.be/iBIvZD3VNfM
 
