@@ -616,27 +616,24 @@ Sin embargo, Antonella nos comentó que, a pesar de ser herramientas útiles, es
 Durante su experiencia, ha observado que las carreras que los jóvenes suelen descartar con mayor frecuencia son las relacionadas con humanidades, así como algunas otras que, en muchos casos, no cuentan con la aprobación o respaldo de sus padres. En contraste, las carreras que suelen tener más interés y demanda son aquellas vinculadas a las ingenierías, la medicina y la arquitectura, debido a su prestigio social y las expectativas familiares.
 Antonella también resaltó la importancia del rol que cumplen los padres en este proceso, ya que, en varias situaciones, no solo se orienta al estudiante, sino que también se trabaja con la familia para que exista un entendimiento y acompañamiento adecuado.En algunos casos la desinformación de los jóvenes puede ser muy preocupante para los psicólogos al evaluarlos.
 
-**Entrevista N°3  Juan Requejo**
-- Sexo: Másculino
-- Edad: 24 años
-- Ubicación en la que vive: Pueblo Libre, Lima, Perú
+**Entrevista N°3  Aurora Beltrán**
+- Sexo: Femenino
+- Edad: 35 años
+- Ubicación en la que vive: Chimbote, Perú
 
-![Entrevista 6](Assets/Erick.png)
+![Entrevista 7](Assets/aurora.jpg)
 
 #### Entrevista: ####
-- link:https://youtu.be/IuQXwxSmHgA 
+- link:https://drive.google.com/file/d/1PLuv3fR2eAuLDMUIh_Guxe-Cocam8MKZ/view?usp=sharing 
 - Momento en el que inicia: 0:00
-- Duración: 3:39
+- Duración: 8:37
 
 
 **Resumen:**
-El psicólogo Juan Requejo  entrevistado tiene 2 años de experiencia en orientación vocacional, trabajando con jóvenes de 15 a 20 años que suelen estar en sus últimos años de secundaria o en los primeros ciclos universitarios.El proceso que sigue empieza con una entrevista inicial, luego aplica pruebas psicométricas, conversa los resultados y termina elaborando un plan de acción personalizado.
+La psicóloga Aurora entrevistada tiene 3 años de experiencia en orientación vocacional, trabajando con jóvenes de 15 a 20 años que suelen estar en sus últimos años de secundaria o en los primeros ciclos universitarios.El proceso que sigue empieza con un anamnesis, luego aplica evaluaciones de orientación vocacional, conversa los resultados y termina elaborando un plan de acción personalizado.
 Actualmente usa Google Meet, Zoom y formularios online, aunque considera que estas herramientas están muy dispersas y sería mejor tener todo en una plataforma integrada.
 Considera que un buen test vocacional debe ser científicamente valido,visualmente claro y atractivo, relacion de  los resultados con carreras y opciones reales y adaptable a diferentes edades y con análisis cualitativo.
 Está muy a favor de usar plataformas digitales y considera que una app que conecte psicólogos con estudiantes sería ideal para facilitar todo el proceso. Para confiar en una plataforma como Psycho Hell pide que tenga respaldo ético y profesional,tests integrados y confiables,confidencialidad garantizada,un servicio premium que ofrezca valor real.
-
-
-
 
  ### 2.2.3. Análisis de entrevista
  **Segmento 1:Jóvenes estudiantes de 15 - 19 años**
