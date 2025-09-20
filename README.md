@@ -1591,7 +1591,7 @@ link: https://miro.com/welcomeonboard/QlBWbmlOR2twVG5zbldnNXk2TDBXMUV1bmxRbGN2cl
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
-![Class Diagram](Assets/Chapter%204/diagram_class.jpeg)
+![Class Diagram](Assets/Diagrama%20en%20blanco.png)
 #### 4.7.2. Class Dictionary
 
 # Documentación de Clases
