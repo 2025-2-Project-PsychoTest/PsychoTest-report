@@ -789,7 +789,15 @@ Enrique atraviesa un proceso emocionalmente abrumador y poco estructurado. La so
 
 Luis trabaja con compromiso, pero se enfrenta a procesos manuales, herramientas poco eficientes y limitaciones para escalar su impacto. Esto afecta su motivación y profesionalismo. Una plataforma como PsychoTest representaría una oportunidad clave para optimizar su práctica, ampliar su alcance y ofrecer un servicio vocacional de mayor calidad y eficiencia.
 
-## 2.4. Ubiquitous Language
+## 2.4. Big Picture Event Storming
+
+![bigEventStorming](Assets/bigEventStorming.jpg)
+
+link: https://miro.com/welcomeonboard/QlBWbmlOR2twVG5zbldnNXk2TDBXMUV1bmxRbGN2clFSQUMyL0lwUGZZL0swRHNJSTBsYkVsTGV5S1Z3am5STkRiMlZ3YWVoRnN5M2svUUFlRm1kYjQ1SXZOeitBdHBNWnorSFlKY2VwWUtDQjlNaGZNTXc3R09lelYvdzBhblJ3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=755070643817
+
+
+
+## 2.5. Ubiquitous Language
 
 | Término en inglés           | Término en español          | Definición                                                                                                           |
 |----------------------------|-----------------------------|----------------------------------------------------------------------------------------------------------------------|
