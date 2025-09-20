@@ -1547,6 +1547,12 @@ https://acortar.link/W1cgWp
 
 #### 4.6.1. Design-Level Event Storming
 
+![dlevelEventStorming1](Assets/dlevelEventStorming2.jpg)
+
+![dlevelEventStorming2](Assets/dlevelEventStorming2.jpg)
+
+link: https://miro.com/welcomeonboard/QlBWbmlOR2twVG5zbldnNXk2TDBXMUV1bmxRbGN2clFSQUMyL0lwUGZZL0swRHNJSTBsYkVsTGV5S1Z3am5STkRiMlZ3YWVoRnN5M2svUUFlRm1kYjQ1SXZOeitBdHBNWnorSFlKY2VwWUpTVlpXMzJvSUdtZ3B6SkJ3Uk9TbklnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=480534193568
+
 
 
 #### 4.6.2. Software Architecture Context Diagrams
