@@ -132,10 +132,6 @@ en donde se puede ver la evidencia de colaboración.<br>
       - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
       - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
     - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
-- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315032\_upc\_edu\_pe/EXuC3iWdqVZLvpQqu9WhDfMBrjcR5ysAYxonwmYJhobSLQ?e=sOcdoI\&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](#httpsupcedupe-mysharepointcomvgpersonalu202315032_upc_edu_peexuc3iwdqvzlvpqqu9whdfmbrjcr5ysayxonwmyjhobslqesocdoinaveyjyzwzlcnjhbeluzm8ionsicmvmzxjyywxbchaioijtdhjlyw1xzwjbchailcjyzwzlcnjhbfzpzxcioijtagfyzurpywxvzy1maw5riiwicmvmzxjyywxbchbqbgf0zm9ybsi6ildlyiisinjlzmvycmfstw9kzsi6inzpzxcifx03d)
-      - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups-1)
-      - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams-1)
-    - [4.5. Web Applications Prototyping](#45-web-applications-prototyping-1)
     - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
       - [4.6.1. Design-Level Event Storming](#461-software-architecture-context-diagrams)
       - [4.6.2. Software Architecture Context Diagrams](#461-software-architecture-context-diagrams)
@@ -1828,12 +1824,12 @@ Product UX/UI Desing
 
 #### 5.1.2. Source Code Management
 
-Tenemos una organización en github para partir nuestro proyecto: https://github.com/project-PsychoTest
+Tenemos una organización en github para partir nuestro proyecto: https://github.com/2025-2-Project-PsychoTest
 
 En el cual se parten en varios repositorios:
-- Informe del proyecto: https://github.com/project-PsychoTest/PyschoMetric
-- Landing page: https://github.com/project-PsychoTest/Landing-page
-- Frontend Web Applications: https://github.com/project-PsychoTest/Frontend-Web-Applications
+- Informe del proyecto: https://github.com/2025-2-Project-PsychoTest/PsychoTest-report
+- https://github.com/2025-2-Project-PsychoTest/PsychoTest-LandingPage
+
 
 
 
@@ -2188,5 +2184,5 @@ W3Schools. (n.d.). *HTML style guide and coding conventions*. https://www.w3scho
 # Anexos.
 - Organización de Github: https://github.com/2025-2-Project-PsychoTest
 - Landing Page desplegada: https://2025-2-project-psychotest.github.io/PsychoTest-LandingPage/
-- Video entrevistas: https://youtu.be/iBIvZD3VNfM
+
 
