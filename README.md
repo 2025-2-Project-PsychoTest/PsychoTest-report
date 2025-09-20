@@ -105,7 +105,8 @@ en donde se puede ver la evidencia de colaboración.<br>
       - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
       - [2.3.4. Empathy Mapping](#234-empathy-mapping)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
+  - [2.4. Big Picture Event Storming](#24-ubiquitous-language)
+  - [2.5. Ubiquitous Language](#24-ubiquitous-language)
   - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
     - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
     - [3.2. User Stories](#32-user-stories)
@@ -136,9 +137,10 @@ en donde se puede ver la evidencia de colaboración.<br>
       - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams-1)
     - [4.5. Web Applications Prototyping](#45-web-applications-prototyping-1)
     - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-      - [4.6.1. Software Architecture Context Diagrams](#461-software-architecture-context-diagrams)
-      - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
-      - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+      - [4.6.1. Design-Level Event Storming](#461-software-architecture-context-diagrams)
+      - [4.6.2. Software Architecture Context Diagrams](#461-software-architecture-context-diagrams)
+      - [4.6.3. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+      - [4.6.4. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
     - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
       - [4.7.1. Class Diagrams](#471-class-diagrams)
       - [4.7.2. Class Dictionary](#472-class-dictionary)
@@ -1542,15 +1544,20 @@ https://acortar.link/W1cgWp
 
 
 ### 4.6. Domain-Driven Software Architecture
-#### 4.6.1. Software Architecture Context Diagrams
+
+#### 4.6.1. Design-Level Event Storming
+
+
+
+#### 4.6.2. Software Architecture Context Diagrams
 
 ![Context Diagram](Assets/context_diagram.png)
 
-#### 4.6.2. Software Architecture Container Diagrams
+#### 4.6.3. Software Architecture Container Diagrams
 
 ![Container Diagram](Assets/container_diagram.png)
 
-#### 4.6.3. Software Architecture Components Diagrams
+#### 4.6.4. Software Architecture Components Diagrams
 
 **Diagrama de Componentes - User Management Bounded Context**
 
