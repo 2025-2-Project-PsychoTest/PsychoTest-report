@@ -49,7 +49,7 @@
 | 0.2     | 12/04/2025  | Joaquin Cuentas, Walter Fajardo, Cesar Linares, Pablo Martínez, Victor Rojas, José Saavedra | Desarrollo del capítulo 3      |
 | 0.3     | 18/04/2025  | Cesar Linares                                           | Desarrollo del capítulo 4 y sprint 1 |
 | 0.4     | 18/04/2025  | Victor Rojas, José Saavedra                             | Desarrollo del capítulo 5            |
-
+| 0.5     | 18/04/2025  | Victor Rojas, José Saavedra                             | Desarrollo del sprint 2            |
 
 
 ## Project Report Collaboration Insights  
@@ -58,9 +58,11 @@
 En este enlace se encuentra nuestra organización en donde tenemos lo respectivos repositorios para cada entrega realizada https://github.com/2025-2-Project-PsychoTest
 en donde se puede ver la evidencia de colaboración.<br>
 **TB1**<br>
-![alt text](Assets/TB1/reporte-aporte.png)
+![alt text](Assets/TB1/reporte-evidence.png)
 
-
+**TB2**<br>
+![alt text](Assets/TP/evidencia.png)
+Link de reposotorio: https://github.com/2025-2-Project-PsychoTest/PsychoTest-WebApp-Frontend 
 ## Tabla de Contenidos
 
 - [PyschoMetric](#pyschometric)
@@ -187,9 +189,9 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
 del ABET – EAC - Student Outcome 3.  
 
 | Criterio específico | Acciones realizadas | Conclusiones |
-| ----- | ----- | ----- |
-| Comunica oralmente con efectividad a diferentes rangos de audiencia | **TB1 - Joaquin Cuentas:**<br>Comuniqué oralmente con mis compañeros para asignar las características de la landing page.<br><br>**Walter Fajardo:**<br>Comuniqué las necesidades de los usuarios para diseñar las user stories.<br><br>**Victor Rojas:**<br>Comuniqué necesidades de diseño necesarias en la landing page.<br><br>**Cesar Linares:**<br>Comuniqué las necesidades de los usuarios que me transmitieron por medio de las entrevistas.<br><br>**Pablo Martinez:**<br>Comuniqué oralmente los datos que requerimos en el proyecto mediante la creación de tablas para la base datos.<br><br>**Jose Saavedra:**<br>Comuniqué oralmente la organización que requiere el equipo para ejecutar el primer avance del trabajo, es decir, el sprint 1. | **TB1**<br>En conclusión, la comunicación oral efectiva hacia diferentes rangos de audiencia resulta esencial en el desarrollo del proyecto, específicamente en el desarrollo de la **Landing Page**. Esta habilidad permite explicar con claridad los objetivos y beneficios a nuestros clientes. Gracias a esta capacidad logramos generar una agradable primera toma de contacto con ellos. |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | **TB1 - Joaquin Cuentas:**<br>Coordiné con el equipo las características de la landing page, y luego la implementé en HTML y CSS.<br><br>**Walter Fajardo:**<br>Comuniqué de manera escrita al redactar las user stories.<br><br>**Victor Rojas:**<br>Comuniqué de manera escrita al diseñar los wireframes del proyecto, además de implementar y desplegar el Landing page.<br><br>**Cesar Linares:**<br>Comuniqué de manera escrita al analizar y sintetizar los resultados de las entrevistas.<br><br>**Pablo Martinez:**<br>Comuniqué de manera escrita al desarrollar la base de datos.<br><br>**Jose Saavedra:**<br>Comuniqué de manera escrita al diseñar el sprint backlog 1 y asignar una tarea para cada integrante del equipo. | **TB1**<br>En conclusión, la comunicación escrita efectiva a diferentes rangos de audiencia permite transmitir de manera clara y adaptada los objetivos del proyecto. A través de informes técnicos, presentaciones académicas y mensajes accesibles para estudiantes, se asegura que cada grupo comprenda el valor y la utilidad de la página web de **tests psicológicos**. |
+|--------------------|--------------------|-------------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia | **Cesar Linares:**<br>Comuniqué las necesidades de los usuarios que me transmitieron por medio de las entrevistas.<br>**Joaquin Cuentas:**<br>Comuniqué oralmente con mis compañeros para asignar las características de la landing page.<br>Durante el desarrollo de la entrega, ayudé a comunicar a los integrantes del grupo oralmente las responsabilidades que les correspondían, para separar el trabajo en bounded contexts.<br>**Jose Saavedra:**<br>Comuniqué oralmente la organización que requiere el equipo para ejecutar el primer avance del trabajo, es decir, el sprint 1.<br>Comuniqué las implementaciones necesarias en el bounded context de perfil y preferencias, enfocándome en una mejor definición de los perfiles del estudiante y del psicólogo.<br>**Pablo Martinez:**<br>Comuniqué oralmente los datos que requerimos en el proyecto mediante la creación de tablas para la base de datos.<br>Comuniqué oralmente el avance del bounded context de notificaciones y su despliegue.<br>**Victor Rojas:**<br>Comuniqué necesidades de diseño necesarias en la landing page.<br>Me encargué del bounded context de dashboards y analytics.<br>**Walter Fajardo:**<br>Comuniqué las necesidades de los usuarios para diseñar las user stories.<br>Comuniqué por escrito la forma de implementar mediante código el desarrollo de un bounded context y su estructura. | **TB1**<br>En conclusión, la comunicación oral efectiva hacia diferentes rangos de audiencia resulta esencial en el desarrollo del proyecto, específicamente en el desarrollo de la **Landing Page**. Esta habilidad permite explicar con claridad los objetivos y beneficios a nuestros clientes. Gracias a esta capacidad logramos generar una agradable primera toma de contacto con ellos. |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Cesar Linares:**<br>Comuniqué de manera escrita al analizar y sintetizar los resultados de las entrevistas.<br>**Joaquin Cuentas:**<br>Coordiné con el equipo las características de la landing page, y luego la implementé en HTML y CSS.<br>**Jose Saavedra:**<br>Comuniqué de manera escrita al diseñar el sprint backlog 1 y asignar una tarea para cada integrante del equipo.<br>Implementé en código la estructura básica de los perfiles del estudiante y del psicólogo, definiendo sus atributos principales dentro del sistema.<br>**Pablo Martinez:**<br>Comuniqué de manera escrita al desarrollar la base de datos.<br>Documenté en el repositorio la estructura, endpoints y funcionamiento del bounded context de notificaciones.<br>**Victor Rojas:**<br>Comuniqué de manera escrita al diseñar los wireframes del proyecto, además de implementar y desplegar la landing page.<br>**Walter Fajardo:**<br>Comuniqué de manera escrita al redactar las user stories.<br>Comuniqué las necesidades de mejora del entregable anterior y del bounded context de planes de suscripción. | **TB1**<br>En conclusión, la comunicación escrita efectiva a diferentes rangos de audiencia permite transmitir de manera clara y adaptada los objetivos del proyecto. A través de informes técnicos, presentaciones académicas y mensajes accesibles para estudiantes, se asegura que cada grupo comprenda el valor y la utilidad de la página web de **tests psicológicos**. |
 
 
 
@@ -823,6 +825,8 @@ Luis se incorpora a PsychoTest como profesional verificado, gestionando su dispo
 
 
 ### 3.2. User Stories
+A continuación se detallan las user stories para el desarrollo de nuestro proyecto que nos permitiran tener una mejor estructura e idea de cómo implementar cada funcionalidad y requisito.
+<br>
 | User story ID | Título                                 | Descripción                                                                                                                                     | Criterios de aceptación                                                                                                                                                                                                                                                                                                                                                       | Epic    |
 |---------------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
 | US-01         | Registro con correo y contraseña en la aplicación web       | Como estudiante o psicólogo, quiero registrarme en la aplicación proporcionando mis datos básicos, para crear una cuenta y comenzar a usar la plataforma.  | - Escenario 1: Dado que soy un nuevo usuario, cuando ingreso mi correo válido y una contraseña segura, entonces el sistema debe crear mi cuenta y mostrarme un mensaje de bienvenida. <br> - Escenario 2: Dado que estoy en la pantalla de registro, cuando ingreso datos inválidos, entonces el sistema debe mostrar mensajes de error claros.                          | EPIC01  |
@@ -907,62 +911,60 @@ Impact Mapping nos ayudará a visualizar y planificar cómo nuestro proyecto pue
 ### 3.4. Product Backlog
 # Product Backlog
 
-
-| #Orden | UserStory ID | Título                              | Descripción                                                                                                                                   | StoryPoints |
+| #Orden | UserStory ID | Título | Descripción | StoryPoints |
 |--------|--------------|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| 1   | US-31  | Ver de qué trata la página                           | Como visitante de la landing page, quiero entender rápidamente de qué trata la plataforma, para saber si me interesa seguir explorando sus servicios.                                                                  | 5      |
-| 2   | US-32  | Opiniones de otros usuarios                          | Como visitante de la landing page, quiero leer opiniones de otros usuarios, para generar confianza antes de registrarme o pagar.                                                                                                       | 3      |
-| 3   | US-33  | Visualización del apartado: Por qué elegir PsychoTest | Como visitante de la landing page que compara opciones, quiero ver razones claras para elegir esta plataforma, para tomar una decisión informada.                                                                                      | 3      |
-| 4   | US-34  | Visualización de apartado de cómo funciona           | Como visitante nuevo de la landing page, quiero entender cómo funciona PsychoTest, para saber qué pasos debo seguir para comenzar.                                                                                                     | 3      |
-| 5   | US-35  | Encabezado de navegación                             | Como visitante de la landing page, quiero un menú de navegación visible, para acceder fácilmente a distintas secciones.                                                                                                  | 3      |
-| 6   | US-36  | Pie de página de la landing page                     | Como visitante de la landing page que llega al final de la landing, quiero encontrar información útil en el pie de página, para acceder a soporte, contacto y redes sociales.                                                         | 3      |
-| 7   | US-21  | Visualización de diferencias entre plan Free y Premium| Como estudiante, quiero ver las diferencias entre el plan Free y el plan Premium, para elegir el que mejor se adapte a mis necesidades.                                                                           | 3      |
-| 8   | US-22  | Activación del plan Premium                          | Como estudiante, quiero activar el plan Premium desde la app, para acceder a beneficios como tests de mayor nivel, acceso a citas con psicólogos y certificado con mi plan académico adecuado.                    | 3      |
-| 9   | US-23  | Uso continuo del plan Free sin pago                  | Como estudiante, quiero seguir usando el plan Free si no deseo pagar, para continuar con funcionalidades de tests vocacionales básicos.                                                                           | 3      |
-| 10  | US-24  | Comparación de planes desde perfil del psicólogo     | Como psicólogo, quiero ver qué incluye el plan Free y Premium para mi perfil profesional, para decidir si necesito actualizar mi cuenta.                                                                          | 3      |
-| 11  | US-25  | Contratación del plan Premium como psicólogo         | Como psicólogo, quiero contratar el plan Premium, para mejorar mi alcance, ofrecer más sesiones y acceder a herramientas de análisis vocacional avanzadas.                                                        | 3      |
-| 12  | US-05  | Acceso al menú principal intuitivo                   | Como estudiante, quiero acceder a un menú principal con íconos claros y opciones organizadas, para navegar fácilmente por la app.                                                                                 | 5      |
-| 13  | US-06  | Ingreso a tests psicométricos desde el menú          | Como estudiante, quiero acceder desde el menú a la sección de tests psicométricos, para iniciar o continuar mi evaluación vocacional.                                                                             | 5      |
-| 14  | US-07  | Agendamiento de sesiones desde el menú               | Como estudiante, quiero agendar una sesión con un psicólogo desde el menú, para recibir orientación personalizada.                                                                                                | 3      |
-| 15  | US-08  | Consulta de resultados anteriores desde el menú      | Como estudiante, quiero ver mis resultados de test anteriores desde el menú, para revisar mis áreas de afinidad vocacional.                                                                                       | 3      |
-| 16  | US-09  | Edición de información personal                      | Como estudiante, quiero editar mi información personal desde el menú, para mantener mis datos actualizados.                                                                                                        | 3      |
-| 17  | US-10  | Menú personalizado para psicólogos                   | Como psicólogo, quiero acceder a un menú personalizado al iniciar sesión, para ver solo las funciones relevantes a mi rol.                                                                                        | 3      |
-| 18  | US-11  | Visualización del calendario de citas                | Como psicólogo, quiero ver un calendario con mis citas agendadas, para organizar mejor mis sesiones.                                                                                                              | 3      |
-| 19  | US-12  | Acceso a perfiles de estudiantes                     | Como psicólogo, quiero revisar el perfil de los estudiantes asignados, para conocer su información antes de la orientación.                                                                                       | 5      |
-| 20  | US-13  | Consulta de resultados psicométricos de estudiantes  | Como psicólogo, quiero ver los resultados de los tests psicométricos de cada estudiante, para brindar una orientación más personalizada.                                                                          | 5      |
-| 21  | US-14  | Actualización de disponibilidad                      | Como psicólogo, quiero actualizar mi disponibilidad desde el menú, para que los estudiantes puedan agendar sesiones conmigo en los horarios adecuados.                                                            | 5      |
-| 22  | US-15  | Introducción explicativa al test                     | Como estudiante, quiero ver una breve introducción antes de comenzar el test, para entender su propósito y cómo responder correctamente.                                                                          | 5      |
-| 23  | US-16  | Interfaz de preguntas clara y simple                 | Como estudiante, quiero que el test muestre una pregunta por pantalla con opciones claras, para que sea fácil de responder.                                                                                       | 3      |
-| 24  | US-17  | Opción para pausar y retomar el test                 | Como estudiante, quiero pausar el test y retomarlo más adelante, para no perder mis respuestas si tengo que interrumpir la actividad.                                                                             | 3      |
-| 25  | US-18  | Resumen inmediato de resultados al finalizar el test | Como estudiante, quiero recibir un resumen con mis resultados apenas finalice el test, para conocer mis áreas de afinidad vocacional.                                                                             | 5      |
-| 26  | US-19  | Notificación de test completado                      | Como estudiante, quiero recibir una notificación cuando haya completado un test, para saber que se guardaron correctamente mis resultados.                                                                         | 5      |
-| 27  | US-20  | Repetición de tests vocacionales                     | Como estudiante, quiero repetir un test vocacional si lo deseo, para explorar posibles cambios en mis intereses a lo largo del tiempo.                                                                            | 3      |
-| 28  | US-26  | Listado de psicólogos con perfil resumido            | Como usuario, quiero ver un listado de psicólogos con un resumen de su perfil, para elegir con quién agendar una sesión.                                                                                          | 3      |
-| 29  | US-27  | Filtro por especialidad o disponibilidad             | Como usuario, quiero filtrar los psicólogos por especialidad o disponibilidad, para encontrar al profesional más adecuado para mis necesidades.                                                                   | 5      |
-| 30  | US-28  | Edición del perfil profesional del psicólogo         | Como psicólogo, quiero editar mi perfil profesional, para mantener actualizada mi presentación y atraer más estudiantes.                                                                                           | 3      |
-| 31  | US-29   | Actualización de disponibilidad en el catálogo     | Como psicólogo, quiero que mi disponibilidad se refleje en el catálogo, para que los estudiantes vean cuándo pueden agendar conmigo.                                                                             | 3      |
-| 32  | US-30   | Marcado de psicólogos como favoritos               | Como estudiante, quiero marcar a psicólogos como “favoritos”, para guardar mis opciones preferidas y agendar con ellos más fácilmente en el futuro.                                                             | 5      |
-| 33  | US-1    | Registro con correo y contraseña                   | Como estudiante nuevo, quiero registrarme en la aplicación con mi correo electrónico y una contraseña, para crear mi perfil personal y comenzar a usar la plataforma.                                           | 8      |
-| 34  | US-2    | Inicio de sesión con credenciales                  | Como usuario registrado, quiero iniciar sesión con mis credenciales, para acceder con mis actividades en la app.                                                                                                 | 5      |
-| 35  | US-3    | Recuperación de contraseña                         | Como usuario, quiero recuperar mi contraseña si la olvido, para no perder el acceso a mi cuenta y a mis datos guardados.                                                                                        | 3      |
-| 36  | US-4    | Registro rápido con Google                         | Como estudiante, quiero tener la opción de registrarme rápidamente usando mi cuenta de Google, para evitar llenar formularios largos y facilitar el ingreso.                                                    | 5      |
-| 37  | TS-37   | Gestión de usuarios registrados                    | Como desarrollador, quiero ver un listado completo de usuarios registrados (estudiantes y psicólogos), para monitorear su actividad y gestionar cuentas.                                                        | 5      |
-| 38  | TS-38   | Activación o desactivación de cuentas              | Como desarrollador, quiero activar o desactivar cuentas de usuario, para mantener el control del acceso a la plataforma.                                                                                        | 3      |
-| 39  | TS-39   | Gestión de sesiones agendadas                      | Como desarrollador, quiero visualizar todas las sesiones agendadas entre psicólogos y estudiantes, para asegurarme de que el servicio se está prestando adecuadamente.                                          | 3      |
-| 40  | TS-40   | Estadísticas de uso de la plataforma               | Como desarrollador, quiero acceder a estadísticas generales de uso (registro, tests completados, sesiones agendadas), para evaluar el desempeño de la app.                                                      | 3      |
-| 41  | TS-41   | Gestión de planes y suscripciones                     | Como desarrollador, quiero gestionar los planes Free y Premium, para modificar beneficios, precios o reglas de acceso.                                                                                      | 3      |
-| 42  | TS-42   | Auditoría de actividad de usuarios                    | Como desarrollador, quiero tener acceso a un historial de acciones por usuario (inicio de sesión, agendamientos, cambios de perfil), para garantizar trazabilidad.                                         | 3      |
-| 43  | TS-43   | Gestión de reportes y soporte                         | Como desarrollador, quiero ver y gestionar reportes o solicitudes de soporte enviadas por los usuarios, para darles respuesta oportuna.                                                                    | 3      |
-| 44  | TS-44   | Notificaciones globales del sistema                   | Como desarrollador, quiero enviar notificaciones generales a los usuarios (actualizaciones, mantenimiento), para mantenerlos informados.                                                                   | 3      |
-| 45  | TS-45   | Inicio de sesión exitoso con API                      | Como desarrollador, quiero registrar y validar a los nuevos usuarios mediante una API para que puedan acceder de forma segura a sus respectivas cuentas.                                                   | 3      |
-| 46  | TS-46   | Manejo de error en login fallido mediante API         | Como desarrollador, quiero llamar a una API que valide si las credenciales de inicio de sesión son incorrectas para que los usuarios sepan qué datos ingresados deben corregir.                            | 3      |
-| 47  | TS-47   | Visualización de historial de estudiantes             | Como desarrollador quiero ver la lista de estudiantes con quienes he trabajado para revisar antecedentes.                                                                                                   | 3      |
-| 48  | TS-48   | Registro de nuevos psicólogos                         | Como desarrollador quiero registrar un nuevo psicólogo en el sistema para ampliar la oferta de profesionales.                                                                                               | 3      |
-| 49  | TS-49   | Actualización de la descripción de planes de suscripción | Como desarrollador quiero actualizar la descripción de un plan de suscripción para reflejar cambios en el servicio.                                                                                         | 3      |
-| 50  | TS-50   | Gestión de opciones de test psicométrico obsoleto     | Como desarrollador quiero eliminar, agregar o editar una opción para el test psicométrico obsoleto para evitar confusión entre los usuarios.                                                               | 3      |
-| 51  | TS-51   | Eliminación de suscripciones vencidas                 | Como desarrollador quiero eliminar una suscripción vencida para mantener actualizada la base de datos.                                                                                                      | 3      |
-| 52  | TS-52   | Visualización del contenido en diferentes idiomas               | Como desarrollador, quiero configurar la aplicación a diferentes idiomas cada nueva implementación para mantenerla actualizada.                                                                                                     | 3      |
-
+| 1 | US-31 | Ver de qué trata la página | Como visitante de la landing page, quiero entender rápidamente de qué trata la plataforma, para saber si me interesa seguir explorando sus servicios. | 5 |
+| 2 | US-33 | Visualización del apartado: Por qué elegir PsychoTest | Como visitante de la landing page que compara opciones, quiero ver razones claras para elegir esta plataforma, para tomar una decisión informada. | 3 |
+| 3 | US-34 | Visualización de apartado de cómo funciona | Como visitante nuevo de la landing page, quiero entender cómo funciona PsychoTest, para saber qué pasos debo seguir para comenzar. | 3 |
+| 4 | US-32 | Opiniones de otros usuarios | Como visitante de la landing page, quiero leer opiniones de otros usuarios, para generar confianza antes de registrarme o pagar. | 3 |
+| 5 | US-35 | Encabezado de navegación | Como visitante de la landing page, quiero un menú de navegación visible, para acceder fácilmente a distintas secciones. | 3 |
+| 6 | US-36 | Pie de página de la landing page | Como visitante de la landing page que llega al final de la landing, quiero encontrar información útil en el pie de página, para acceder a soporte, contacto y redes sociales. | 3 |
+| 7 | US-09 | Edición de información personal | Como estudiante, quiero editar mi información personal desde el menú, para mantener mis datos actualizados. | 3 |
+| 8 | US-28 | Listado de psicólogos con perfil resumido | Como usuario, quiero ver un listado de psicólogos con un resumen de su perfil, para elegir con quién agendar una sesión. | 3 |
+| 9 | US-27 | Filtro por especialidad o disponibilidad | Como usuario, quiero filtrar los psicólogos por especialidad o disponibilidad, para encontrar al profesional más adecuado para mis necesidades. | 5 |
+| 10 | US-30 | Marcado de psicólogos como favoritos | Como estudiante, quiero marcar a psicólogos como “favoritos”, para guardar mis opciones preferidas y agendar con ellos más fácilmente en el futuro. | 5 |
+| 11 | US-12 | Acceso a perfiles de estudiantes | Como psicólogo, quiero revisar el perfil de los estudiantes asignados, para conocer su información antes de la orientación. | 5 |
+| 12 | US-28 | Edición del perfil profesional del psicólogo | Como psicólogo, quiero editar mi perfil profesional, para mantener actualizada mi presentación y atraer más estudiantes. | 3 |
+| 13 | US-13 | Consulta de resultados psicométricos de estudiantes | Como psicólogo, quiero ver los resultados de los tests psicométricos de cada estudiante, para brindar una orientación más personalizada. | 5 |
+| 14 | US-15 | Introducción explicativa al test | Como estudiante, quiero ver una breve introducción antes de comenzar el test, para entender su propósito y cómo responder correctamente. | 5 |
+| 15 | US-16 | Interfaz de preguntas clara y simple | Como estudiante, quiero que el test muestre una pregunta por pantalla con opciones claras, para que sea fácil de responder. | 3 |
+| 16 | US-17 | Opción para pausar y retomar el test | Como estudiante, quiero pausar el test y retomarlo más adelante, para no perder mis respuestas si tengo que interrumpir la actividad. | 3 |
+| 17 | US-18 | Resumen inmediato de resultados al finalizar el test | Como estudiante, quiero recibir un resumen con mis resultados apenas finalice el test, para conocer mis áreas de afinidad vocacional. | 5 |
+| 18 | US-19 | Notificación de test completado | Como estudiante, quiero recibir una notificación cuando haya completado un test, para saber que se guardaron correctamente mis resultados. | 5 |
+| 19 | US-20 | Repetición de tests vocacionales | Como estudiante, quiero repetir un test vocacional si lo deseo, para explorar posibles cambios en mis intereses a lo largo del tiempo. | 3 |
+| 20 | US-07 | Agendamiento de sesiones desde el menú | Como estudiante, quiero agendar una sesión con un psicólogo desde el menú, para recibir orientación personalizada. | 3 |
+| 21 | US-08 | Consulta de resultados anteriores desde el menú | Como estudiante, quiero ver mis resultados de test anteriores desde el menú, para revisar mis áreas de afinidad vocacional. | 3 |
+| 22 | US-05 | Acceso al menú principal intuitivo | Como estudiante, quiero acceder a un menú principal con íconos claros y opciones organizadas, para navegar fácilmente por la app. | 5 |
+| 23 | US-06 | Ingreso a tests psicométricos desde el menú | Como estudiante, quiero acceder desde el menú a la sección de tests psicométricos, para iniciar o continuar mi evaluación vocacional. | 5 |
+| 24 | US-10 | Menú personalizado para psicólogos | Como psicólogo, quiero acceder a un menú personalizado al iniciar sesión, para ver solo las funciones relevantes a mi rol. | 3 |
+| 25 | US-11 | Visualización del calendario de citas | Como psicólogo, quiero ver un calendario con mis citas agendadas, para organizar mejor mis sesiones. | 3 |
+| 26 | US-14 | Actualización de disponibilidad | Como psicólogo, quiero actualizar mi disponibilidad desde el menú, para que los estudiantes puedan agendar sesiones conmigo en los horarios adecuados. | 5 |
+| 27 | US-29 | Actualización de disponibilidad en el catálogo | Como psicólogo, quiero que mi disponibilidad se refleje en el catálogo, para que los estudiantes vean cuándo pueden agendar conmigo. | 3 |
+| 28 | US-21 | Visualización de diferencias entre plan Free y Premium | Como estudiante, quiero ver las diferencias entre el plan Free y el plan Premium, para elegir el que mejor se adapte a mis necesidades. | 3 |
+| 29 | US-22 | Activación del plan Premium | Como estudiante, quiero activar el plan Premium desde la app, para acceder a beneficios como tests de mayor nivel, acceso a citas con psicólogos y certificado con mi plan académico adecuado. | 3 |
+| 30 | US-23 | Uso continuo del plan Free sin pago | Como estudiante, quiero seguir usando el plan Free si no deseo pagar, para continuar con funcionalidades de tests vocacionales básicos. | 3 |
+| 31 | US-24 | Comparación de planes desde perfil del psicólogo | Como psicólogo, quiero ver qué incluye el plan Free y Premium para mi perfil profesional, para decidir si necesito actualizar mi cuenta. | 3 |
+| 32 | US-25 | Contratación del plan Premium como psicólogo | Como psicólogo, quiero contratar el plan Premium, para mejorar mi alcance, ofrecer más sesiones y acceder a herramientas de análisis vocacional avanzadas. | 3 |
+| 33 | TS-37 | Gestión de usuarios registrados | Como desarrollador, quiero ver un listado completo de usuarios registrados (estudiantes y psicólogos), para monitorear su actividad y gestionar cuentas. | 5 |
+| 34 | TS-38 | Activación o desactivación de cuentas | Como desarrollador, quiero activar o desactivar cuentas de usuario, para mantener el control del acceso a la plataforma. | 3 |
+| 35 | TS-39 | Gestión de sesiones agendadas | Como desarrollador, quiero visualizar todas las sesiones agendadas entre psicólogos y estudiantes, para asegurarme de que el servicio se está prestando adecuadamente. | 3 |
+| 36 | TS-40 | Estadísticas de uso de la plataforma | Como desarrollador, quiero acceder a estadísticas generales de uso (registro, tests completados, sesiones agendadas), para evaluar el desempeño de la app. | 3 |
+| 37 | TS-41 | Gestión de planes y suscripciones | Como desarrollador, quiero gestionar los planes Free y Premium, para modificar beneficios, precios o reglas de acceso. | 3 |
+| 38 | TS-42 | Auditoría de actividad de usuarios | Como desarrollador, quiero tener acceso a un historial de acciones por usuario (inicio de sesión, agendamientos, cambios de perfil), para garantizar trazabilidad. | 3 |
+| 39 | TS-43 | Gestión de reportes y soporte | Como desarrollador, quiero ver y gestionar reportes o solicitudes de soporte enviadas por los usuarios, para darles respuesta oportuna. | 3 |
+| 40 | TS-44 | Notificaciones globales del sistema | Como desarrollador, quiero enviar notificaciones generales a los usuarios (actualizaciones, mantenimiento), para mantenerlos informados. | 3 |
+| 41 | TS-47 | Visualización del historial de estudiantes | Como desarrollador quiero ver la lista de estudiantes con quienes he trabajado para revisar antecedentes. | 3 |
+| 42 | TS-48 | Registro de nuevos psicólogos | Como desarrollador quiero registrar un nuevo psicólogo en el sistema para ampliar la oferta de profesionales. | 3 |
+| 43 | TS-49 | Actualización de la descripción de planes de suscripción | Como desarrollador quiero actualizar la descripción de un plan de suscripción para reflejar cambios en el servicio. | 3 |
+| 44 | TS-50 | Gestión de opciones de test psicométrico obsoleto | Como desarrollador quiero eliminar, agregar o editar una opción para el test psicométrico obsoleto para evitar confusión entre los usuarios. | 3 |
+| 45 | TS-51 | Eliminación de suscripciones vencidas | Como desarrollador quiero eliminar una suscripción vencida para mantener actualizada la base de datos. | 3 |
+| 46 | TS-52 | Visualización del contenido en diferentes idiomas | Como desarrollador, quiero configurar la aplicación a diferentes idiomas cada nueva implementación para mantenerla actualizada. | 3 |
+| 47 | US-01 | Registro con correo y contraseña | Como estudiante nuevo, quiero registrarme en la aplicación con mi correo electrónico y una contraseña, para crear mi perfil personal y comenzar a usar la plataforma. | 8 |
+| 48 | US-02 | Inicio de sesión con credenciales | Como usuario registrado, quiero iniciar sesión con mis credenciales, para acceder con mis actividades en la app. | 5 |
+| 49 | US-03 | Recuperación de contraseña | Como usuario, quiero recuperar mi contraseña si la olvido, para no perder el acceso a mi cuenta y a mis datos guardados. | 3 |
+| 50 | US-04 | Registro rápido con Google | Como estudiante, quiero tener la opción de registrarme rápidamente usando mi cuenta de Google, para evitar llenar formularios largos y facilitar el ingreso. | 5 |
+| 51 | TS-45 | Inicio de sesión exitoso con API | Como desarrollador, quiero registrar y validar a los nuevos usuarios mediante una API para que puedan acceder de forma segura a sus respectivas cuentas. | 3 |
+| 52 | TS-46 | Manejo de error en login fallido mediante API | Como desarrollador, quiero llamar a una API que valide si las credenciales de inicio de sesión son incorrectas para que los usuarios sepan qué datos ingresados deben corregir. | 3 |
 
 Para el product Backlog usamos la aplicación de trello:
 
@@ -1587,9 +1589,10 @@ link: https://miro.com/welcomeonboard/QlBWbmlOR2twVG5zbldnNXk2TDBXMUV1bmxRbGN2cl
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
+Diagrama con las principales clases del proyecto que nos permitirá entender mejor como implementar el proyecto.
 ![Class Diagram](Assets/Diagrama%20en%20blanco.png)
 #### 4.7.2. Class Dictionary
-
+Explicación de las diferentes clases que se identificaron para poder realizar el proyecto.
 # Documentación de Clases
 
 ## Clase: `User`
@@ -1776,8 +1779,9 @@ Hereda de: `User`
 
 
 ### 4.8. Database Design
-#### 4.8.1. Database Diagram
 
+#### 4.8.1. Database Diagram
+Diagrama de las principales tablas para la creación de la base de datos que nons permitirá almacenar la información primodial del negocio. Con este diagrama podemos centar las bases de un buen desarrollo de bases de datos, siguiendo convenciones de nomenclaturas para evitar confuciones y facilitar el desarrollo.
 ![Database Diagram](Assets/Chapter%204/diagram_DB.png)
 
 ## Capítulo V: Product Implementation, Validation & Deployment
@@ -1974,6 +1978,7 @@ Pasos realizados para desplegar nuestra Landing Page:
 
 #### 5.2.1. Sprint 1
 ##### 5.2.1.1. Sprint Planning 1
+A continuación se muestra la planificación realizada por los miembros del equipo para poder realizar el primer sprint del desarrollo del proyecto donde se detalla los puntos que consideramos más importantes para dar a entender como se realizará a lo largo de las semanas.
 
 | **Sprint #**                         | Sprint 1                                           |
 |-------------------------------------|----------------------------------------------------|
@@ -2028,23 +2033,23 @@ El backlog incluye tareas relacionadas con diseño de interfaz (UI), redacción 
 
 | **User Story ID** | **Title**                                          | **Task ID** | **Task Title**                               | **Description**                                                                 | **Estimation (Hours)** | **Assigned to**                         | **Status**    |
 |-------------------|----------------------------------------------------|-------------|----------------------------------------------|----------------------------------------------------------------------------------|------------------------|------------------------------------------|---------------|
-| US-31             | Ver de qué trata la página                        | T01         | Crear bloque introductorio visual             | Diseñar bloque introductorio con un mensaje claro y conciso.                      | 1                      | Cesar Alejandro Linares Bernable         | Done         |
-| US-31             | Ver de qué trata la página                        | T02         | Redactar propuesta de valor                   | Redactar una propuesta de valor breve.                                           | 1                      | Joaquin Alberto Cuentas Peña             | Done         |
-| US-31             | Ver de qué trata la página                        | T03         | Insertar imagen destacada                     | Agregar imagen o ilustración llamativa.                                          | 0.5                    | Walter Luis Fajardo Monrroy              | Done         |
-| US-32             | Opiniones de otros usuarios                       | T04         | Opiniones de usuarios                         | La página web debe mostrar testimonios reales.                                   | 1                      | Joaquin Alberto Cuentas Peña             | Done         |
-| US-32             | Opiniones de otros usuarios                       | T05         | Diseñar sección con testimonios               | Diseñar sección de testimonios.                                                  | 0.5                    | Walter Luis Fajardo Monrroy              | Done         |
-| US-32             | Opiniones de otros usuarios                       | T06         | Redactar testimonios representativos          | Redactar 3-4 testimonios reales o simulados.                                     | 1                      | José Jonathan Saavedra Angulo            | In-Process   |
-| US-33             | Visualización del apartado: Por qué elegir PsychoTest | T07      | Crear bloque de razones diferenciadoras       | Crear bloque con 3 a 4 razones destacadas.                                       | 1                      | Victor Manuel Rojas Reategui             | Done         |
-| US-33             | Visualización del apartado: Por qué elegir PsychoTest | T08      | Asociar íconos visuales a cada beneficio      | Usar íconos o ilustraciones representativas.                                     | 0.5                    | Pablo Afranio Martínez Gaona             | Done         |
-| US-33             | Visualización del apartado: Por qué elegir PsychoTest | T09      | Redactar beneficios claros                    | Redactar beneficios concretos y directos.                                        | 1                      | Cesar Alejandro Linares Bernable         | Done         |
-| US-34             | Visualización de apartado de cómo funciona la plataforma | T10    | Diseñar sección paso a paso                   | Diseñar diagrama o pasos numerados.                                              | 1                      | Pablo Afranio Martínez Gaona             | Done         |
-| US-34             | Visualización de apartado de cómo funciona la plataforma | T11    | Redactar explicación breve por paso           | Redactar texto breve por cada paso.                                              | 0.5                    | Walter Luis Fajardo Monrroy              | Done         |
-| US-34             | Visualización de apartado de cómo funciona la plataforma | T12    | Incorporar íconos explicativos                | Agregar íconos o visuales para cada paso.                                        | 1                      | José Jonathan Saavedra Angulo            | Done         |
-| US-35             | Encabezado de navegación                         | T13         | Diseñar barra de navegación fija              | Diseñar barra de navegación fija (sticky).                                       | 1                      | Victor Manuel Rojas Reategui             | Done         |
-| US-35             | Encabezado de navegación                         | T14         | Agregar enlaces a secciones clave             | Agregar enlaces a Inicio, Precios, Psicólogos, Contacto, Login.                  | 1                      | Joaquin Alberto Cuentas Peña             | In-Process   |
-| US-35             | Encabezado de navegación                         | T15         | Asegurar diseño responsive                    | Asegurar que sea responsive.                                                     | 1                      | Cesar Alejandro Linares Bernable         | Done         |
-| US-36             | Pie de página de la landing page                 | T16         | Diseñar pie de página estructurado            | Diseñar bloque inferior con estructura de columnas.                              | 1                      | José Jonathan Saavedra Angulo            | Done         |
-| US-36             | Pie de página de la landing page                 | T17         | Agregar enlaces de interés                    | Agregar enlaces útiles: contacto, redes, términos y condiciones.                 | 1                      | Walter Luis Fajardo Monrroy              | In-Process   |
+| US-31             | Ver de qué trata la página                        | T01         | Crear bloque introductorio visual             | Diseñar bloque introductorio con un mensaje claro y conciso.                      | 4                      | Cesar Alejandro Linares Bernable         | Done         |
+| US-31             | Ver de qué trata la página                        | T02         | Redactar propuesta de valor                   | Redactar una propuesta de valor breve.                                           | 4                      | Joaquin Alberto Cuentas Peña             | Done         |
+| US-31             | Ver de qué trata la página                        | T03         | Insertar imagen destacada                     | Agregar imagen o ilustración llamativa.                                          | 6                    | Walter Luis Fajardo Monrroy              | Done         |
+| US-32             | Opiniones de otros usuarios                       | T04         | Opiniones de usuarios                         | La página web debe mostrar testimonios reales.                                   | 4                      | Joaquin Alberto Cuentas Peña             | Done         |
+| US-32             | Opiniones de otros usuarios                       | T05         | Diseñar sección con testimonios               | Diseñar sección de testimonios.                                                  | 5                    | Walter Luis Fajardo Monrroy              | Done         |
+| US-32             | Opiniones de otros usuarios                       | T06         | Redactar testimonios representativos          | Redactar 3-4 testimonios reales o simulados.                                     | 4                      | José Jonathan Saavedra Angulo            | In-Process   |
+| US-33             | Visualización del apartado: Por qué elegir PsychoTest | T07      | Crear bloque de razones diferenciadoras       | Crear bloque con 3 a 4 razones destacadas.                                       | 4                      | Victor Manuel Rojas Reategui             | Done         |
+| US-33             | Visualización del apartado: Por qué elegir PsychoTest | T08      | Asociar íconos visuales a cada beneficio      | Usar íconos o ilustraciones representativas.                                     | 5                    | Pablo Afranio Martínez Gaona             | Done         |
+| US-33             | Visualización del apartado: Por qué elegir PsychoTest | T09      | Redactar beneficios claros                    | Redactar beneficios concretos y directos.                                        | 4                      | Cesar Alejandro Linares Bernable         | Done         |
+| US-34             | Visualización de apartado de cómo funciona la plataforma | T10    | Diseñar sección paso a paso                   | Diseñar diagrama o pasos numerados.                                              | 4                      | Pablo Afranio Martínez Gaona             | Done         |
+| US-34             | Visualización de apartado de cómo funciona la plataforma | T11    | Redactar explicación breve por paso           | Redactar texto breve por cada paso.                                              | 4                    | Walter Luis Fajardo Monrroy              | Done         |
+| US-34             | Visualización de apartado de cómo funciona la plataforma | T12    | Incorporar íconos explicativos                | Agregar íconos o visuales para cada paso.                                        | 4                      | José Jonathan Saavedra Angulo            | Done         |
+| US-35             | Encabezado de navegación                         | T13         | Diseñar barra de navegación fija              | Diseñar barra de navegación fija (sticky).                                       | 5                      | Victor Manuel Rojas Reategui             | Done         |
+| US-35             | Encabezado de navegación                         | T14         | Agregar enlaces a secciones clave             | Agregar enlaces a Inicio, Precios, Psicólogos, Contacto, Login.                  | 4                      | Joaquin Alberto Cuentas Peña             | In-Process   |
+| US-35             | Encabezado de navegación                         | T15         | Asegurar diseño responsive                    | Asegurar que sea responsive.                                                     | 4                      | Cesar Alejandro Linares Bernable         | Done         |
+| US-36             | Pie de página de la landing page                 | T16         | Diseñar pie de página estructurado            | Diseñar bloque inferior con estructura de columnas.                              | 4                      | José Jonathan Saavedra Angulo            | Done         |
+| US-36             | Pie de página de la landing page                 | T17         | Agregar enlaces de interés                    | Agregar enlaces útiles: contacto, redes, términos y condiciones.                 | 5                      | Walter Luis Fajardo Monrroy              | In-Process   |
 
 
 board hecho con trello:  https://trello.com/b/JDKHbFVQ
@@ -2153,6 +2158,638 @@ Para este sprint, las tareas de diseño, implementación y documentación de la 
 <br>
 
 
+#### 5.2.2. Sprint 2
+
+##### 5.2.2.1. Sprint Planning 2.
+
+En este sprint, nos enfocaremos en el desarrollo de la parte visual de la aplicación web, utilizando Angular para la construcción del front-end. El objetivo principal de este sprint es crear las pantallas esenciales de la plataforma, asegurándonos de que la interfaz sea intuitiva, visualmente atractiva 
+
+| **Sprint #**                         | Sprint 2                                           |
+|-------------------------------------|----------------------------------------------------|
+| **Sprint Planning Background**      |                                                    |
+| **Date**                            | 11/05/2025                                         |
+| **Time**                            | 6:00PM                                             |
+| **Location**                        | Virtual - Discord                                  |
+| **Prepared By**                     | Victor Rojas                                      |
+| **Attendees (to planning meeting)** | Victor Rojas, Joaquín Alberto, Walter Fajardo, Jonathan Saavedra, Pablo Martinez, César Linares|
+| **Sprint n – 1 Review Summary**     | La Landing Page fue completada usando HTML y CSS, con un diseño responsivo. |
+| **Sprint n – 1 Retrospective Summary** | El diseño visual y despliegue fueron exitosos, pero se identificaron áreas de mejora en interactividad. |
+| **Sprint Goal & User Stories**      |                                                    |
+| **Sprint 2 Goal**                   | Nuestro enfoque está en implementar mejoras en la landing page y desarrollar la primera versión del frontend con funcionalidades principales del negocio, como la búsqueda de tests psicométricos y dashboards para estudiantes y psicólogos. Creemos que esto genera confianza y facilidad de uso para visitantes y usuarios registrados. Esto se confirmará cuando los visitantes puedan navegar por una landing page optimizada y los usuarios puedan buscar tests y visualizar dashboards funcionales en la plataforma. |
+| **Sprint n Velocity**               | Por esta oportunidad estaremos aceptando **XX story points** |
+| **Sum of Story Points**             | La suma de Story Points atendidos es de **XX story points** |
+
+
+##### 5.2.2.2. Aspect Leaders and Collaborators. 
+
+En este sprint, nos enfocamos en el desarrollo de la parte visual de las aplicaciones web para PsychTest, utilizando Angular para crear una experiencia interactiva. Los aspectos clave identificados para este sprint son:
+Diseño visual de las aplicaciones web (UI/UX): Implementación de las interfaces de usuario.
+
+
+- Desarrollo de la funcionalidad básica en el frontend: Uso de Angular para conectar la lógica con la interfaz.
+
+
+- Integración con servicios backend (API) básicos: Conexión con fake API para simular el backend de la aplicación.
+
+
+- Despliegue de las aplicaciones web en Firebase.
+
+
+Cada uno de estos aspectos ha sido asignado a un líder, mientras que otros miembros del equipo colaboran para asegurar que el desarrollo cumpla con los objetivos del sprint en cuanto a calidad, funcionalidad y tiempo.
+Cada uno de estos aspectos ha sido asignado a un líder, mientras que otros miembros del equipo cumplen roles de colaboración para asegurar que el desarrollo cumpla con los objetivos del sprint en cuanto a calidad, funcionalidad y tiempo.
+
+
+| Team Member (Last Name, First Name) | GitHub Username     | Aspect Name 1 Leader (L) / Collaborator (C) | Aspect Name 2 Leader (L) / Collaborator (C) | Aspect Name 3 Leader (L) / Collaborator (C) | Aspect Name 4 Leader (L) / Collaborator (C) | Aspect Name 5 Leader (L) / Collaborator (C) |
+|------------------------------------|----------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
+| Jonathan Saavedra                      | [ElrichMasNa](#)      | L                                           | C                                           | C                                           | C                                           | C                                           |
+| César Linares                    | [Cesar-Linares](#)        |  L                                           |     C                                       | L                                           | C                                           | C                                           |
+| Walter Fajardo                      | [WalterFajardo](#)    | L                                           | L                                           |       C                                      |  C                                             |      C                                       |
+| Victor Rojas                       | [VRojas1603](#)       | L                                           | L                                           |  C                                           |           A                                  |                                             |C
+| Joaquin Cuentas                    | [JoaCUPE](#)          | L                                           | C                                           | L                                           | L                                           | L       
+| Pablo Martinez                    | [Delzekl](#)          | C                                           | L                                           | C                                           | C                                           | L       
+
+##### 5.2.2.3. Sprint Backlog 2.
+
+En esta sección se presenta el Sprint Backlog 2, correspondiente al segundo ciclo de desarrollo del proyecto. Este backlog contiene las tareas priorizadas y estimadas que el equipo debe ejecutar para alcanzar el objetivo principal del sprint.
+El objetivo principal de este sprint es el desarrollo del frontend interactivo para las aplicaciones web de PsychoTest, utilizando Angular para la creación de interfaces dinámicas y funcionales. Además, se implementarán conexiones básicas con los servicios backend y el despliegue en Firebase.
+
+| **User Story ID** | **Title** | **Task ID** | **Task Title** | **Description** | **Estimation (Hours)** | **Assigned to** | **Status** |
+|-------------------|----------------------------------------------------|-------------|----------------------------------------------|----------------------------------------------------------------------------------|------------------------|----------------------|---------------|
+| US-08 | Consulta de resultados anteriores desde el menú | T01 | Diseñar interfaz del dashboard de resultados | Crear una vista en el dashboard que muestre un resumen de resultados anteriores de tests con gráficos simples. | 6 | Victor Rojas | To Do |
+| US-08 | Consulta de resultados anteriores desde el menú | T02 | Implementar carga de datos históricos | Conectar el dashboard con la API para recuperar y mostrar los resultados de tests previos del estudiante. | 5 | Victor Rojas | To Do |
+| US-08 | Consulta de resultados anteriores desde el menú | T03 | Agregar filtros por fecha y tipo de test | Incorporar opciones de filtrado en el dashboard para ordenar resultados por fecha o categoría de test. | 4 | Victor Rojas | To Do |
+| US-09 | Edición de información personal | T01 | Crear formulario de edición de perfil | Diseñar un formulario en el dashboard que permita al estudiante actualizar su nombre, correo y datos personales. | 5 | Joaquin Cuentas | To Do |
+| US-09 | Edición de información personal | T02 | Implementar validación de datos | Añadir validaciones en el frontend para asegurar que los datos ingresados (e.g., correo válido) sean correctos antes de enviarlos. | 4 | Pablo Martinez | To Do |
+| US-09 | Edición de información personal | T03 | Conectar formulario con API de actualización | Integrar el formulario con la API para guardar los cambios en el perfil del estudiante en la base de datos. | 6 | Pablo Martinez | To Do |
+| US-19 | Notificación de test completado | T01 | Diseñar componente de notificaciones | Crear un componente en el dashboard que muestre notificaciones de tests completados con un diseño claro y accesible. | 4 | Pablo Martinez | To Do |
+| US-19 | Notificación de test completado | T02 | Implementar lógica de notificación | Conectar con la API para detectar la finalización de un test y mostrar una notificación en tiempo real. | 5 | Pablo Martinez | To Do |
+| US-19 | Notificación de test completado | T03 | Agregar historial de notificaciones | Diseñar una sección en el dashboard para ver un listado de notificaciones pasadas relacionadas con tests. | 6 | Joaquin Cuentas | To Do |
+| US-28 | Listado de psicólogos con perfil resumido | T01 | Crear interfaz del catálogo de psicólogos | Diseñar una vista en el dashboard que muestre una lista de psicólogos con su nombre, especialidad y disponibilidad en formato de tarjetas. | 6 | Jonathan Saavedra | To Do |
+| US-28 | Listado de psicólogos con perfil resumido | T02 | Implementar carga de datos del catálogo | Integrar la API para obtener y mostrar los perfiles resumidos de los psicólogos en el catálogo. | 5 | Jonathan Saavedra | To Do |
+| US-28 | Listado de psicólogos con perfil resumido | T03 | Añadir funcionalidad de selección | Permitir al estudiante seleccionar un psicólogo desde el catálogo para ver detalles o agendar una sesión. | 4 | Jonathan Saavedra | To Do |
+| US-15 | Introducción explicativa al test | T01 | Diseñar pantalla de introducción al test | Crear una vista en el dashboard que muestre una introducción clara y amigable antes de iniciar un test psicométrico. | 4 | Joaquin Cuentas | To Do |
+| US-15 | Introducción explicativa al test | T02 | Implementar contenido dinámico | Conectar la pantalla de introducción con la API para cargar contenido específico según el test seleccionado. | 5 | Joaquin Cuentas  | To Do |
+| US-15 | Introducción explicativa al test | T03 | Añadir botón de inicio de test | Incorporar un botón interactivo que permita al estudiante comenzar el test desde la pantalla de introducción. | 4 | Joaquin Cuentas  | To Do |
+| US-16 | Interfaz de preguntas clara y simple | T01 | Diseñar interfaz de preguntas | Crear una vista en el dashboard que muestre una pregunta por pantalla con opciones claras y un diseño intuitivo. | 5 | Joaquin Cuentas  | To Do |
+| US-16 | Interfaz de preguntas clara y simple | T02 | Implementar navegación entre preguntas | Añadir botones de "siguiente" y "anterior" para navegar entre las preguntas del test de forma fluida. | 4 | Joaquin Cuentas  | To Do |
+| US-16 | Interfaz de preguntas clara y simple | T03 | Conectar con API para cargar preguntas | Integrar la API para obtener las preguntas y opciones de respuesta del test seleccionado. | 6 | Joaquin Cuentas  | To Do |
+| US-21 | Visualización de diferencias entre plan Free y Premium | T01 | Diseñar vista comparativa de planes | Crear una sección en el dashboard que muestre una tabla o tarjetas comparando las características de los planes Free y Premium. | 5 | Walter Fajardo  | To Do |
+| US-21 | Visualización de diferencias entre plan Free y Premium | T02 | Implementar carga de datos de planes | Conectar con la API para obtener y mostrar los detalles actualizados de los planes Free y Premium. | 4 | Walter Fajardo  | To Do |
+| US-21 | Visualización de diferencias entre plan Free y Premium | T03 | Añadir botón para activar plan Premium | Incorporar un botón que redirija al estudiante a la pantalla de activación del plan Premium. | 4 | Walter Fajardo  | To Do |
+
+LINK DEL TRELLO: https://trello.com/b/vWjVAt4H/sprint-2
+
+#### 5.2.2.4. Development Evidence for Sprint Review. 
+
+Repositorio GitHub creado:
+Nombre del repositorio: project-PsychoTest/Frontend-Web-Applications
+
+
+Organización: Se utilizó GitHub como sistema de control de versiones para alojar el código fuente, garantizar trazabilidad y mantener un entorno colaborativo.
+
+Metodología usada:
+Se aplicó una estructura de ramas sencilla con main como rama principal. El trabajo se hizo directamente sobre dicha rama al tratarse de una implementación estática inicial.
+https://github.com/2025-2-Project-PsychoTest/PsychoTest-WebApp-Frontend
+
+  | Repository                                  | Branch              | CommitID                                 | CommitMessage                                | CommitMessageBody           | Commited on Date |
+|--------------------------------------------|---------------------|-------------------------------------------|------------------------------------------------|------------------------------|------------------|
+| project-PsychoTest/Frontend-Web-Applications | main                | de0169a9ff95afb9006082ceee8bb54bddf7b5fa  | Initial Commit                                | No description provided      | 11/05/2025       |
+| project-PsychoTest/Frontend-Web-Applications | main                | caa88622994addb832c79b0b8fdd6ec692468c0d  | feat: add components to start front           | No description provided      | 11/05/2025       |
+| project-PsychoTest/Frontend-Web-Applications | feature-custom-test | 4fee1e3f7ff96c0be76789f7a4b7f5d497239b44  | feat: create CRUD and front from test catalog | No description provided      | 12/05/2025       |
+| project-PsychoTest/Frontend-Web-Applications | feature-custom-test | bfb36d444220824b5bb2d9fa4fe1864bc94ede8f  | feat: create test content and firebase deployment | No description provided  | 12/05/2025       |
+| project-PsychoTest/Frontend-Web-Applications | feature-premium-plans | d6ab4ac2e134df42dd8a8c1178941d6c409771fb | feat: project structure                       | No description provided      | 13/05/2025       |
+| project-PsychoTest/Frontend-Web-Applications | feature-premium-plans | 6821f05589f65c54fd15050617b716bd9835ccd4 | feat: preview 1                                | No description provided      | 13/05/2025       |
+| project-PsychoTest/Frontend-Web-Applications | feature-premium-plans | 5cbe6a1f71754afd0fc8075f920581e152630a6d | feat: beeceptor                                | No description provided      | 13/05/2025       |
+| project-PsychoTest/Frontend-Web-Applications | feature-custom-test | 0cba6205194105d40e3bf02d5c0ea619f0be8cd4  | feat: update css component                    | No description provided      | 13/05/2025       |
+
+##### 5.2.2.5. Execution Evidence for Sprint Review. 
+Producto desarrollado: Frontend interactivo de PsychoTest
+ Tecnologías utilizadas: Angular, Firebase
+En el segundo sprint, el equipo trabajó en la implementación del frontend interactivo de PsychoTest, centrado en crear una experiencia de usuario dinámica y funcional. A continuación, se detallan los avances realizados:
+Estructura de navegación interactiva: Se implementó un sistema de navegación interactiva utilizando Angular, lo que permite que las secciones de la aplicación sean accesibles de manera fluida.
+
+
+Diseño de interfaces (UI/UX): Se diseñaron y desarrollaron interfaces visuales responsivas para las diferentes secciones de la plataforma, incluyendo el dashboard de estudiantes y psicólogos, adaptadas a dispositivos móviles y de escritorio.
+
+
+Integración básica con backend (API): Se implementaron conexiones básicas con servicios backend para la visualización de datos (por ejemplo, estudiantes activos y psicólogos registrados).
+
+
+Despliegue en Firebase: Se completó el despliegue de la aplicación en Firebase, asegurando que la aplicación estuviera accesible públicamente y pudiera recibir futuros cambios de manera ágil.
+
+
+Componentes de la interfaz: Se crearon componentes reutilizables y modulares dentro de Angular para mejorar la escalabilidad y mantenimiento de la aplicación en futuras iteraciones.
+
+
+Interactividad y flujo de navegación: Se desarrollaron interacciones dinámicas como transiciones entre vistas, carga de datos en tiempo real y formularios interactivos.
+
+**Pablo**
+
+Diseño e implementación de la opción de notificaciones.
+
+![alt text](Assets/TP/crear-notificacion.jpeg)
+<br>
+![alt text](Assets/TP/notificaciones.jpeg)
+
+
+
+
+**Victor**
+Implementación del dashboard de estudiantes:
+<br>
+![alt text](Assets/TP/dashboard.jpeg)
+<br>
+
+**Jonathan**
+Implementación de perfil y preferencias para el segmento de psicólogos:
+<br>
+![alt text](Assets/TP/perfil1.jpeg)
+<br>
+![alt text](Assets/TP/perfil2.jpeg)
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
+
+Durante el Sprint 2, el equipo se centró en el desarrollo de la parte visual y dinámica del frontend de PsychoTest, utilizando Angular para las funcionalidades interactivas y Firebase para el despliegue
+
+Repositorio de Web Services (Planificado para los próximos sprints):
+Se ha preparado el repositorio que se utilizará para el desarrollo de la lógica del backend y para la implementación de los endpoints REST que se necesitarán en los próximos sprints
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
+
+Para este sprint, lo que vamos a necesitar es la página Beeceptor para gestionar nuestras public endpoints. Beeceptor es una herramienta útil para crear endpoints simulados de manera rápida y fácil, lo que nos permitirá tener una interfaz de prueba para las solicitudes y respuestas HTTP
+
+
+1) Beeceptor
+    ![18](Assets/correcciones/18.png)
+    Nos registramos 
+|   ![18](Assets/correcciones/19.png)
+
+    Ya registrados podemos crear nuestras endpoints públicas
+![18](Assets/correcciones/20.png)
+    Y en el serverBasePath: Ponemos la url de nuestro endPoint pública
+![18](Assets/correcciones/21.png)
+
+2) Firebase
+    Firebase es una plataforma de desarrollo de aplicaciones web y móviles proporcionada por Google, diseñada para ayudar a los desarrolladores a crear, gestionar y escalar aplicaciones rápidamente. Firebase ofrece una variedad de servicios que facilitan tanto el desarrollo como la gestión de aplicaciones en tiempo real
+    ![18](Assets/correcciones/22.png)
+
+    Nos registramos con una cuenta de google y vamos a la consola
+    ![18](Assets/correcciones/23.png)
+    Creamos un nuevo proyecto de firebase
+    ![18](Assets/correcciones/24.png)
+    Ponemos un nombre para el proyecto 
+    ![18](Assets/correcciones/25.png)        
+    Vamos al apartado de hosting
+    ![18](Assets/correcciones/26.png)
+    Se configura el firebase hosting en nuestro proyecto de intellij idea
+    ![18](Assets/correcciones/28.png)
+    Con esto ya tendríamos nuestro hosting desplegado
+    con los siguientes comandos 
+    - ng build
+    - sudo npm install -g firebase-tools
+    - firebase login
+    - firebase init
+    - firebase deploy
+
+5.2.2.8. Team Collaboration Insights during Sprint.
+
+Para este sprint, las tareas de diseño, implementación se distribuyeron para todos los integrantes del equipo
+
+#### 5.2.3. Sprint 3
+
+##### 5.2.3.1. Sprint Planning 3.
+
+En este sprint, nos enfocaremos en el desarrollo de la parte visual de la aplicación web, utilizando Angular para la construcción del front-end. El objetivo principal de este sprint es crear las pantallas esenciales de la plataforma, asegurándonos de que la interfaz sea intuitiva, visualmente atractiva 
+
+| **Sprint #**                         | Sprint 3                                           |
+|-------------------------------------|----------------------------------------------------|
+| **Sprint Planning Background**      |                                                    |
+| **Date**                            | 14/11/2025                                         |
+| **Time**                            | 6:00PM                                             |
+| **Location**                        | Virtual - Discord                                  |
+| **Prepared By**                     | Victor Rojas                                       |
+| **Attendees (to planning meeting)** | Joaquín Alberto, Walter Fajardo, Víctor Manuel, Jonathan Saavedra, César Linares  |
+| **Sprint n – 1 Review Summary**     | Se implementó mejoras al frontend |
+| **Sprint n – 1 Retrospective Summary** | El diseño visual y despliegue fueron exitosos, pero se identificaron áreas de mejora en interactividad. |
+| **Sprint Goal & User Stories**      |                                                    |
+| **Sprint 3 Goal**                   | Nuestro enfoque para este sprint es establecer la base central integrada de la plataforma backend PsychoTest, conectando nuestra página de aterrizaje pública con una aplicación frontend y un backend fundamental. Creemos que esta integración proporcionará un punto de entrada fluido para los usuarios a nuestra aplicación y permitirá la gestión esencial de datos, mejorando significativamente la experiencia inicial del usuario y capacitando a nuestro equipo para construir sobre una base sólida. Esto se confirmará cuando los usuarios puedan acceder y navegar la aplicación web principal de forma directa y fluida desde la página de aterrizaje; el backend brinda soporte a operaciones para entidades clave, incluyendo estudiantes, psicógolos, tests, y dashboard; y la plataforma lográ ejecutarse exitosamente para su visualización de los endpoints implementados. |
+| **Sprint n Velocity**               | Por esta oportunidad estaremos aceptando **28 story points** |
+| **Sum of Story Points**             | La suma de Story Points atendidos es de **28 story points** |
+
+
+##### 5.2.3.2. Aspect Leaders and Collaborators. 
+
+En este sprint, nos enfocamos en el desarrollo del backend de las aplicaciones web para PsychoTest y su integración efectiva con el frontend, utilizando servicios API para lograr una comunicación fluida entre ambas capas. Los aspectos clave identificados para este sprint son:
+
+Desarrollo de servicios backend (API REST): Implementación de endpoints necesarios para gestionar los datos y funcionalidades de la plataforma.
+
+Pruebas y validación de funcionalidades: Verificación del correcto funcionamiento de la lógica de negocio y la comunicación entre capas.
+
+Se consideró los aspectos a trabajr como los bounded contexts que SAAS tiene normalmente:
+- Subscriptions and Payments
+- Identity and Preferences
+- Profile and Preferences
+- Asset and Resource Management
+- Service Design and Planning
+- Service Operation and Monitoring
+- Dashboard and Analytics
+
+<table>
+  <tr>
+    <td colspan="2"><strong>Team Member (Last Name, First Name)</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Service Design and Planning<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Assets and Resource Management<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Service Operation and Monitoring<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Subscriptions and Payments<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Dashboard and Analytics<br>Leader (L) / Collaborator (C)</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">Jonathan Saavedra</td>
+    <td> ElrichMasNa</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="2">Victor Rojas </td>
+    <td>VRojas1603</td>
+    <td>-</td>
+    <td>C</td>
+    <td>C</td>
+    <td>-</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td colspan="2"> Joaquin Cuentas </td>
+    <td>JoaCUPE</td>
+    <td>C</td>
+    <td>L</td>
+    <td>-</td>
+    <td>-</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2">César Linares
+</td>
+    <td>Cesar-Linares</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="2">Walter Fajardo </td>
+    <td> WalterFajardo</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="2">Pablo Martinez</td>
+    <td> Delzekl</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+</table>
+
+##### 5.2.3.3. Sprint Backlog 3. 
+
+En esta sección se presenta el Sprint Backlog 3, correspondiente al segundo ciclo de desarrollo del proyecto. Este backlog contiene las tareas priorizadas y estimadas que el equipo debe ejecutar para alcanzar el objetivo principal del sprint.
+El objetivo principal de este sprint es el desarrollo del frontend interactivo para las aplicaciones web de PsychoTest, utilizando Angular para la creación de interfaces dinámicas y funcionales. Además, se implementarán conexiones básicas con los servicios backend y el despliegue en Firebase.
+
+Para la gestión y control de estas tares, estamos utilizando Trello.
+![alt text](<Assets/Chapter 5/sprint3/trello.png>)
+Enlance: https://trello.com/b/4Jws6cIF 
+
+Add commentMore actions
+| **User Story ID** | **Title**                                                 | **Task ID** | **Task Title**                                        | **Description**                                                                                              | **Estimation (Hours)** | **Assigned to** | **Status** |
+|-------------------|-----------------------------------------------------------|-------------|--------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|------------------------|------------------|------------|
+| TS-40             | Estadísticas de uso de la plataforma                      | T01         | Crear endpoint para estadísticas de registros          | Endpoint que retorne el total de usuarios registrados.                                                       | 6                    |  Victor Manuel       | To Do      |
+| TS-40             | Estadísticas de uso de la plataforma                      | T02         | Crear endpoint para estadísticas de tests completados  | Endpoint para obtener la cantidad de tests completados por fecha o usuario.                                  | 6                      |Victor Manuel       | To Do      |
+| TS-40             | Estadísticas de uso de la plataforma                      | T03         | Crear endpoint para estadísticas de sesiones agendadas | Endpoint para mostrar sesiones realizadas y agendadas por periodo.                                           | 5                      | Victor Manuel       | To Do      |
+| TS-47             | Visualización de historial de estudiantes                 | T01         | Endpoint para listar estudiantes por psicólogo         | Obtener estudiantes asignados a un profesional.                                                               | 6                      | Victor Manuel      | To Do      |
+| TS-47             | Visualización de historial de estudiantes                 | T02         | Agregar paginación y filtros al historial              | Filtros por fecha, nombre o estado de la sesión para facilitar la búsqueda.                                   | 6                      | Victor Manuel      | To Do      |
+| TS-47             | Visualización de historial de estudiantes                 | T03         | Documentar endpoints del historial                      | Usar Swagger/OpenAPI para describir los endpoints creados.                                                    | 4                      | Victor Manuel       | To Do      |
+| TS-50             | Gestión de opciones de test psicométrico obsoleto         | T01         | Crear endpoint para agregar opción                     | Permitir al desarrollador crear nuevas opciones para tests obsoletos.                                         | 6                      | Joaquin Cuentas      | To Do      |
+| TS-50             | Gestión de opciones de test vocacional obsoleto         | T02        | Crear endpoint para editar opción                      | Modificar texto o valor de opciones existentes.                                                               | 4                      | Joaquin Cuentas        | To Do      |
+| TS-50             | Gestión de opciones de test vocacional obsoleto         | T03         | Crear endpoint para eliminar opción                    | Eliminar opciones obsoletas del test.                                                                         | 8                      | Joaquin Cuentas       | To Do      |
+| TS-52             | Visualización del contenido en diferentes idiomas         | T01         | Implementar soporte de idiomas en modelos y respuestas | Añadir campos de idioma en respuestas JSON desde el backend.                                                  | 4                      | Joaquin Cuentas        | To Do      |
+| TS-52             | Visualización del contenido en diferentes idiomas         | T02         | Adaptar contenido de planes premium según idioma       | Obtener textos dinámicos en función del idioma del usuario.                                                   | 5                      | Joaquin Cuentas       | To Do      |
+| US-34             | Visualización de apartado de cómo funciona                | T01         | Diseñar estructura visual de la sección                | Maquetar la sección de “Cómo funciona” con bloques informativos.                                              | 6                      | Joaquin Cuentas        | To Do      |
+| US-34             | Visualización de apartado de cómo funciona                | T02         | Agregar contenido explicativo e ilustraciones          | Incluir textos simples con imágenes o íconos que expliquen el flujo de uso.                                   | 4                      | Joaquin Cuentas        | To Do      |
+| US-34             | Visualización de apartado de cómo funciona                | T03        | Adaptar sección para desktop                   | Aplicar diseño responsive para diferentes dispositivos.                                                       | 6                      |Joaquin Cuentas        | To Do      |
+| US-35             | Encabezado de navegación                                  | T01         | Crear barra de navegación en la landing                | Incluir logo y secciones como “Inicio”, “Planes”, “Contacto”, etc.                                            | 5                      | Joaquin Cuentas        | To Do      |
+| US-35             | Encabezado de navegación                                  | T02        | Agregar estilos e íconos a la barra                    | Personalización visual del header usando CSS e íconos.                                                        | 4                      | Joaquin Cuentas         | To Do      |
+| US-06             | Ingreso a tests vocacionales desde el menú               | T01         | Agregar opción “Tests psicométricos” al menú           | Botón en el menú principal que dirija a la sección de tests.                                                  | 4                      | Joaquin Cuentas         | To Do      |
+| US-06             | Ingreso a tests vocacionales desde el menú               | T02        | Conectar el menú con el router de Angular              | Configurar rutas y navegación hacia la vista de tests.                                                        | 7                      | Joaquin Cuentas        | To Do      |
+| US-06             | Ingreso a tests vocacionales desde el menú               | T03         | Validar acceso según autenticación                     | Asegurar que solo usuarios autenticados accedan a la sección.                                                 | 5                      | Joaquin Cuentas         | To Do      |
+| US-15             | Introducción explicativa al test                          | T01         | Crear componente de introducción al test               | Componente de Angular para mostrar instrucciones antes del test.                                              | 7                      | Joaquin Cuentas         | To Do      |Add commentMore actions
+| US-15             | Introducción explicativa al test                          | T02         | Agregar lógica condicional para mostrar la intro       | Solo mostrar la introducción si es la primera vez que se inicia el test.                                      | 5                      | Joaquin Cuentas         | To Do      |
+| US-15             | Introducción explicativa al test                          | T03         | Estilizar el componente con CSS                        | Diseñar la introducción con estilos amigables y visualmente claros.                                           | 5                      | Joaquin Cuentas        | To Do      |
+
+
+##### 5.2.3.4. Development Evidence for Sprint Review. 
+
+Repositorio GitHub creado:
+Nombre del repositorio: project-PsychoTest/PyschoHelp-Backend
+
+
+Organización: Se utilizó GitHub como sistema de control de versiones para alojar el código fuente, garantizar trazabilidad y mantener un entorno colaborativo.
+
+Metodología usada:
+Se aplicó una estructura de ramas sencilla con main como rama principal. El trabajo se hizo directamente sobre dicha rama al tratarse de una implementación estática inicial.
+
+https://github.com/2025-2-Project-PsychoTest/Backend-PsychoTest
+
+
+
+| Repository                          | Branch  | CommitID | CommitMessage                          | CommitMessageBody | Commited on Date |
+|-------------------------------------|---------|----------|----------------------------------------|-------------------|------------------|
+| 2025-2-Project-PsychoTest/Backend-PsychoTest | master  | 2cb6fee | feat: implement more responses         |                   | Nov 14, 2025     |
+| 2025-2-Project-PsychoTest/Backend-PsychoTest | master  | 021d0a6 | feat: implement more exceptions        |                   | Nov 14, 2025     |
+| 2025-2-Project-PsychoTest/Backend-PsychoTest | master  | 8b186af | feat: implement facade                 |                   | Nov 14, 2025     |
+| 2025-2-Project-PsychoTest/Backend-PsychoTest | master  | 2bcce72 | feat: implement controller             |                   | Nov 14, 2025     |
+| 2025-2-Project-PsychoTest/Backend-PsychoTest | master  | ba7bf73 | feat: implement assembler              |                   | Nov 14, 2025     |
+| 2025-2-Project-PsychoTest/Backend-PsychoTest | master  | 607cce0 | feat: implement handler                |                   | Nov 14, 2025     |
+| 2025-2-Project-PsychoTest/Backend-PsychoTest | master  | b53dd98 | feat: implement repositories           |                   | Nov 14, 2025     |
+| 2025-2-Project-PsychoTest/Backend-PsychoTest | master  | 9012075 | feat: implement command and query services interfaces | | Nov 14, 2025     |
+| 2025-2-Project-PsychoTest/Backend-PsychoTest | master  | f33e27f | feat: implement command service        |                   | Nov 14, 2025     |
+| 2025-2-Project-PsychoTest/Backend-PsychoTest | master  | d754be2 | feat: implement query service          |                   | Nov 14, 2025     |
+| 2025-2-Project-PsychoTest/Backend-PsychoTest | master  | d5fd9b6 | feat: implement command                |                   | Nov 14, 2025     |
+| 2025-2-Project-PsychoTest/Backend-PsychoTest | master  | d30f47c | feat: implement queries                |                   | Nov 14, 2025     |
+| 2025-2-Project-PsychoTest/Backend-PsychoTest | master  | 81bc9e9 | feat: implement value objects          |                   | Nov 14, 2025     |
+| 2025-2-Project-PsychoTest/Backend-PsychoTest | master  | 4e03265 | feat: implement aggregates             |                   | Nov 14, 2025     |
+| 2025-2-Project-PsychoTest/Backend-PsychoTest | master  | 37c547f | Merge branch 'dashboard-analytics' into develop |           | Nov 14, 2025     |
+| 2025-2-Project-PsychoTest/Backend-PsychoTest | master  | 38f37ca | change application name and reference  |                   | Nov 12, 2025     |
+| 2025-2-Project-PsychoTest/Backend-PsychoTest | master  | a5eb938 | Merge branch 'feature01-testing' into develop |           | Nov 12, 2025     |
+| 2025-2-Project-PsychoTest/Backend-PsychoTest | master  | 2cf0a55 | change db name                         |                   | Nov 12, 2025     |
+| 2025-2-Project-PsychoTest/Backend-PsychoTest | master  | 5837586 | Initial commit                         |                   | Nov 12, 2025     |
+
+
+##### 5.2.3.5. Execution Evidence for Sprint Review.
+En esta sección se presentan las evidencias de la ejecución de la plataforma para el sprint 3.
+En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint.
+
+<br>Endpoints relacionados a la creación y administración de un examen en particular.
+![alt text](Assets/TB2/1.png)
+<br><br>Endpoints relacionados a la busqueda de exámenes.
+![alt text](Assets/TB2/2.png)
+<br><br>Endpoints relacionados a la administración de los paneles principales de los usuarios de la aplicación web.
+![alt text](<Assets/Chapter 5/sprint3/aplicacion1.png>)
+
+
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+
+<p>A continuación, se detallan los controladores y sus respectivos endpoints documentados:</p>
+
+**<h4>Profile Dashboard and Analytics</h4>**
+<p>Se encarga de recuperar la información necesario para mostrar en los dashboard de cada usuario.</p>
+
+| Method | Endpoint                                         | Description                                                                 |
+|--------|--------------------------------------------------|-----------------------------------------------------------------------------|
+| GET    | /api/analytics/student/test-progress             | Obtiene el progreso de los tests realizados por un estudiante.              |
+| GET    | /api/analytics/student/overview                  | Proporciona una visión general del rendimiento académico del estudiante.    |
+| GET    | /api/analytics/student/career-recommendations    | Genera recomendaciones de carrera basadas en los resultados del estudiante. |
+| GET    | /api/analytics/psychologist/shared-info-insights | Muestra información compartida y análisis útiles para el psicólogo.         |
+| GET    | /api/analytics/psychologist/overview             | Proporciona una visión general de los datos y métricas del psicólogo.       |
+| GET    | /api/analytics/psychologist/appointment-summary  | Resume las citas y sesiones gestionadas por el psicólogo.                   |
+
+
+
+<br>
+
+
+**Exams - Exam Management Endpoints**
+
+| Method | Endpoint                                      | Description                              |
+|--------|-----------------------------------------------|------------------------------------------|
+| GET    | `/api/v1/exams`                               | Fetch all exams                          |
+| POST   | `/api/v1/exams`                               | Add a new exam                           |
+| POST   | `/api/v1/exams/{examId}/question-assing`      | Add a new Question into the exam         |
+| GET    | `/api/v1/exams/{examId}`                      | Obtener examen por ID                    |
+
+---
+
+
+**ExamQuestions - Exam Questions Management Endpoints**
+
+| Method | Endpoint                                         | Description                                       |
+|--------|--------------------------------------------------|---------------------------------------------------|
+| GET    | `/api/v1/exam-question`                          | Fetch all exam questions                         |
+| POST   | `/api/v1/exam-question`                          | Add a new exam question                          |
+| GET    | `/api/v1/exam-question/{examQuestionID}`         | Get specific exam question by ID                 |
+
+---
+
+**ExamViews - Exam Views Management Endpoints**
+
+| Method | Endpoint                                            | Description                                |
+|--------|-----------------------------------------------------|--------------------------------------------|
+| GET    | `/api/v1/examviews/{examviewCode}`                  | Get exam view by code                      |
+| PUT    | `/api/v1/examviews/{examviewCode}`                  | Update exam view by code                   |Add commentMore actions
+| DELETE | `/api/v1/examviews/{examviewCode}`                  | Delete exam view by code                   |
+| GET    | `/api/v1/examviews`                                 | Fetch all exam views                       |
+| POST   | `/api/v1/examviews`                                 | Add a new exam view                        |
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+Aplicación web desplegada: 
+https://pyschohealth.web.app/
+<br><br>Interfaz de bienvenida del estudiante
+![estudiante1](<Assets/Chapter 5/sprint3/estudiante1.png>)
+<br><br> Panel principal del estudiante donde puede ver su progreso en la aplicación
+![estudiante2](<Assets/Chapter 5/sprint3/estudiante2.png>)
+<br><br> Interfaz de busqueda de tests o exámenes vocacionales disponibles
+![alt text](Assets/TB2/6.png)
+<br><br> Interfaz principal de un examen en donde se ven las preguntas que contiene
+![alt text](Assets/TB2/7.png)
+<br><br> Interfaz de bienvenida para el psicólogo
+![psicologo1](<Assets/Chapter 5/sprint3/psicologo1.png>)
+##### 5.2.3.8. Team Collaboration Insights during Sprint.
+**Frontend**
+![alt text](<Assets/Chapter 5/sprint3/front1.png>)
+
+![alt text](<Assets/Chapter 5/sprint3/front2.png>)
+
+**Backend**
+![alt text](<Assets/Chapter 5/sprint3/back1.png>)
+
+![alt text](<Assets/Chapter 5/sprint3/back2.png>)
+##### 5.3. Validation Interviews.
+
+##### 5.3.1. Diseño de Entrevistas.
+**Entrevistas por Segmento - Plataforma PsychoTest**
+
+Segmento: Estudiantes
+- ¿Qué tan fácil te resultó registrarte y entender el propósito de PsychoTest?
+
+- ¿La sección de tests vocacionales fue clara y accesible desde el inicio?
+
+- ¿El informe de resultados te pareció útil con la explicación brindada?
+
+- ¿De que manera te sirvió la información en el panel principal del estudiante?
+
+- ¿La interfaz te motivó a continuar explorando tu perfil vocacional?
+
+- ¿Te pareció clara la sección de “Mi perfil” y sus recomendaciones?
+
+- ¿Pudiste revisar tus resultados anteriores sin dificultad?
+
+- ¿Confiaste en la plataforma para recibir orientación profesional?
+
+- ¿El diseño de la aplicación te pareció moderno y fácil de usar?
+
+- ¿Qué mejorarías en la experiencia visual o funcional como estudiante?
+
+Segmento: Psicólogos
+- ¿Fue clara la información sobre cómo funciona la plataforma desde el inicio?
+
+- ¿El panel de control te permitió gestionar adecuadamente tus sesiones?
+
+- ¿Te pareció útil el historial de estudiantes atendidos y sus progresos?
+
+- ¿La opción para calificar o hacer comentarios sobre los tests fue fácil de usar?
+
+- ¿Consideras útil ver el perfil vocacional del estudiante antes de una sesión?
+
+- ¿Pudiste editar tu disponibilidad horaria sin problemas?
+
+- ¿La plataforma facilita la comunicación con los estudiantes?
+
+- ¿El diseño de tu perfil profesional te pareció apropiado y personalizable?
+
+- ¿Confías en PsychoTest como canal de atracción de nuevos estudiantes?
+
+- ¿El módulo de reportes te ayuda a evaluar la evolución de tus estudiantes?
+
+- ¿La plataforma te notifica con tiempo sobre las próximas sesiones?
+
+- ¿Qué funcionalidades crees que faltan para mejorar tu experiencia como psicólogo?
+
+##### 5.3.2. Registro de Entrevistas.
+| Entrevista 1: Estudiante                            |                                                                                                                                                                  |
+|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                 | Joseph                                                                                                                                                    |
+| Edad                                                | 18                                                                                                                                                               |                                                                                                                                     |
+| Departamento                                        | Lima                                                                                                                                                             |
+| Dispositivo utilizado                               | Móvil, laptop                                                                                                                                                        |
+| Duración de la Entrevista                           | 5:06                                                                                                                                                             |
+| Análisis de la Entrevista                       |                                                                                                                                                                  |
+| Visualización de Landing Page                       | Muy bien hecha, contiene información relevante para entender la aplicación web.                                                                                                                           |
+| Dashboard y navegación                              | Fácil navegación e intuitivo doseño me permiten conocer las funcionalidades de la aplicación rapidamente. |
+| Seleccion de tests                            | Sencillo y bastante intuitivo. Pude ver los tests rapidamente.                                        |
+| Visualización de los Tests y sus preguntas | Bien hecha, me agradó el hehco de que puedo ver una retroalimentación luego dar las preguntas para tener un mejor entendimiento de las preguntas después de dar el test.                                   |
+| Entrevista 2: Estudiante                            |
+| Nombre Entrevistado                                 | Miguel Vasquez                                                                                                                                                   |
+| Edad                                                | 18                                                                                                                                                               |                                                                                                                                     |
+| Departamento                                        | Lima                                                                                                                                                             |
+| Dispositivo utilizado                               | Móvil, PC                                                                                                                                                        |
+| Duración de la Entrevista                           | 4:08                                                                                                                                                             |
+| Análisis de la Entrevista                       |                                                                                                                                                                  |
+| Visualización de Landing Page                       | Buna información y previzualización de la aplicación web para poder entender mejor su funcionalidad antes de registrarse.                                                                                                                           |
+| Dashboard y navegación                              | Su sencillez es su punto fuerte al no estar cargada de información. Hace ce falta mejorar la visualización en PC en otras secciones pues en móvil si se ve bien. |
+| Seleccion de tests                            | Sencillo y bastante intuitivo. Me gustó el hecho de poder ver una previsualización de la publicación que estoy por crear.                                        |
+| Visualización de los Tests y sus preguntas | Muy bien hecha y fácil de usar, no implementan una interfaz demasiado cargada de colores o diseños los cuales pueden distraer a la hora de dar el test.                       |
+
+##### 5.3.3. Evaluaciones según heurísticas.
+
+Evaluación Heurística de PsychoTest
+Carrera: Ingeniería de Software
+Curso: Desarrollo de Aplicaciones Open Source
+Auditor: PsychoTest
+Plataforma evaluada: PsychoTest – Plataforma Web
+
+**Tareas evaluadas**
+- Comprender el propósito de la plataforma al ingresar
+
+- Realizar registro como estudiante o psicólogo
+
+- Iniciar un test vocacional y navegar por sus preguntas
+
+- Visualizar resultados y recomendaciones de carrera
+
+- Agendar una sesión con un psicólogo
+
+- Acceder al historial de tests y sesiones
+
+- Interacción de psicólogos con el perfil del estudiante
+
+- Ver disponibilidad de psicólogos y agendar citas
+
+- Recibir notificaciones y recordatorios de sesiones
+
+- Acceder a recursos vocacionales y sugerencias personalizadas
+
+| #  | Problema detectado                                                                 | Severidad | Heurística/Principio violado                                      |
+|----|-------------------------------------------------------------------------------------|-----------|-------------------------------------------------------------------|
+| 1  | Falta de guía clara tras registrarse                                               | 2         | Reconocer en lugar de recordar                                    |
+| 2  | Íconos sin etiquetas accesibles o tooltips                                         | 3         | Diseño inclusivo / Ayuda y documentación                          |
+| 3  | Jerarquía visual débil en botones clave                                            | 2         | Visibilidad y jerarquía visual                                    |
+| 4  | Ambigüedad en elección de rol (psicólogo/estudiante)                              | 3         | Prevención de errores / Control del usuario                       |
+| 5  | Informe de resultados sin conexión evidente con carreras                          | 2         | Correspondencia entre sistema y el mundo real                     |
+| 6  | Historial de tests sin marcadores visuales recientes                               | 2         | Visibilidad del estado del sistema                                |
+| 7  | Falta de retroalimentación visual en acciones de perfil                            | 3         | Visibilidad del estado del sistema                                |
+| 8  | Sin opción para comparar resultados pasados del test                               | 2         | Flexibilidad y eficiencia de uso                                  |
+| 9  | Poca personalización en la experiencia del estudiante                              | 2         | Reconocer en lugar de recordar / Personalización del contenido    |
+| 10 | Contraste bajo en modo claro                                                       | 3         | Diseño inclusivo                                                  |
+| 11 | Políticas de privacidad poco visibles al agendar sesión                            | 2         | Ayuda y documentación / Seguridad del usuario                     |
+| 12 | Botón para contactar psicólogo poco visible al finalizar test                      | 2         | Visibilidad / Consistencia y estándares                           |
+
+
+
+**Descripción de problemas clave**
+
+### Problema #2: Íconos sin etiquetas accesibles o tooltips
+- **Severidad:** 3
+- **Heurística violada:** Diseño inclusivo / Ayuda y documentación
+- **Descripción:** Íconos como “Ver resultados”, “Mi perfil”, o “Agendar sesión” no tienen texto alternativo ni descripciones que permitan su comprensión con lector de pantalla.
+- **Recomendación:** Añadir `alt`, `aria-label` o tooltips visibles para mejorar la accesibilidad.
+
+---
+
+### Problema #4: Ambigüedad en elección de rol (psicólogo/estudiante)
+- **Severidad:** 3  
+- **Heurística violada:** Prevención de errores / Control del usuario
+- **Descripción:** En el registro inicial no se valida de forma clara si el usuario seleccionó correctamente su rol, lo que puede afectar la navegación posterior.
+- **Recomendación:** Añadir confirmación visual clara y posibilidad de corregir el rol antes de finalizar el registro.
+
+
+## 5.4. Video About-the-Product.
+
+
+<br>El enlace al video about the product se encuentra en los anexos.
+
+# Conclusiones
+A lo largo del desarrollo del modelo de negocio digital PsychoTest, hemos logrado validar la necesidad real y urgente de soluciónes digitales para estudiantes que esten en un estado de confución sin saber a que dedicarse luego de terminar el colegio y para psicologos que busquen conectar de manera más eficiente y rapida con sus paciente.
+
+
+Se logró validar las necesidades de nuestros usuarios objetivos y diseñar un producto más alineado a ellos gracias a múltiples herramientas como el User Persona, User Task Matrix, As-Is y To-Be Scenarios.
+A partir de esto hemos desarrollado historias de usuario que nos servirán para tener en cuenta las funcionalidades que implementaremos en las siguientes tareas. Hemos diseñado también nuestra Landing Page y Web Aplication en herramientas de diseño colaborativas.
+
+Algunas recomendaciones que tomamos en cuenta que podrían impulsar el desarrollo y crecimiento en el mercado de PsychoTest son:
+- Desarrollar un MVP centrado en funciones clave: alertas de citas, historial de citas pasadas.
+- Realizar pruebas piloto en campo con usuarios reales antes del lanzamiento masivo.
+
+Este trabajo ha demostrado que PsychoTest no solo resuelve un problema real, sino que tiene el potencial de transformar la forma en que los estudiantes logrann encontrar su vocación por medios digitales en el Perú. Los próximos pasos deberán enfocarse en escalar esta solución de manera sostenible y centrada en el usuario.
+
+# Recomendaciones
+
+- Fomentar una validación continua con usuarios reales antes de cada nueva iteración, especialmente para asegurar la claridad del flujo de registro y test.
+- Implementar mejoras de accesibilidad visual (contraste, tooltips, navegación con teclado) para asegurar una experiencia inclusiva.
+- Automatizar más tareas repetitivas (como generación de reportes vocacionales) para aumentar eficiencia del equipo y experiencia del usuario.
+- Documentar los aprendizajes de cada sprint de forma sistemática para que el equipo pueda identificar patrones de mejora continua.
+- Diseñar una estrategia de personalización del contenido para estudiantes, basada en sus resultados y progreso dentro de la plataforma.
+
 # Conclusiones
 Para esta entrega se logró los avances de los puntos solicitados hasta el capitulo 5 de manera satisfactoria, logrando la primera versión del landing page sobre el negocio junto con sus caracteristicas principales para que nuestros usuarios objetivos tengan una mejor idea acerda de nuestro proyecto.
 
@@ -2184,5 +2821,9 @@ W3Schools. (n.d.). *HTML style guide and coding conventions*. https://www.w3scho
 # Anexos.
 - Organización de Github: https://github.com/2025-2-Project-PsychoTest
 - Landing Page desplegada: https://2025-2-project-psychotest.github.io/PsychoTest-LandingPage/
+- Repositorio de Frontend: https://github.com/2025-2-Project-PsychoTest/PsychoTest-WebApp-Frontend
+- Repositorio de Backend: https://github.com/2025-2-Project-PsychoTest/Backend-PsychoTest 
+- Video exposición: https://drive.google.com/drive/folders/1Hia8mFQq0qycTt0RPiMUigp4G_dmVJ_B 
+- Video About the product: https://drive.google.com/drive/folders/1fS7MOVJYFrnzVYECGklK_SVhTHZ96SAt?usp=sharing
 
 
